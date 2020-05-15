@@ -1,14 +1,14 @@
-#Basics of configurations #
+# Basics of configurations #
 
-##Configurability
+## Configurability
 The less dependen on "magic" that you are the more your skills can translate to other systems.
 
 Fancy vimrcs don't translate to different systems. (especially true for plugins)
 
 ###Vim's greatest propsition is that you have access to it everywhere
 If you need it to do something fancy, you can throw a script
-(try :.! date)
-or in Normal Mode, type '!! date'
+```(try :.! date)```
+or in Normal Mode, type ```'!! date'```
 
 >output:
 >Thu, May 14, 2020  7:24:00 PM
