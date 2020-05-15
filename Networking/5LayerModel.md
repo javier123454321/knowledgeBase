@@ -8,14 +8,16 @@ Specs for network cables and how signals are sent between devices
 Defining a common way to interpret signals in network devices.
 Ethernet define protocol to get data to nodes.
 
-## Network Layer ##
+## 3 Network Layer ##
+IP - the heart of the internet
 Gets the data from one location to the next one. 
 
 ### client vs server ###
 client initiates the request where the server receives. These are the nodes.
+A node might run multiple applications simultaneously. 
 
 ## 4 Transport Layer ##
-TCP - Transfer Control Protocol
+TCP - Transmission Control Protocol
 UDP - User Datagram Protocol
 
 Tcp ensures that the data is being delivered to the server. Ensures that the data gets to the right applications running on the nodes.
