@@ -22,3 +22,5 @@ the .bashrc is loaded on the default and sometimes it is not set up to be editab
 
 Aliases don't make commands, they replace the characters that you are typing with their alias.
 if you want to disable the alias, you just write '\' before the word you are typing.
+
+set-o allows you to kind of use vi to browse your history
