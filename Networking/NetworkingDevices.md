@@ -9,10 +9,10 @@ Cat 1, Cat 5, etc
 
 How a cable is twisted affects how the current is being sent.
 
-#### Cross Talk ####
+##### Cross Talk ####
 Signals that are picked up by other cables
 
-### Fiber ###
+#### Fiber ###
 Tubes of glass that use pulses of light to represent the underlying data.
 Quicker but more expensive and brittle.
 
@@ -21,10 +21,10 @@ Cables allow you to connect two nodes.
 
 A Hub is a physical layer device which allow for connections for multiple devices at once.
 
-### Collision Domain ###
+#### Collision Domain ###
 Only one device can send data at the same time. It shuts down if many devices send
 
-### Network Switch ###
+#### Network Switch ###
 A device that lives on the Data Layer, inspects the contents of teh ethernet request and sends data to the appropriate place.
 
 ## Routers ##
@@ -40,6 +40,6 @@ There can be dozens of routers involved in a simple request.
 Servers provide data to something requesting that data. Computer programs can be servers and clients to each other. Almost all Nodes are Servers and Clients at one point.
 
 Sometimes we refer to an email server when it is also a client to a dns server. 
-*We use the words (client or server) to describe the primary purpose of our network nodes*
+**We use the words (client or server) to describe the primary purpose of our network nodes**
 
 

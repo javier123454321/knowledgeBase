@@ -12,7 +12,7 @@ Ethernet define protocol to get data to nodes.
 IP - the heart of the internet
 Gets the data from one location to the next one. 
 
-### client vs server ###
+#### client vs server ###
 client initiates the request where the server receives. These are the nodes.
 A node might run multiple applications simultaneously. 
 
