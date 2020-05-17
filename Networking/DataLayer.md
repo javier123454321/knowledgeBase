@@ -40,3 +40,22 @@ Uses Address Resolution Protocol to determine what to do with the signal
 #### Data Packets 
 binary data sent accross a network link
 
+All sections of an ethernet frame are mandatory
+
+Preamble is 8 bytes and can be split into 3 sections
+the first parts are set up to synchronize
+
+then the Start Frame Deliver
+
+A VLAN header 
+if it is present it signifies that the ethernet is coming
+
+A single physical network that operates like multiple LANs.
+
+After is the payload of an Ethernet frame, everything that isnt a header.
+
+Frame Checksequence. Checksum that the receiver uses to check for uncorrupted data
+
+CRC used to verify the checksum on both ends. Ethernet only looks at the transport, not the verification. 
+
+
