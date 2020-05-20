@@ -1,5 +1,7 @@
 # AWS EC2
-[aws.amazon.com]aws.amazon.com/ecs/instance-types/
+[aws.amazon.com] aws.amazon.com/ecs/instance-types/
+#### EC2 is a full computer on the cloud
+EVERY other service that amazon has, you can build with EC2.
 
 ## Elastic Compute Cloud
 Secure resizeable compute capacity in the cloud.
@@ -77,5 +79,12 @@ You can mount multiple EBS volumes to EC2s in the same availability zones.
 
 You can only have one EC2 per Storage. You cant connect the storage to multiple computers.
 
-Incremental backups - ifyou are paying for an image of 30 Gbs,if the next image is 30+3Gb,you only pay for the extra 3e:wq
+Incremental backups - ifyou are paying for an image of 30 Gbs,if the next image is 30+3Gb,you only pay for the extra 3gbs
+
+### Security Groups
+Type   |   Protocol   |   Port Range   |   IP-Range   |   Notes 
+ssh	 		TCP/UDP			22			   0.0.0.0/0	
+  										 CIDR standard
+										[#NetworkLayer.md]
+
 
