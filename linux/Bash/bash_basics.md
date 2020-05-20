@@ -63,4 +63,3 @@ ouputs
 
 ### Command Substitution
 using the `$()` pattern tells the shell to do a command, it is also applicable with the \` (or backtic)
-

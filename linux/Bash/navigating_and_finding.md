@@ -33,3 +33,5 @@ size uses +m to declare > 1mb
 
 You can chain find commands and use logical operators.
 
+### GREP
+allows you to filter the stdout by given name
