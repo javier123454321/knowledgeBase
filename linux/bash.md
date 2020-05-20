@@ -45,4 +45,19 @@ However, be careful if you want to redirect the errors to a file you'd have to r
 ### Tee
 takes the stdin and and inputs it to the next command. 
 
+### Arithmetic Expressions
+Take the following form `$((expression))`
+
+i.e. `$echo $((4 + 4))` outputs $8 these can be nested `echo $(($((5+2))+3))` outputs `10`
+
+### Brace expansion
+
+you can use {} to make a sequence of outputs as dictated by the vlue within the braces.
+`$ echo Number_{1..5}`
+ouputs
+`Number_1 Number_2 Number_3 Number_4 Number_5` it understands a comma separated list or a range.
+{z...a} is valid as well as {001...10}
+
+### Command Substitution
+using the `$()` pattern tells the shell to do a command, it is also applicable with the \` (or backtic)
 
