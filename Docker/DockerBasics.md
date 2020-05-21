@@ -30,3 +30,10 @@ Host > Docker Engine - Container 1 with Binaries
 		\
 		Container 2 with Binaries
 
+### Docker Images
+A read only template used to create containers
+
+Contains all the dependencies for a microservice - can be created or pulled
+
+### Containers 
+The runtime of docker images.
