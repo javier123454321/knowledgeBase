@@ -3,7 +3,7 @@
 JS has built in array operators. Allows you to modify and operate on the data.
 
 ## forEach
-the `forEach` operator allows you to do something to each item in the array.
+the `forEach()` operator allows you to do something to each item in the array.
 Takes in a callback function.
 
 ```js
@@ -44,3 +44,4 @@ numbers.forEach(doubleNumbers)
 
 console.log(doubleArray) // outputs [2,4,6,8,10]
 ```
+However, to do the above, and return a new array, you are better off using the `map()` operator.
