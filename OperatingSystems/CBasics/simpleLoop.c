@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <sys/time.h>
 #include <assert.h>
-#include "common.h"
 
 int
 main(int argc, char *argv[])

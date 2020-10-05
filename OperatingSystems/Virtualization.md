@@ -20,3 +20,17 @@ process. The process then behaves as though it has access to the entire memory
 space of the machine and it effectively does have complete access to the virtual
 machine. The actual physical hardware however, is compartamentalzing the avcailable
 physical memory to each process.
+
+## Persistence
+
+Whereas data in memory is lost easily, a technique is needed to store
+data that persists and can be accessed at any point. The hardware is
+referred to as the Hard Drive, and the software is referred to as the
+FileSystem. Because you are interested in sharing files accross different
+processes, you don't want to virtualize the space in whick persistent
+bits of data to be stored are kept.
+
+Data is stored to the hard disk via system calls (API requests to the
+file system by a program). Then drivers take the job and complicated
+logic of writing to the disk, but abstract it away from that which is doing
+the request. 
