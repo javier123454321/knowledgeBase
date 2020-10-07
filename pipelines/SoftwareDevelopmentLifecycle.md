@@ -16,7 +16,7 @@ Can be lacking in many projects.
 ## Design
 Can come before the requirement analysis
 
-### Software Design is the process of defining software solutions to one or more sets of proplems
+### Software Design is the process of defining software solutions to one or more sets of problems
 Software Architecture is part of it, design is not just graphic. User flow, ease of use, where, why, how.
 
 ## Development

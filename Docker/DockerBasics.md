@@ -5,7 +5,7 @@ Development often breaks when you change the working environment.
 ### Microservices
 Applications that run independently of each other. (Small processes that communicate over a network)
 
-They often dont use the full capacity of the [[virtual machine]] that it is hosted on.
+They often dont use the full capacity of the [Virtual Machine](Virtualization.md) that it is hosted on.
 
 Advantages:
 - applications can be easier to maintain if split up

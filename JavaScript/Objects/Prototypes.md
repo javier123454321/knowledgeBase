@@ -1,6 +1,6 @@
 # Javascript Object Prototypes
 
-JS has the ability to assign a value to an abject upon its creation.
+JS has the ability to assign a value to an object upon its creation.
 
 i.e.:
 ```js

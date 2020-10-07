@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "virtual machine.md",
+            "file": "Networking/5LayerModel.md",
             "mode": "source"
           }
         }
@@ -43,6 +43,14 @@
                 "query": ""
               }
             }
+          },
+          {
+            "id": "eae7d2431386ccd2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
@@ -64,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "virtual machine.md"
+                "file": "Networking/5LayerModel.md"
               }
             }
           }
@@ -76,15 +84,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "virtual machine.md",
-    "OperatingSystems/Virtualization.md",
-    "Docker/DockerBasics.md",
-    "Networking/DataLayer.md",
+    "Networking/5LayerModel.md",
+    "linux/hardware.md",
+    "JavaScript/WhyIsJavaScriptWeird.md",
+    "JavaScript/AnonymousFunction.md",
+    "JavaScript/Objects/Prototypes.md",
+    "JavaScript/Closures/Closures.md",
     "JavaScript/ArrayOperators/Map.md",
-    "JavaScript/Closures/basics.md",
     "JavaScript/ArrayOperators/forEach.md",
-    "Networking/PhysicalLayer.md",
-    "Networking/InteriorGatewayProtocols.md",
-    "Networking/5LayerModel.md"
+    "JavaScript/ArrayOperators/array operators.md",
+    "Docker/DockerBasics.md"
   ]
 }

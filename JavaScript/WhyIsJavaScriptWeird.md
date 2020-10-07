@@ -121,7 +121,7 @@ The second message ("button clicked") is the output after a button click, meanin
 
 This allows Node to be so performant, making it only call the parts of memory which are necessary to perform for that portion of the application.
 
-## JS keeps its state in Memory after a Function has been executed (Closures)
+## JS keeps its state in Memory after a Function has been executed ([Closures](Closures.md))
 
 
 Take the example of the function above, but wrap it into an initializing function:
@@ -194,5 +194,5 @@ to free that memory space back up (garbage collection).
 
 **Closure** is a refrence to the place in memory that is kept 'alive' after the the function has finished running (even if it will not be called again)
 
-## Scope
+## [[Scope]]
 JavaScript allows you to call variables 
