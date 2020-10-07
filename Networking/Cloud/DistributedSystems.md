@@ -15,7 +15,7 @@ The Machines have a shared state, but can fail independently.
 - **Observability** - Dificulty in understanding what is happening in each piece and how it connects to the rest of the system
 - **Management & Overhead** - You gotta manage everything, changes updates and connections. 
 
-A Number of things in devops can be more difficult, but if the focus is site reliability, it can be better. Centralized servers are better fr management and overhead.
+A Number of things in devops can be more difficult, but if the focus is site reliability, it can be better. Centralized [[Servers]] are better fr management and overhead.
 
 ### Types of Systems
 

@@ -5,7 +5,7 @@ The less dependen on "magic" that you are the more your skills can translate to 
 
 Fancy vimrcs don't translate to different systems. (especially true for plugins)
 
-###Vim's greatest propsition is that you have access to it everywhere
+###[[Vim]]'s greatest propsition is that you have access to it everywhere
 If you need it to do something fancy, you can throw a script
 ```(try :.! date)```
 or in Normal Mode, type ```'!! date'```

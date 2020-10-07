@@ -1,17 +1,17 @@
 # Interior Gateway Protocols
 
-Routers use **Routing Protocols** routers communicate what is the best path to anywhere in the planet/ 
+Routers use **[[Routing]] Protocols** routers communicate what is the best path to anywhere in the planet/ 
 
-### Routing Protocols
+### [[Routing]] Protocols
 1. Interior gateway protocols
-	- link state routing protocols
+	- link state [[Routing]] protocols
 	- distance vector protocols
 1. Exterior Gateway Protocols
 
 ### Interior Gateway Protocols
 
 #### Distance Vector Protocols
-Routers take its routing table and send a list(vector) of hop information (distance) to each other.
+Routers take its [[Routing]] table and send a list(vector) of hop information (distance) to each other.
 
 Router A can have a bunch of entries.  
 i.e. r1 > r2 > r3 > destination router

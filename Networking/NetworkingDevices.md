@@ -36,8 +36,8 @@ Core routers share data around the Border Gateway Protocol BGP
 
 There can be dozens of routers involved in a simple request. 
 
-## Servers ##
-Servers provide data to something requesting that data. Computer programs can be servers and clients to each other. Almost all Nodes are Servers and Clients at one point.
+## [[Servers]] ##
+[[Servers]] provide data to something requesting that data. Computer programs can be [[Servers]] and clients to each other. Almost all Nodes are [[Servers]] and Clients at one point.
 
 Sometimes we refer to an email server when it is also a client to a dns server. 
 **We use the words (client or server) to describe the primary purpose of our network nodes**

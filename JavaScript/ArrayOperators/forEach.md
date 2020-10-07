@@ -1,4 +1,4 @@
-# Array Operators
+# [[array operators]]
 
 JS has built in [[array operators]]. Allows you to modify and operate on the data.
 
@@ -44,4 +44,4 @@ numbers.forEach(doubleNumbers)
 
 console.log(doubleArray) // outputs [2,4,6,8,10]
 ```
-However, to do the above, and return a new array, you are better off using the `map()` operator.
+However, to do the above, and return a new array, you are better off using the [[Map]] operator.

@@ -1,6 +1,6 @@
 # The Map Operator
 
-Taking the example from the `forEach` [[operator]]:
+Taking the example from the [forEach](forEach.md) [[operator]]:
 ```js
 let numbers = [1, 2, 3, 4, 5]
 let doubleArray = []
@@ -8,7 +8,7 @@ function doubleNumbers(item){
 	doubleArray.push(item * 2)
 }
 
-numbers.forEach(doubleNumbers)
+numbers.[[forEach]](doubleNumbers)
 
 console.log(doubleArray) // outputs [2,4,6,8,10]
 ```
@@ -25,7 +25,7 @@ console.log(numbers.map(doubleNumbers)) // outputs [2,4,6,8,10]
 ```
 Much cleaner and understandable.
 
-the `map` function also takes on 3 parameters, like the `forEach` they are the same also
+the `map` function also takes on 3 parameters, like the `[[forEach]]` they are the same also
 ```js
 [].map((item, index, array) => {} )
 ```

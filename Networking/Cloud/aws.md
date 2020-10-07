@@ -10,11 +10,11 @@ Compute is the part of the cloud that crunches the data. (a virtualized server)
 
 Easy to provision and allow for up/down scaling easily
 
-### Servers
+### [[Servers]]
 A server is a computer that has software to serve data
 
 An EC2 instance is you renting a server.
-Amazon's servers are compartamentalized into a bunch of different partitions.
+Amazon's [[Servers]] are compartamentalized into a bunch of different partitions.
 
 ### Instance Types
 
@@ -53,7 +53,7 @@ Easiest to use, only pay for what you use.
 
 Allows you to get amazing computer power at your fingerprints, immediately as you need.
 
-### Reserving Servers
+### Reserving [[Servers]]
 
 Aws has a finite capcity of resources. If you are certain of a service and you secure yourself space, and guarantee compute power.
 Cheaper if you pay up front.

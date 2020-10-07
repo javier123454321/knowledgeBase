@@ -15,7 +15,7 @@ IP is different in each network, and independent to the device.
 
 Dynamic Host Configuration Protocol
 
-Static IP Addresses are reserved for servers and network devices, dynamic ones are reserved for clients.
+Static IP Addresses are reserved for [[Servers]] and network devices, dynamic ones are reserved for clients.
 
 ### IP datagrams and encapsulations
 Under the IP protocol, a packet is referred to as a datagram

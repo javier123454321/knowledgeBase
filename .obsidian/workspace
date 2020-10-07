@@ -8,11 +8,8 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Networking/5LayerModel.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -63,36 +60,33 @@
     "type": "split",
     "children": [
       {
-        "id": "7ced24554f3bdfcc",
+        "id": "07b6a9a23d65615c",
         "type": "tabs",
         "children": [
           {
-            "id": "67c029b3d43ae325",
+            "id": "50022dba4d267033",
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {
-                "file": "Networking/5LayerModel.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "lastOpenFiles": [
-    "Networking/5LayerModel.md",
-    "linux/hardware.md",
-    "JavaScript/WhyIsJavaScriptWeird.md",
-    "JavaScript/AnonymousFunction.md",
-    "JavaScript/Objects/Prototypes.md",
-    "JavaScript/Closures/Closures.md",
+    "Docker/DockerBasics.md",
+    "JavaScript/ArrayOperators/array operators.md",
     "JavaScript/ArrayOperators/Map.md",
     "JavaScript/ArrayOperators/forEach.md",
-    "JavaScript/ArrayOperators/array operators.md",
-    "Docker/DockerBasics.md"
+    "linux/Bash/bash_basics.md",
+    "linux/Bash/navigating_and_finding.md",
+    "linux/basic_configs.md",
+    "linux/Vim.md",
+    "linux/tmux.md",
+    "linux/hardware.md"
   ]
 }
