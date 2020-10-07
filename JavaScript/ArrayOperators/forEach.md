@@ -1,6 +1,6 @@
 # Array Operators
 
-JS has built in array operators. Allows you to modify and operate on the data.
+JS has built in [[array operators]]. Allows you to modify and operate on the data.
 
 ## forEach
 the `forEach()` operator allows you to do something to each item in the array.
@@ -32,7 +32,7 @@ numbers.forEach((item, index, array) => {
 4
 [ 1, 2, 3, 4, 5 ]
 ```
-In this case we are doing an anonimous function, but you can input an actual function.
+In this case we are doing an [[anonimous function]], but you can input an actual function.
 
 ```js
 let doubleArray = []

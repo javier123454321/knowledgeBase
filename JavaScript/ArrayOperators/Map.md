@@ -1,6 +1,6 @@
 # The Map Operator
 
-Taking the example from the `forEach` operator:
+Taking the example from the `forEach` [[operator]]:
 ```js
 let numbers = [1, 2, 3, 4, 5]
 let doubleArray = []

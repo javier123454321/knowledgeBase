@@ -1,0 +1,90 @@
+{
+  "main": {
+    "id": "1ecffba8a9ddf169",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e49e4cc0b54307f",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "virtual machine.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "517d76cd6a8b722c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c613b656a8130735",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8e20a8fc7da3045",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "86b40f5ac5b84c3d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4d425c95a92c910d",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ced24554f3bdfcc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67c029b3d43ae325",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "virtual machine.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "virtual machine.md",
+    "OperatingSystems/Virtualization.md",
+    "Docker/DockerBasics.md",
+    "Networking/DataLayer.md",
+    "JavaScript/ArrayOperators/Map.md",
+    "JavaScript/Closures/basics.md",
+    "JavaScript/ArrayOperators/forEach.md",
+    "Networking/PhysicalLayer.md",
+    "Networking/InteriorGatewayProtocols.md",
+    "Networking/5LayerModel.md"
+  ]
+}

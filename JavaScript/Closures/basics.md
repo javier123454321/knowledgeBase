@@ -45,7 +45,7 @@ parent Scope:
 Global Scope | Parameter Variable | Grandparent Scope 
 =============================
 ```
-Basically nothing changes, but the scope which is being used to call the function. 
+Basically nothing changes, but the [[scope]] which is being used to call the function. 
 
 
 
