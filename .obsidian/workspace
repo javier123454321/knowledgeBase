@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Daily Notes/2020-10-07.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -37,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ""
+                "query": "tag:#gg"
               }
             }
           },
@@ -53,7 +56,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 203
   },
   "right": {
     "id": "4d425c95a92c910d",
@@ -68,6 +71,26 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
+              "state": {
+                "file": "Daily Notes/2020-10-07.md"
+              }
+            }
+          },
+          {
+            "id": "97e64fb599004a22",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily Notes/2020-10-07.md"
+              }
+            }
+          },
+          {
+            "id": "04478867a28d4729",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
               "state": {}
             }
           }
@@ -75,18 +98,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 127
   },
   "lastOpenFiles": [
-    "Docker/DockerBasics.md",
-    "JavaScript/ArrayOperators/array operators.md",
-    "JavaScript/ArrayOperators/Map.md",
-    "JavaScript/ArrayOperators/forEach.md",
-    "linux/Bash/bash_basics.md",
-    "linux/Bash/navigating_and_finding.md",
-    "linux/basic_configs.md",
+    "Daily Notes/2020-10-07.md",
+    "Zetelkasten.md",
+    "Knowledge Graph.md",
+    "Untitled.md",
+    "Emergence.md",
+    "Zetelkasten 202010072341.md",
+    "202010072341.md",
+    "productivity.md",
     "linux/Vim.md",
-    "linux/tmux.md",
-    "linux/hardware.md"
+    "2020-10-07.md"
   ]
 }

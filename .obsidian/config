@@ -12,7 +12,11 @@
     "custom-css": true,
     "translucency": false,
     "page-preview": true,
-    "starred": true
+    "starred": true,
+    "zk-prefixer": true,
+    "outline": true,
+    "daily-notes": true,
+    "tag-pane": true
   },
   "newFileLocation": "folder",
   "newFileFolderPath": "Uncategorized",
@@ -23,5 +27,10 @@
   "foldIndent": true,
   "showLineNumber": true,
   "spellcheck": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "spellcheckDictionary": [
+    "Buckminster",
+    "synergetics"
+  ],
+  "attachmentFolderPath": "Assets"
 }
