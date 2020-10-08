@@ -30,7 +30,31 @@
   "promptDelete": false,
   "spellcheckDictionary": [
     "Buckminster",
-    "synergetics"
+    "synergetics",
+    "influencers",
+    "influencer",
+    "instagram",
+    "MemoryCaptures"
   ],
-  "attachmentFolderPath": "Assets"
+  "attachmentFolderPath": "Assets",
+  "hotkeys": {
+    "workspace:split-vertical": [
+      {
+        "modifiers": [
+          "Mod",
+          "Shift"
+        ],
+        "key": "|"
+      }
+    ],
+    "workspace:split-horizontal": [
+      {
+        "modifiers": [
+          "Mod",
+          "Shift"
+        ],
+        "key": "_"
+      }
+    ]
+  }
 }

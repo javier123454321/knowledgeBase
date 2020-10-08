@@ -8,11 +8,8 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Daily Notes/2020-10-07.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -40,7 +37,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#gg"
+                "query": "tag:#blog"
               }
             }
           },
@@ -71,9 +68,7 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {
-                "file": "Daily Notes/2020-10-07.md"
-              }
+              "state": {}
             }
           },
           {
@@ -81,9 +76,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Daily Notes/2020-10-07.md"
-              }
+              "state": {}
             }
           },
           {
@@ -98,18 +91,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 127
+    "width": 203
   },
   "lastOpenFiles": [
-    "Daily Notes/2020-10-07.md",
-    "Zetelkasten.md",
-    "Knowledge Graph.md",
-    "Untitled.md",
     "Emergence.md",
-    "Zetelkasten 202010072341.md",
-    "202010072341.md",
-    "productivity.md",
-    "linux/Vim.md",
-    "2020-10-07.md"
+    "Knowledge Graph.md",
+    "Uncategorized/Content Quantity.md",
+    "Uncategorized/202010080905.md",
+    "JavaScript/WhyIsJavaScriptWeird.md",
+    "linux/Bash/bash_basics.md",
+    "linux/Bash/navigating_and_finding.md",
+    "linux/basic_configs.md",
+    "linux/hardware.md",
+    "linux/tmux.md"
   ]
 }

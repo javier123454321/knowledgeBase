@@ -39,7 +39,7 @@ Higher bandwidth
 Choose processors, size, etc 
 
 ### Accelerated Computing P Inf, G, F
-Hardware based acceleration
+[[hardware]] based acceleration
 
 ### Storage Optimized I, D, H
 If an application that is not necessarily 
@@ -85,6 +85,6 @@ Incremental backups - ifyou are paying for an image of 30 Gbs,if the next image 
 Type   |   Protocol   |   Port Range   |   IP-Range   |   Notes 
 ssh	 		TCP/UDP			22			   0.0.0.0/0	
   										 CIDR standard
-										[#NetworkLayer.md]
+										[NetworkLayer](NetworkLayer.md)
 
 

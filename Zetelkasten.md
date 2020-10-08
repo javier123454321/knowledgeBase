@@ -1,10 +1,11 @@
 ---
+Topics:
 #productivity #notetaking #knowledgegraph
 
 ---
 # Zettelkasten 
 
-Developed by Niklas Luhmann
+Developed by[[ Luhmann]]
 
 A method to store and organize notes, designed to integrate and find interconnections.
 

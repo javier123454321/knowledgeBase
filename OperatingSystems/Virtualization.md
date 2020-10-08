@@ -12,7 +12,7 @@ through virtualization. It has policies on how it does that.
 You can effectively have a multi threaded program that is printing the 
 memory space of an operation (a range of bytes that it is allocating to 
 its memory) and due to the fact that it is running concurrently, the 
-programs will seem to be reffering to the same exact address in the hardware.
+programs will seem to be reffering to the same exact address in the [[hardware]].
 
 ## Virtual Machines
 

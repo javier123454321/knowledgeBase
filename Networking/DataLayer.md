@@ -20,7 +20,7 @@ Globally Unique identifyers of a node in a network - Hexadecimal 0-9 a-f?
 There are 2^48 possible mac addresses 
 
 #### Organizationally Unique Identifyer OUI (first three octets of the address)
-assigned to the hardware manufaturers
+assigned to the [[hardware]] manufaturers
 
 The rest is chosen by the manufacturer so long as it unique
 
