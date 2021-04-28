@@ -106,3 +106,17 @@ There is a difference where you are going to and where you are coming from
 ## Lesson 2
 [https://www.youtube.com/watch?v=QV5bD6nBQQc&list=RDQMTWqSLtfI0Iw&index=2](Youtube)
 
+Each key has the major and a relative (natural) minor scale. So if you take a key like D major:
+
+1  2  3  4  5  6  7  8/1
+D  E  F# G  A  B  C# D
+
+
+You must find the Natural minor with two sharps (the B minor)
+
+                                      ^
+Take any major scale and start on the 6 to play the minor.
+
+So take the 6th degree of a major to play a minor.
+
+
