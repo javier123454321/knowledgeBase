@@ -1,4 +1,4 @@
-#Music Theory
+# Music Theory
 lesson 1: [https://www.youtube.com/watch?v=ICDPWP6HUbk&list=RDQMTWqSLtfI0Iw&start_radio=1](Youtube)
 
 ## The circle of fifths
@@ -22,7 +22,7 @@ C has no accidentals
 F has one Flat
 B has two ...
 
-### Deriving the keys when you travel towards the flats
+#### Deriving the keys when you travel towards the flats
 
 The fourth is the new flat.
 
@@ -36,7 +36,7 @@ F  G  A  Bb C  D  E  F
 Bb C  D  Eb F  G  A  Bb
 
 
-### Deriving the keys when you travel towards the flats
+#### Deriving the keys when you travel towards the flats
 The 7th becomes the next sharp
 
 1  2  3  4  5  6  7  8/1
@@ -61,30 +61,30 @@ F#      Gb  |  6 accidentals
 C#      Cb  |  7 accidentals
 
 
-## Minor Scales
+### Minor Scales
 *All minor scales are defined by lowering the third.*
 
-## Types of Minor Scales
+#### Types of Minor Scales
 
 - Natural  - Start with Major and drop the 3d 6th and 7th notes a half step
 - Harmonic - Start with Major and drop the 3rd and 6th notes a half step
 - Melodic  - Start with Major and drop the 3rd
 
-### Natural
+#### Natural
 For the C minor scale
 
 1  2  3  4  5  6  7  8/1
 C  D  E  F  G  A  B  C 
       Eb       Ab Bb  
 
-### Harmonic
+#### Harmonic
 For the C minor Harmonic scale
 
 1  2  3  4  5  6  7  8/1
 C  D  E  F  G  A  B  C 
       Eb       Ab  
 
-### Melodic
+#### Melodic
 Is one scale going down and another scale going up
 
 For the C minor Melodic scale ascending
@@ -143,7 +143,7 @@ G  A  B  C  D  E  F# G
                      G#          D#      <- Harmonic Minor
                      G#                  <- Ascending Melodic Minor
 
-## Intervals
+### Intervals
 
 They are diferent wether you are dealing with the 
 
@@ -166,4 +166,45 @@ Bb and A   (augmented fourth)
 Bb and Ab  (perfect)
 Bb and Abb (diminished)
 
+## Lesson 3
+
+A  8      A  7
+P  5      M  6
+d  4      m  3  
+   1      d  2
+
+C and G 
+from C to G -> perfect 5th
+from G to C -> perfect 4th
+
+When you invert a perfect interval, they remain perfect.
+
+E to B#
+from E  to B# -> augmented 5th
+from B# to E  -> diminished 4th
+
+Augmented intervals become diminished when inverted
+Diminished becomes augmented
+
+In both cases the interval amounts add up to 9
+Augmented 7 becomes diminished 2nd
+Augmented 6 becomes diminished 3rd
+
+Major intervals become minor intervals
+
+So interval numbers add up to 9
+Major <-> minor
+Diminished <-> Augmented
+Perfect <-> Perfect
+
+### Consonant vs Dissonant
+
+Consonant sounds are the 
+8th (octave) and 5th 
+Major and Minor 3rd and 6ths 
+
+Augmented or Dimished 7 and 2 are Dissonant
+4th can be trickier
+
+Consonance is Relaxation and Dissonance is Tension
 
