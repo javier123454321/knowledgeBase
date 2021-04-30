@@ -119,4 +119,51 @@ Take any major scale and start on the 6 to play the minor.
 
 So take the 6th degree of a major to play a minor.
 
+Major  |  Minor
+  C    |    A
+  G    |    E
+  D    |    B
+  A    |    Gb
+  E    |    Db
+  B    |    Ab
+  Gb   |    Eb
+  Db   |    Bb
+  Ab   |    F
+  Eb   |    C
+  Bb   |    G
+  F    |    D
+
+
+So taking G Major to Natural Minor
+
+1  2  3  4  5  6  7  8/1
+G  A  B  C  D  E  F# G
+               1  2  3  4  5  6  7  8/1
+               E  F# G  A  B  C  D  E    <- Natural Minor
+                     G#          D#      <- Harmonic Minor
+                     G#                  <- Ascending Melodic Minor
+
+## Intervals
+
+They are diferent wether you are dealing with the 
+
+8 5 4 1
+Can be Augmented Perfect or Diminished
+
+7 6 3 2
+Can be Major Minor augmented or dimished
+
+if you are playing two notes and the top note is in the major scale of the bottom note
+
+play a 1 and a 6
+G and E   (major)
+G and Eb  (minor)
+G and Ebb (diminished)
+G and E#  (augmented)
+
+for 1 and 4
+Bb and A   (augmented fourth)
+Bb and Ab  (perfect)
+Bb and Abb (diminished)
+
 
