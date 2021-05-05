@@ -4,12 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "8e49e4cc0b54307f",
+        "id": "f6c329797fa1ba3a",
         "type": "leaf",
-        "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Music/Theory/Keys and Signatures.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -37,7 +39,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#blog"
+                "query": "tag:#gg",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -53,12 +60,28 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203
+    "width": 308
   },
   "right": {
     "id": "4d425c95a92c910d",
     "type": "split",
     "children": [
+      {
+        "id": "acfcaea7243d4b32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97e64fb599004a22",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Music/Theory/Keys and Signatures.md"
+              }
+            }
+          }
+        ]
+      },
       {
         "id": "07b6a9a23d65615c",
         "type": "tabs",
@@ -68,15 +91,16 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
-            }
-          },
-          {
-            "id": "97e64fb599004a22",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Music/Theory/Keys and Signatures.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
             }
           },
           {
@@ -84,25 +108,30 @@
             "type": "leaf",
             "state": {
               "type": "tag",
-              "state": {}
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 203
+    "width": 213,
+    "collapsed": true
   },
+  "active": "f6c329797fa1ba3a",
   "lastOpenFiles": [
-    "Emergence.md",
-    "Knowledge Graph.md",
-    "Uncategorized/Content Quantity.md",
-    "Uncategorized/202010080905.md",
-    "JavaScript/WhyIsJavaScriptWeird.md",
-    "linux/Bash/bash_basics.md",
-    "linux/Bash/navigating_and_finding.md",
-    "linux/basic_configs.md",
-    "linux/hardware.md",
-    "linux/tmux.md"
+    "Music/Theory/Keys and Signatures.md",
+    "Music/Theory/Intervals.md",
+    "Music/Theory/drB.md",
+    "Uncategorized/Untitled.md",
+    "Music/Theory/Minor Keys.md",
+    "Uncategorized/Natural Minor.md",
+    "Music/Theory/Untitled.md",
+    "Music/Theory/Circle of Fifths.md",
+    "Music/Theory/Octaves.md",
+    "Music/Theory/Chords.md"
   ]
 }
