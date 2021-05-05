@@ -1,8 +1,8 @@
 # Music Theory
-lesson 1: [https://www.youtube.com/watch?v=ICDPWP6HUbk&list=RDQMTWqSLtfI0Iw&start_radio=1](Youtube)
+lesson 1: [Youtube](https://www.youtube.com/watch?v=ICDPWP6HUbk&list=RDQMTWqSLtfI0Iw&start_radio=1)
 
-## The circle of fifths
-
+## The Circle of Fifths
+```
 Sharps  <-         -> Flats               Flats  <-            -> Sharps 
               C                                          C
        G              F                           F             G
@@ -17,7 +17,7 @@ Sharps  <-         -> Flats               Flats  <-            -> Sharps
         Cb            C#                         Db            B
         B     F#      Db                         C#     Gb     Cb
               Gb                                        F#
-
+```
 C has no accidentals
 F has one Flat
 B has two ...
@@ -25,7 +25,7 @@ B has two ...
 #### Deriving the keys when you travel towards the flats
 
 The fourth is the new flat.
-
+```
 1  2  3  4  5  6  7  8/1
 C  D  E  F  G  A  B  C
 
@@ -35,10 +35,10 @@ F  G  A  Bb C  D  E  F
 1  2  3  4  5  6  7  8/1
 Bb C  D  Eb F  G  A  Bb
 
-
+```
 #### Deriving the keys when you travel towards the flats
 The 7th becomes the next sharp
-
+```
 1  2  3  4  5  6  7  8/1
 C  D  E  F  G  A  B  C
 
@@ -47,10 +47,10 @@ G  A  B  C  D  E  F# G
 
 1  2  3  4  5  6  7  8/1
 D  E  F# G  A  B  C# D
-
+```
 They go up to 7 sharps or 7 flats
 C# or Cb
-
+```
     C       |  0 accidentals
 G       F   |  1 accidentals
 D       Bb  |  2 accidentals
@@ -59,7 +59,7 @@ E       Ab  |  4 accidentals
 B       Db  |  5 accidentals
 F#      Gb  |  6 accidentals
 C#      Cb  |  7 accidentals
-
+```
 
 ### Minor Scales
 *All minor scales are defined by lowering the third.*
@@ -72,33 +72,33 @@ C#      Cb  |  7 accidentals
 
 #### Natural
 For the C minor scale
-
+```
 1  2  3  4  5  6  7  8/1
 C  D  E  F  G  A  B  C 
       Eb       Ab Bb  
-
+```
 #### Harmonic
 For the C minor Harmonic scale
-
+```
 1  2  3  4  5  6  7  8/1
 C  D  E  F  G  A  B  C 
       Eb       Ab  
-
+```
 #### Melodic
 Is one scale going down and another scale going up
 
 For the C minor Melodic scale ascending
-
+```
 1  2  3  4  5  6  7  8/1
 C  D  E  F  G  A  B  C 
       Eb
-
+```
 For the C minor Melodic scale descending it is the same as Harmonic Minor
-
+```
 1  2  3  4  5  6  7  8/1
 C  D  E  F  G  A  B  C 
       Eb       Ab Bb
-
+```
 
 There is a difference where you are going to and where you are coming from
 
@@ -107,18 +107,18 @@ There is a difference where you are going to and where you are coming from
 [https://www.youtube.com/watch?v=QV5bD6nBQQc&list=RDQMTWqSLtfI0Iw&index=2](Youtube)
 
 Each key has the major and a relative (natural) minor scale. So if you take a key like D major:
-
+```
 1  2  3  4  5  6  7  8/1
 D  E  F# G  A  B  C# D
 
-
+```
 You must find the Natural minor with two sharps (the B minor)
 
                                       ^
 Take any major scale and start on the 6 to play the minor.
 
 So take the 6th degree of a major to play a minor.
-
+```
 Major  |  Minor
   C    |    A
   G    |    E
@@ -132,17 +132,17 @@ Major  |  Minor
   Eb   |    C
   Bb   |    G
   F    |    D
-
+```
 
 So taking G Major to Natural Minor
-
+```
 1  2  3  4  5  6  7  8/1
 G  A  B  C  D  E  F# G
                1  2  3  4  5  6  7  8/1
                E  F# G  A  B  C  D  E    <- Natural Minor
                      G#          D#      <- Harmonic Minor
                      G#                  <- Ascending Melodic Minor
-
+```
 ### Intervals
 
 They are diferent wether you are dealing with the 
@@ -167,12 +167,12 @@ Bb and Ab  (perfect)
 Bb and Abb (diminished)
 
 ## Lesson 3
-
+```
 A  8      A  7
 P  5      M  6
 d  4      m  3  
    1      d  2
-
+```
 C and G 
 from C to G -> perfect 5th
 from G to C -> perfect 4th
@@ -208,3 +208,9 @@ Augmented or Dimished 7 and 2 are Dissonant
 
 Consonance is Relaxation and Dissonance is Tension
 
+## Lesson 2
+Interval identifications (Should come back to this, not entirely clear)
+
+write the Augmented 2nd below the Cb. Start with the letter, we know that it is some kind of b.
+
+For C regular, Minor 2nd, is B for Major 2nd it 
