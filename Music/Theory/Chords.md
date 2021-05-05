@@ -1,6 +1,6 @@
 The Major and Minor scale 
 ## The Perfect Fifth
-in the A Natural Minor Scale from A to E there are 7 semitones
+in the A [[Natural Minor]] Scale from A to E there are 7 semitones
 ```
 1   2   3   4   5
 A   B   C   D   E

@@ -84,6 +84,7 @@ For the C minor Harmonic scale
 C  D  E  F  G  A  B  C 
       Eb       Ab  
 ```
+[It changes the 7th degree](Minor%20Keys.md#^38b220)
 #### Melodic
 Is one scale going down and another scale going up
 

@@ -4,26 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "3fe0c466024e9eb7",
+        "id": "f6c329797fa1ba3a",
         "type": "leaf",
-        "dimension": 55.6989247311828,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Music/Theory/Keys and Signatures.md",
             "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "ac4e675af5915749",
-        "type": "leaf",
-        "dimension": 44.3010752688172,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Music/Theory/drB.md",
-            "mode": "source"
           }
         }
       }
@@ -73,8 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245,
-    "collapsed": true
+    "width": 308
   },
   "right": {
     "id": "4d425c95a92c910d",
@@ -113,7 +99,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -132,20 +118,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 127,
+    "width": 213,
     "collapsed": true
   },
-  "active": "3fe0c466024e9eb7",
+  "active": "f6c329797fa1ba3a",
   "lastOpenFiles": [
     "Music/Theory/Keys and Signatures.md",
+    "Music/Theory/Intervals.md",
     "Music/Theory/drB.md",
+    "Uncategorized/Untitled.md",
+    "Music/Theory/Minor Keys.md",
+    "Uncategorized/Natural Minor.md",
+    "Music/Theory/Untitled.md",
     "Music/Theory/Circle of Fifths.md",
     "Music/Theory/Octaves.md",
-    "Music/Theory/Chords.md",
-    "Uncategorized/Circle of Fifths.md",
-    "Uncategorized/Untitled.md",
-    "Uncategorized/Chords.md",
-    "Music/Theory/Untitled.md",
-    "Knowledge Graph.md"
+    "Music/Theory/Chords.md"
   ]
 }
