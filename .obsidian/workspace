@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "1ecffba8a9ddf169",
+    "id": "4c61682ed78f9675",
     "type": "split",
     "children": [
       {
-        "id": "c1ab6912b8aed688",
+        "id": "2ffd2b15b308bd99",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/Objects/this.md",
+            "file": "Uncategorized/Ethereum.md",
             "mode": "source"
           }
         }
@@ -18,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "517d76cd6a8b722c",
+    "id": "67a451d5e54f4a67",
     "type": "split",
     "children": [
       {
-        "id": "c613b656a8130735",
+        "id": "bc669ecdb03e5a2f",
         "type": "tabs",
         "children": [
           {
-            "id": "f8e20a8fc7da3045",
+            "id": "c2800b8f438d5537",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,12 +34,13 @@
             }
           },
           {
-            "id": "86b40f5ac5b84c3d",
+            "id": "76a9f357ff0a4298",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "music",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +50,7 @@
             }
           },
           {
-            "id": "eae7d2431386ccd2",
+            "id": "9ad0c3b6b17dae9a",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -60,14 +61,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 300
   },
   "right": {
-    "id": "4d425c95a92c910d",
+    "id": "3f612cc652d84f6e",
     "type": "split",
     "children": [
       {
-        "id": "acfcaea7243d4b32",
+        "id": "ffd4782b9fc37245",
         "type": "tabs",
         "children": [
           {
@@ -88,11 +89,12 @@
         "children": [
           {
             "id": "50022dba4d267033",
+            "id": "cd4c4f8b8e047694",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/Objects/this.md",
+                "file": "Uncategorized/Ethereum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +106,7 @@
             }
           },
           {
-            "id": "04478867a28d4729",
+            "id": "48d1e6c2efc884d1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -113,25 +115,34 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "ef9a68be7d7df5f9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Uncategorized/Ethereum.md"
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 213,
-    "collapsed": true
+    "width": 575
   },
-  "active": "c1ab6912b8aed688",
+  "active": "2ffd2b15b308bd99",
   "lastOpenFiles": [
-    "JavaScript/Objects/this.md",
-    "Music/Theory/Rythm.md",
-    "Music/Theory/Untitled.md",
-    "Music/Theory/drB.md",
-    "Uncategorized/Advanced Vue.md",
-    "Uncategorized/address space.md",
-    "Uncategorized/activate prior knowledge.md",
-    "Uncategorized/Abstract.md",
-    "Uncategorized/A Generalist Manifesto.md",
-    "Uncategorized/Ask Vinay.md"
+    "Uncategorized/Ethereum.md",
+    "Uncategorized/the Ethereum state database.md",
+    "Uncategorized/blockchain.md",
+    "Uncategorized/Untitled.md",
+    "JavaScript/ArrayOperators/array operators.md",
+    "Docker/DockerBasics.md",
+    "Daily Notes/2020-10-08.md",
+    "Daily Notes/2020-10-07.md",
+    "Assets/Pasted image 20210502102525.png",
+    "Assets/Pasted image 20210502101559.png"
   ]
 }
