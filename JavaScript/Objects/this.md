@@ -18,7 +18,7 @@ var obj1 = {
 obj1.obj2.foo(); // 42
 ```
 
-`this` refers to the place where the function was defined. (Not the scope of the function)
+`this` refers to the place where the function is called. (Not the scope of the function)
 in `obj1` `this` is the global object. in `obj2` `this` is `obj1`, and in `foo` `this` is obj2
 
 take this example

@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "f6c329797fa1ba3a",
+        "id": "c1ab6912b8aed688",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Music/Theory/Keys and Signatures.md",
-            "mode": "preview"
+            "file": "JavaScript/Objects/this.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#gg",
+                "query": "music",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -60,7 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308
+    "width": 100
   },
   "right": {
     "id": "4d425c95a92c910d",
@@ -76,7 +76,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Music/Theory/Keys and Signatures.md"
+                "file": "JavaScript/Objects/this.md"
               }
             }
           }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Music/Theory/Keys and Signatures.md",
+                "file": "JavaScript/Objects/this.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,17 +121,17 @@
     "width": 213,
     "collapsed": true
   },
-  "active": "f6c329797fa1ba3a",
+  "active": "c1ab6912b8aed688",
   "lastOpenFiles": [
-    "Music/Theory/Keys and Signatures.md",
-    "Music/Theory/Intervals.md",
-    "Music/Theory/drB.md",
-    "Uncategorized/Untitled.md",
-    "Music/Theory/Minor Keys.md",
-    "Uncategorized/Natural Minor.md",
+    "JavaScript/Objects/this.md",
+    "Music/Theory/Rythm.md",
     "Music/Theory/Untitled.md",
-    "Music/Theory/Circle of Fifths.md",
-    "Music/Theory/Octaves.md",
-    "Music/Theory/Chords.md"
+    "Music/Theory/drB.md",
+    "Uncategorized/Advanced Vue.md",
+    "Uncategorized/address space.md",
+    "Uncategorized/activate prior knowledge.md",
+    "Uncategorized/Abstract.md",
+    "Uncategorized/A Generalist Manifesto.md",
+    "Uncategorized/Ask Vinay.md"
   ]
 }

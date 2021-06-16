@@ -1,0 +1,41 @@
+- 
+    - #Keypath
+        - {{[[query]]: {and: [[TODO]] [[Keypath]] {not: [[query]]}}}}
+    - #[[Memory Captures]]
+        - Design Revamp marketing page #[[Memory Captures]]
+            - Landing Page]([[MC landing page]]):  #[[Memory Captures]] [[October 23rd, 2020]]
+                - {{[[DONE]]}} Make responsive
+                    - Start-Time:: 13:49
+                    - {{[[POMO]]: 25}}
+            - Claim Page #[[Memory Captures]]
+                - {{[[DONE]]}} figma prototype
+                - {{[[DONE]]}} above the fold
+            - {{[[DONE]]}} Blog Landing #[[Memory Captures]]
+    - #home
+        - {{[[query]]: {and: [[TODO]] [[home]] {not: [[query]]}}}}
+    - #Personal
+        - {{[[query]]: {and: [[TODO]] [[Personal]] {not: [[query]]}}}}
+- #DONE
+    - {{[[DONE]]}} Footer
+        - {{[[DONE]]}} Ensure that mailgun works
+        - {{[[DONE]]}} Setup Mail List
+            - Start-Time:: 10:48
+                - {{[[POMO]]: 25}}
+                - {{[[POMO]]: 25}}
+            - End-Time:: 13:39
+    - {{[[DONE]]}} Footer
+        - {{[[DONE]]}} Ensure that mailgun works
+        - {{[[DONE]]}} Setup Mail List
+    - {{[[DONE]]}} Ensure that mailgun works
+    - {{[[DONE]]}} Setup Mail List
+- #[[Quick Capture]]
+    - Making time for myself. 
+        - A massive character flaw of mine is that I tend to have this guilt feeling of just using time for myself. If I am not working for memory captures, coding for work, working on the streaming page or DW-connect, or writing or reading, I am wasting my time. It feels like I actually believe that.
+- #[[Literature Notes]]
+- #Reflection
+    - [[What did I learn]]
+        - About Dewey's approach to education
+    - [[What went well?]]
+        - Had a really nice day with [[Zselyke]].
+    - [[What could be better?]]
+        - Need to learn to say no. Also, I am a bit impulsive, and want things that are not necessarily good for me.

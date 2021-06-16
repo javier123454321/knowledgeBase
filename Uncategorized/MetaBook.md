@@ -1,0 +1,56 @@
+- #Features
+    - Backend
+        - {{[[DONE]]}} Auth
+            - {{[[DONE]]}} Login 
+            - {{[[DONE]]}} Sign up
+            - {{[[DONE]]}} Logout
+            - {{[[DONE]]}} Reset Token
+            - {{[[TODO]]}} Login with google https://laracasts.com/discuss/channels/laravel/how-would-one-use-jwt-json-web-tokens-with-laravel-socialite
+        - **Models**
+            - Users
+                - {{[[DONE]]}} have many books
+            - Books
+                - {{[[DONE]]}} Has one owner
+                - {{[[DONE]]}} Has Many Users
+                - {{[[TODO]]}} has many spaced repetition cards
+                - {{[[TODO]]}} Has many assignments
+                - {{[[TODO]]}} Has many cohorts
+            - Cohorts
+                - {{[[TODO]]}} Has many users
+                - {{[[TODO]]}} Has one book
+            - Assignments
+                - {{[[TODO]]}} Has one book
+                - {{[[TODO]]}} Has many users
+            - Spaced Repetition Cards
+                - {{[[TODO]]}} Has one book
+                - {{[[TODO]]}} Has many users
+        - Functionality
+            - {{[[TODO]]}} User can choose a book
+            - {{[[TODO]]}} From that book, a user can sign up to a cohort that will work on the book
+            - {{[[TODO]]}} A user can complete a section of the book
+            - {{[[TODO]]}} A user can submit cards for review with spaced repetition
+            - {{[[TODO]]}} A user can look at all of their spaced repetition cards
+            - {{[[TODO]]}} A user can do an assignment 
+            - {{[[TODO]]}} Other users get notified of other users doing an assignment
+            - {{[[TODO]]}} Comments on assignments
+            - {{[[TODO]]}} Assignment alerts
+    - Frontend
+        - Login Screen
+            - {{[[DONE]]}} Send Login request
+            - {{[[TODO]]}} Display error if not
+            - {{[[TODO]]}} Register
+        - Dashboard
+            - {{[[TODO]]}} Load your books
+            - {{[[TODO]]}} Add new books
+            - {{[[TODO]]}} Search function
+            - {{[[TODO]]}} Your Spaced Repetition Cards
+        - Profile
+        - Book Reading
+        - Spaced Repetition Screen
+        - Asignment Page
+        - Cohort Page - General Discussion/ threads/ assignments/ Your status
+- #MVP
+    - Launch by [[January 31st, 2021]]
+    - I want to define the scope given by the deadline inspired by [[Michael Seibel]] - How to Plan an MVP 
+        - What is the minimum that I could roll out by the 31st Today being [[January 7th, 2021]]
+        - You can sign up with a group of people to take "any course" together.

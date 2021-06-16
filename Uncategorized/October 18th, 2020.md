@@ -1,0 +1,44 @@
+- #Spheres 
+    - #Keypath
+        - **Flowchart1**
+            - {{[[DONE]]}} click handler close modal
+        - **Dolly Caching**
+            - {{[[DONE]]}} Apply hotfix dolly
+            - {{[[DONE]]}} Create PR, tag dave
+        - **Flowchart2**
+            - {{[[DONE]]}} Create graphics in Illustrator 
+            - {{[[DONE]]}} Toggle modal windows
+            - {{[[DONE]]}} Record modal anwers
+    - #[[Memory Captures]]
+        - {{[[DONE]]}} Talk to Rohit
+        - {{[[DONE]]}} Review Curriculum #[[Memory Captures]]
+        - Design Revamp marketing page #[[Memory Captures]]
+            - Landing Page]([[MC landing page]]):  #[[Memory Captures]] [[October 23rd, 2020]]
+                - {{[[TODO]]}} pulse finger tap
+                - {{[[DONE]]}} Footer
+                    - {{[[TODO]]}} Layout 
+                        - {{[[POMO]]: 25}}
+                    - {{[[DONE]]}} Ensure that mailgun works
+                    - {{[[DONE]]}} Create a mailing list
+                        - {{[[DONE]]}} Embed on page
+            - Claim Page #[[Memory Captures]]
+                - {{[[DONE]]}} figma prototype
+                - {{[[DONE]]}} above the fold
+            - {{[[DONE]]}} Blog Landing #[[Memory Captures]]
+        - Spheres #[[Memory Captures]]
+            - {{[[DONE]]}} Look over supervisor sphere #[[Memory Captures]]
+            - {{[[DONE]]}} Finish stocking sphere #[[Memory Captures]]
+    - #Other
+    - #Personal
+        - {{[[TODO]]}} Investigate persisting login  site]]
+- 
+    - 
+- ## #[[Quick Capture]]
+    - #[[Personal Goals]]
+        - To be a person that others can look to if they want to do something related to [[E-Learning]] business.
+            - To revolutionize (or be part of the ongoing revolution) in digital learning
+- ## #[[Literature Notes]]
+- ## #Reflection
+    - [[What did I learn]]
+    - [[What went well?]]
+    - [[What could be better?]]

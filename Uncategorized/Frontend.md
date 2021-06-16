@@ -1,6 +1,1 @@
-Topics:
-#Frontend #Webdev 
-
----
-
-The interface layer between the human and the machine. Has so much, but keeps widening.
+- The interface layer between the human and the machine. Has so much, but keeps widening.
