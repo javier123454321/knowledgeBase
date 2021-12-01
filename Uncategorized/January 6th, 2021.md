@@ -1,18 +1,18 @@
-- #[[Gratitude List]]
-- #Spheres 
-    - #Keypath
+- [[Gratitude List]]
+- [[Spheres]] 
+    - [[Keypath]]
         - {{[[query]]: {and: [[TODO]] [[Keypath]] {not: {or: [[query]][[Memory Captures]][[Other]][[Personal]]}}}}}
-    - #[[Memory Captures]]
+    - [[Memory Captures]]
         - {{[[query]]: {and: [[TODO]] [[Memory Captures]] {not: {or: [[query]][[Keypath]][[Other]][[Personal]]}}}}}
-    - #Other
+    - [[Other]]
         - {{[[query]]: {and: [[TODO]] [[Other]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Personal]]}}}}}
-    - #Personal
+    - [[Personal]]
         - {{[[query]]: {and: [[TODO]] [[Personal]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}
-    - #[[Generalized Specialized]]
+    - [[Generalized Specialized]]
         - {{[[query]]: {and: [[TODO]] [[Generalized Specialized]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}
-    - #MetaBook
+    - [[MetaBook]]
         - {{[[query]]: {and: [[TODO]] [[MetaBook]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Personal]][[Other]]}}}}}
-- #[[Quick Capture]]
+- [[Quick Capture]]
     - Build your saas Jason fried episode
         - What do you have control over,  the market you choose,  the costs of running the biz
             - Keep costs low enough you'll outlast those that outspend you
@@ -34,8 +34,8 @@ The end goal is to create something like the textbook of the digital age. Someth
 I do like this problem space because I feel quite passionate about e-learning and the potential benefits of it. I also like it because I see the "creator economy" booming right now, and it makes sense to me to be part of those selling shovels in a gold rush. It also would make it so people sell less vaporware and actually provide more value.  
 
 As far as your idea goes, I have a question about what the "thing" actually is? Is it a list of courses that applies to your interests/capabilities, does it get delivered via mail? I would worry about the fact that it is not really a recurring thing, and the churn would be quite high. It actually seems like a good compliment to an already existing course platform.
-- #[[Literature Notes]]
-- #Reflection
+- [[Literature Notes]]
+- [[Reflection]]
     - [[What did I learn]]
     - [[What went well?]]
     - [[What could be better?]]

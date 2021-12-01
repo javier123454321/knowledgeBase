@@ -1,25 +1,25 @@
-- #[[Gratitude List]] 
+- [[Gratitude List]] 
     - 
-- #Spheres 
-    - #Keypath
-        - {{[[DONE]]}} Talk to reinhardt about the red letters, the side labels and the responsiveness
-        - {{[[DONE]]}} Make sure I have emerson access [[November 9th, 2020]]
-        - {{[[DONE]]}} dd letter colors
-        - {{[[DONE]]}} remove incorrect answers on show all button
-        - {{[[DONE]]}} Left title bar
+- [[Spheres]] 
+    - [[Keypath]]
+        - [x] Talk to reinhardt about the red letters, the side labels and the responsiveness
+        - [x] Make sure I have emerson access [[November 9th, 2020]]
+        - [x] dd letter colors
+        - [x] remove incorrect answers on show all button
+        - [x] Left title bar
         - Responsive carousel
-            - {{[[DONE]]}} next and previous button
-            - {{[[DONE]]}} Show dots at the bottom
+            - [x] next and previous button
+            - [x] Show dots at the bottom
         - {{[[query]]: {and: [[TODO]] [[Keypath]] {not: {or: [[query]][[Memory Captures]][[Other]][[Personal]]}}}}}
-    - #[[Memory Captures]]
+    - [[Memory Captures]]
         - {{[[query]]: {and: [[TODO]] [[Memory Captures]] {not: {or: [[query]][[Keypath]][[Other]][[Personal]]}}}}}
-    - #Other
+    - [[Other]]
         - {{[[query]]: {and: [[TODO]] [[Other]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Personal]]}}}}}
-    - #Personal
+    - [[Personal]]
         - {{[[query]]: {and: [[TODO]] [[Personal]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}
-    - #[[Generalized Specialized]]
+    - [[Generalized Specialized]]
         - {{[[query]]: {and: [[TODO]] [[Generalized Specialized]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}
-- #[[Quick Capture]]
+- [[Quick Capture]]
     - Conversation with Reinhardt
         - no one is really doing anything by knowing
         - Can you guide an experience
@@ -27,8 +27,8 @@
         - education focuses on simulations
             - Cannot be self enclosed
                 - Has to connect with the real world, that cannot be simulated
-- #[[Literature Notes]]
-- #Reflection
+- [[Literature Notes]]
+- [[Reflection]]
     - [[What did I learn]]
     - [[What went well?]]
     - [[What could be better?]]

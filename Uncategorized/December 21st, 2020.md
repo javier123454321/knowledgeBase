@@ -1,19 +1,19 @@
-- #[[Gratitude List]] 
-- #Spheres 
-    - #Keypath
-        - {{[[DONE]]}} Set up the online remove the colon, show to Natia for Red Eye Flowchart
+- [[Gratitude List]] 
+- [[Spheres]] 
+    - [[Keypath]]
+        - [x] Set up the online remove the colon, show to Natia for Red Eye Flowchart
         - {{[[query]]: {and: [[TODO]] [[Keypath]] {not: {or: [[query]][[Memory Captures]][[Other]][[Personal]]}}}}}
-    - #[[Memory Captures]]
+    - [[Memory Captures]]
         - {{[[query]]: {and: [[TODO]] [[Memory Captures]] {not: {or: [[query]][[Keypath]][[Other]][[Personal]]}}}}}
-    - #Other
+    - [[Other]]
         - {{[[query]]: {and: [[TODO]] [[Other]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Personal]]}}}}}
-    - #Personal
+    - [[Personal]]
         - {{[[query]]: {and: [[TODO]] [[Personal]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}
-    - #[[Generalized Specialized]]
+    - [[Generalized Specialized]]
         - {{[[query]]: {and: [[TODO]] [[Generalized Specialized]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}
-    - #MetaBook
+    - [[MetaBook]]
         - {{[[query]]: {and: [[TODO]] [[MetaBook]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Personal]][[Other]]}}}}}
-- #[[Quick Capture]]
+- [[Quick Capture]]
     - The ideal bootstrapped business
         - Can the business generate revenue **Predictively**?
             - If it's not predictable, then it's not the aim
@@ -28,8 +28,8 @@
                 - `Tiers help Scratch off 99 a month to reach your goal
                 - Use the Boutique qualifiers
         - Require the user to sign up for an annual plan
-- #[[Literature Notes]]
-- #Reflection
+- [[Literature Notes]]
+- [[Reflection]]
     - [[What did I learn]]
     - [[What went well?]]
     - [[What could be better?]]

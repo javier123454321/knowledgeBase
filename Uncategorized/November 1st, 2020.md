@@ -1,21 +1,21 @@
 - Template Today [[roam/templates]]
-    - #[[Gratitude List]] 
+    - [[Gratitude List]] 
         - Having had such rich experiences growing up
-    - #Spheres 
-        - #[[Memory Captures]]
+    - [[Spheres]] 
+        - [[Memory Captures]]
             - Claim Page
-                - {{[[DONE]]}} above the fold
-                - {{[[DONE]]}} read router param
+                - [x] above the fold
+                - [x] read router param
                 - Get url to the display pitcture component
-                - {{[[DONE]]}} Sign up form modal for Newsletter on load
+                - [x] Sign up form modal for Newsletter on load
             - {{[[query]]: {and: [[TODO]] [[Memory Captures]] {not: {or: [[query]][[Keypath]][[Other]][[Personal]]}}}}}
-        - #Other
+        - [[Other]]
             - {{[[query]]: {and: [[TODO]] [[Other]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Personal]]}}}}}
-        - #Personal
+        - [[Personal]]
             - {{[[query]]: {and: [[TODO]] [[Personal]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}
-        - #[[Generalized Specialized]]
+        - [[Generalized Specialized]]
             - {{query:  {and: [[TODO]] [[Generalized Specialized]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]][[Personal]]}}}}}
-    - #[[Quick Capture]]
+    - [[Quick Capture]]
         - Glenn Greenwald going independent
             - The role of institutions is fading from underneath them. There are very little foundations for them to stand on. 
             - The intercept was started by him, but institutions like that develop their own tendencies which could very well be outside of the way that they originally operated.
@@ -34,15 +34,15 @@
                     - tactical urbanism
             - Architecture seems to just be at the whim of the capitalist spectrum, and not a driver of capitalist production.
                 - It is a service.
-        - #[[Roam Book Club]]
+        - [[Roam Book Club]]
             - A reference to work regarding notetaking
             - The brain is not a great tool for remembering
             - On collective vs personal zettlekasten
                 - You begin to develop a familiarity with your notetaking system
                     - Can this be done in a group context?
                 - 
-    - #[[Literature Notes]]
-    - #Reflection
+    - [[Literature Notes]]
+    - [[Reflection]]
         - [[What did I learn]]
         - [[What went well?]]
         - [[What could be better?]]

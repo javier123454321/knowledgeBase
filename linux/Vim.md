@@ -26,7 +26,7 @@ I only adds before the 1st non " " character in a line
 ### gg & G
 - gg beggining of file
 - G end of file
-- `#gg` or `#G` go to line number (i.e. 13gg or 13G)
+- `[[gg]]` or `[[G]]` go to line number (i.e. 13gg or 13G)
 
 ### running bash scripts in vim
 :.! for running a script

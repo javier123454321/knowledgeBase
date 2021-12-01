@@ -1,7 +1,7 @@
-- Type:: #Book 
-- Author:: #[[David Epstein]]
-- Subject:: #generalist
-- Status:: #[[In Progress]] 
+- Type:: [[Book]] 
+- Author:: [[David Epstein]]
+- Subject:: [[generalist]]
+- Status:: [[In Progress]] 
 - Abstract::
 - Summary::
     - Tiger Woods and Federer both were possibly the best athletes in the world, yet Federer did not specialize into tennis until his early twenties, while Tiger went all in on Golf since he could walk.

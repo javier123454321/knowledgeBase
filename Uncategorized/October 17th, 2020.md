@@ -1,53 +1,53 @@
-- #Spheres 
-    - #Keypath
+- [[Spheres]] 
+    - [[Keypath]]
         - **Flowchart1**
-            - {{[[DONE]]}} click handler close modal
+            - [x] click handler close modal
         - **Dolly Caching**
-            - {{[[DONE]]}} Apply hotfix dolly
-            - {{[[DONE]]}} Create PR, tag dave
+            - [x] Apply hotfix dolly
+            - [x] Create PR, tag dave
         - **Flowchart2**
-            - {{[[DONE]]}} Create graphics in Illustrator 
-            - {{[[DONE]]}} Toggle modal windows
-            - {{[[DONE]]}} Record modal anwers
-    - #[[Memory Captures]]
-        - Design Revamp marketing page #[[Memory Captures]]
-            - Landing Page]([[MC landing page]]):  #[[Memory Captures]] [[October 23rd, 2020]]
-                - {{[[DONE]]}} Footer
-                    - {{[[DONE]]}} Ensure that mailgun works
-            - Claim Page #[[Memory Captures]]
-                - {{[[DONE]]}} figma prototype
-                - {{[[DONE]]}} above the fold
-            - {{[[DONE]]}} Blog Landing #[[Memory Captures]]
-        - Spheres #[[Memory Captures]]
-            - {{[[DONE]]}} Look over supervisor sphere #[[Memory Captures]]
-            - {{[[DONE]]}} Finish stocking sphere #[[Memory Captures]]
-    - #Other
-    - #Personal
-        - {{[[TODO]]}} Investigate persisting login  site]]
+            - [x] Create graphics in Illustrator 
+            - [x] Toggle modal windows
+            - [x] Record modal anwers
+    - [[Memory Captures]]
+        - Design Revamp marketing page [[Memory Captures]]
+            - Landing Page]([[MC landing page]]):  [[Memory Captures]] [[October 23rd, 2020]]
+                - [x] Footer
+                    - [x] Ensure that mailgun works
+            - Claim Page [[Memory Captures]]
+                - [x] figma prototype
+                - [x] above the fold
+            - [x] Blog Landing [[Memory Captures]]
+        - Spheres [[Memory Captures]]
+            - [x] Look over supervisor sphere [[Memory Captures]]
+            - [x] Finish stocking sphere [[Memory Captures]]
+    - [[Other]]
+    - [[Personal]]
+        - [ ] Investigate persisting login  site]]
 - 
-    - {{[[DONE]]}} Numbers section
-        - {{[[DONE]]}} Background
-        - {{[[DONE]]}} Dynamic Counter
-        - {{[[DONE]]}} Animate Photo Share
-    - {{[[DONE]]}} How it works section
-        - {{[[DONE]]}} Layout page
+    - [x] Numbers section
+        - [x] Background
+        - [x] Dynamic Counter
+        - [x] Animate Photo Share
+    - [x] How it works section
+        - [x] Layout page
             - Start-Time:: 10:35
                 - {{[[POMO]]: 25}}
                     - {{[[POMO]]: 5}}
                 - {{[[POMO]]: 25}}
-        - {{[[DONE]]}} Lazy load
+        - [x] Lazy load
             - {{[[POMO]]: 25}}
-        - {{[[DONE]]}} appear on scroll
+        - [x] appear on scroll
             - {{[[POMO]]: 25}}
-        - {{[[DONE]]}} zoom in
-        - {{[[DONE]]}} animate total
-    - {{[[DONE]]}} Above the fold
-    - {{[[DONE]]}} login form close on click away
+        - [x] zoom in
+        - [x] animate total
+    - [x] Above the fold
+    - [x] login form close on click away
         - {{[[POMO]]: 25}}
             - {{[[POMO]]: 5}}
         - {{[[POMO]]: 25}}
-- #[[Quick Capture]]
-    - [See Your Career as a Product](https://eriktorenberg.substack.com/p/see-your-career-as-a-product?utm_medium=email&utm_campaign=cta) #Article
+- [[Quick Capture]]
+    - [See Your Career as a Product](https://eriktorenberg.substack.com/p/see-your-career-as-a-product?utm_medium=email&utm_campaign=cta) [[Article]]
         - Quotes::
             - __"
 When building a product, you want something that is 10x better than the competition. Only after you have that do you begin doubling down on marketing, PR, and other growth tactics — the common advice is to nail retention before focusing on growth.
@@ -69,7 +69,7 @@ When building a product, you want something that is 10x better than the competit
                 - Refine your knowledge to make their time with you valuable.
             - Building networks that are too wide is like focusing on growth before finding product market fit. It takes too much time to maintain, and does not allow you to take as many risks for because ding the wrong thing can have an adverse effect on your risk.
                 - Building a wide network increases the risk of doing something that otherwise might still be risky but not as bad
-    - Tiago Forte on P.A.R.A. Resource:: #productivity
+    - Tiago Forte on P.A.R.A. Resource:: [[productivity]]
         - Project - A series of tasts linked to a goal with a deadling
         - Area of Responsibility - A sphere of activity with a standard to be maintained over time
         - Resource -  A topic of ongoing interest
@@ -109,8 +109,8 @@ When building a product, you want something that is 10x better than the competit
                 - Social Influence is the ability to get a group of people 
                 - to have a general acceptance of a viewpoint
                     - the different between getting others to do something something vs  doing their very best at something.
-- #[[Literature Notes]]
-- #Reflection
+- [[Literature Notes]]
+- [[Reflection]]
     - [[What did I learn]]
     - [[What went well?]]
     - [[What could be better?]]

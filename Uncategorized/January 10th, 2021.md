@@ -1,5 +1,5 @@
-- #[[Gratitude List]]
-- #[[Quick Capture]]
+- [[Gratitude List]]
+- [[Quick Capture]]
     - Chamath on Human Capital
         - https://www.youtube.com/watch?v=oD65g2RFSHI
         - So much of the best human capital is locked up on the 5 largest coorporations creating advertising platforms
@@ -53,21 +53,21 @@
                         - 3 Identify gaps in your explanation
                         - 4 Review and simplify
                         - 5 Go back to step 2
-- #[[Literature Notes]]
-- #Spheres 
-    - #Keypath
+- [[Literature Notes]]
+- [[Spheres]] 
+    - [[Keypath]]
         - {{[[query]]: {and: [[TODO]] [[Keypath]] {not: {or: [[query]][[Memory Captures]][[Other]][[Personal]]}}}}}
-    - #[[Memory Captures]]
+    - [[Memory Captures]]
         - {{[[query]]: {and: [[TODO]] [[Memory Captures]] {not: {or: [[query]][[Keypath]][[Other]][[Personal]]}}}}}
-    - #Other
+    - [[Other]]
         - {{[[query]]: {and: [[TODO]] [[Other]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Personal]]}}}}}
-    - #Personal
+    - [[Personal]]
         - {{[[query]]: {and: [[TODO]] [[Personal]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}
-    - #[[Generalized Specialized]]
+    - [[Generalized Specialized]]
         - {{[[query]]: {and: [[TODO]] [[Generalized Specialized]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}
-    - #MetaBook
+    - [[MetaBook]]
         - {{[[query]]: {and: [[TODO]] [[MetaBook]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Personal]][[Other]]}}}}}
-- #Reflection
+- [[Reflection]]
     - [[What did I learn]]
     - [[What went well?]]
     - [[What could be better?]]

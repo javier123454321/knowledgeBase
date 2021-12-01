@@ -1,43 +1,43 @@
-- #[[Gratitude List]] 
+- [[Gratitude List]] 
     - Amazing experiences growing up
     - 
-- #Spheres
-    - #Keypath
+- [[Spheres]]
+    - [[Keypath]]
         - **BUECS-1676**
-            - {{[[DONE]]}} import rxjs
+            - [x] import rxjs
                 - {{[[POMO]]: 25}}
-            - {{[[DONE]]}} Subscribe to updates when changing
+            - [x] Subscribe to updates when changing
                 - {{[[POMO]]: 25}}
-            - {{[[DONE]]}} count times submitted
+            - [x] count times submitted
                 - {{[[POMO]]: 25}}
             - View
-                - {{[[DONE]]}} render tables 
-                - {{[[DONE]]}} track answer input
+                - [x] render tables 
+                - [x] track answer input
                     - {{[[POMO]]: 25}}
                     - {{[[POMO]]: 25}}
-                - {{[[DONE]]}}  display submit button
+                - [x]  display submit button
                     - {{[[POMO]]: 25}}
                     - {{[[POMO]]: 25}}
-                - {{[[DONE]]}} activate submit button when complete
-                - {{[[DONE]]}} check answers on the table
-                - {{[[DONE]]}} reset incorrect answers
-                - {{[[DONE]]}} Display show correct answer buttons after 2 incorrect submissions
-                - {{[[DONE]]}} Label correct
-                - {{[[DONE]]}} Track when all have been submitted
+                - [x] activate submit button when complete
+                - [x] check answers on the table
+                - [x] reset incorrect answers
+                - [x] Display show correct answer buttons after 2 incorrect submissions
+                - [x] Label correct
+                - [x] Track when all have been submitted
             - Functionality
-                - {{[[DONE]]}} Reset all activities button when all are correct
-                - {{[[DONE]]}} remove all answers from selections
-                - {{[[DONE]]}} remove buttons when page is reset
-                - {{[[DONE]]}} import correct values from json file
+                - [x] Reset all activities button when all are correct
+                - [x] remove all answers from selections
+                - [x] remove buttons when page is reset
+                - [x] import correct values from json file
         - {{[[query]]: {and: [[TODO]] [[Keypath]] {not: {or: [[query]][[Memory Captures]][[Other]][[Personal]]}}}}}
-    - #[[Memory Captures]]
+    - [[Memory Captures]]
         - {{[[query]]: {and: [[TODO]] [[Memory Captures]] {not: {or: [[query]][[Keypath]][[Other]][[Personal]]}}}}}
-    - #Other
+    - [[Other]]
         - {{[[query]]: {and: [[TODO]] [[Other]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Personal]]}}}}}
-    - #Personal
+    - [[Personal]]
         - {{[[query]]: {and: [[TODO]] [[Personal]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}
-    - #[[Generalized Specialized]]
-- #[[Quick Capture]]
+    - [[Generalized Specialized]]
+- [[Quick Capture]]
     - There seems to be a fetishization of the real
     - How to build an audience
         - https://www.youtube.com/watch?v=BF39ZyeAnBk
@@ -80,7 +80,7 @@
         - we can easily fall into the trap of obsessing over the tools rather than the problem at hand
         - we want to not only think of a note taking system to be good for note taking, but to be a tool for a purpose. Sometimes we take too much time focusing on the tools that we use and not on the solutions that we are trying to achieve with those tools.
         - An educator's role is to create a condition where the present experience is taken into full advantage, where every aspect of a situation is exploited as a tool for learning, where we maximize the moment in the present, to carry with us this curiosity and disposition towards future experience.
-    - #generalist
+    - [[generalist]]
         - categories are human constructs, real world problems are not bothered by categories
             - thinking that solutions will come from only understanding the problem within the category that you are preconceiving is a faulty premise
             - categories are tools, but we cannot let tools define us
@@ -88,8 +88,8 @@
     - Did Mark Zuckerberg create a new industry?
         - wtf is social media marketing 
             - doesnt matter, it works
-- #[[Literature Notes]]
-- #Reflection
+- [[Literature Notes]]
+- [[Reflection]]
     - [[What did I learn]]
     - [[What went well?]]
     - [[What could be better?]]

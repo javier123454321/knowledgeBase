@@ -1,0 +1,24 @@
+{
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Uncategorized",
+  "vimMode": true,
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": true,
+  "spellcheck": true,
+  "promptDelete": false,
+  "spellcheckDictionary": [
+    "Buckminster",
+    "synergetics",
+    "influencers",
+    "influencer",
+    "instagram",
+    "MemoryCaptures",
+    "hacky",
+    "synergetic"
+  ],
+  "attachmentFolderPath": "Assets",
+  "enabledPlugins": []
+}

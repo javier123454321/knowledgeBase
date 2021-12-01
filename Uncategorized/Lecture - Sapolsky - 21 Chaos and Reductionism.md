@@ -1,7 +1,7 @@
 - Author:: [[Robert Sapolsky]]
-- Subject:: #Complexity
+- Subject:: [[Complexity]]
 - Summary::
-    - #Reductionism
+    - [[Reductionism]]
         - after the fall of Rome, when the language fragmentation happened, there was an incredible amount of information lost for Europe. 
             - Conquest of Toledo, where a single library there contained more knowledge that the entirety of Europe combined opened up the space for an incredible explosion.
                 - Syllogism was rediscovered all a are b, if a then b.
@@ -31,7 +31,7 @@
                     - Reductionism fails to describe system that have chance embedded into it
                         - Behavior of populations
         - Reductionism works to take apart clocks and put them back together, but not to explore why a cloud is not making it rain during a drought.
-    - #Complexity, #Chaos
+    - [[Complexity]], [[Chaos]]
         - $$ 1, 2, 3, 4, 5, 6$$ is a periodic system which can accurately predict $$n$$ in the future
             - It is both determinist and periodic
         - There are systems which are deterministic and aperiodic
@@ -48,7 +48,7 @@
                         - Tiny variations create more and more divergence and get magnified. 
                         - Chaotic systems see the noise in the system (as reductionist science would label it)  as an integral part of how the system behaves. This is true at any scale of the system. **The system is scale free**
                             - The closer you look has no role in reducing variability or noise in the system. It is not noise, it is the system. 
-                                - #Fractals
+                                - [[Fractals]]
                                     - There is no scale at which the system reduces in complexity
                                     - Information that codes for a pattern at a fractional dimension.
                                         - A line that can have an infinite amount of complexity, the closer you look it resembles a 2 dimensional object

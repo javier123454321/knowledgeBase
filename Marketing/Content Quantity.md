@@ -1,5 +1,5 @@
 Topics:
-#Marketing #ContentGeneration #Content
+[[Marketing]] [[ContentGeneration]] [[Content]]
 
 ---
 # Content Quantity

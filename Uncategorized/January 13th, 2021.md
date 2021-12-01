@@ -1,6 +1,6 @@
-- #[[Gratitude List]]
+- [[Gratitude List]]
     - I have a great support network. My family, my wife, sister, mom and dad. I can count on them to come through if I ever have a problem, they will listen to me and offer advice. I really don't know how many other people can count on that, I am sure that it is significant but it doesn't make mine less relevant.
-- #[[Quick Capture]]
+- [[Quick Capture]]
     - I thought this was going to be a normal interview with Jordan Peterson. After speaking with him at length, and with his daughter for even longer, I no longer have any idea what it is. I don’t know if this is a story about drug dependency, or doctors, or Peterson family dynamics — or a parable about toxic masculinity. Whatever else it is, it’s very strange.
     - Peterson, a clinical psychologist, is a conservative superstar of the culture wars. Born and raised in Alberta by a librarian and a teacher, he spent the first three decades of his career in relative academic obscurity, churning out papers and maintaining a small clinical practice. All that changed in 2016 when he challenged, on free-speech grounds, a new Canadian law he argued would legally compel him to use transgender people’s preferred pronouns. Practically overnight the Toronto professor became a YouTube sensation, posting videos and lectures attacking identity politics and political correctness, and dispensing bracing advice about how to be a real man. His 2018 self-help bestseller, __12 Rules for Life: An Antidote to Chaos__, has made him arguably the world’s most famous — and certainly its most controversial — public intellectual.
     - For three tumultuous years wherever Peterson went uproar and adoration followed. His explosive confrontation with Cathy Newman on __Channel 4 News__ in 2018 resulted in the network calling in security experts after some of his supporters posted abuse and threats online. To the millions of young men who idolise him, the erudite, unflappable 58-year-old is a kind of fantasy father figure. Life is tough, he warns them; they need to stop whining, tidy their room, stand up straight and deal with it. He accuses the “neo-Marxist radical left” of trying to “feminise” men, and defends traditional masculine dominance. According to Peterson men represent “order”. To his critics he represents the respectable face of reactionary misogyny, and a dangerous gateway drug to online alt-right radicalisation.
@@ -70,42 +70,42 @@
     - “If you would have asked me to lay odds on the probability that I would live to finish the recording, I would have bet you ten to one that I wouldn’t have. But I did the recording. And it was the same with the book. Because not to would have been worse. So, to the degree that I can explain how I was able to manage it, I’m not going to talk about willpower or courage, I’m going to talk about the lesser of two evils.”
     - Except, of course, that he has ended up framing his story in terms of his willpower and courage.
     - __Beyond Order: 12 More Rules for Life by Jordan B Peterson is published on March 2 (Allen Lane £25)__
-- #[[Literature Notes]]
-- #Spheres 
-    - #Keypath
+- [[Literature Notes]]
+- [[Spheres]] 
+    - [[Keypath]]
         - {{[[query]]: {and: [[TODO]] [[Keypath]] {not: {or: [[query]][[Memory Captures]][[Other]][[Personal]]}}}}}
-        - {{[[TODO]]}} Financial statement exercise
-            - {{[[DONE]]}} render table with fillable horizontal
-            - {{[[DONE]]}}  render table with fillable slots vertical
-            - {{[[DONE]]}} Make tooltips
-            - {{[[DONE]]}} make submit, render right or wrong
-            - {{[[DONE]]}} make a download correct  once both tables have been filled and submitted
-            - {{[[DONE]]}} Add a remaining submissions count
-            - {{[[DONE]]}} Double check 
-            - {{[[DONE]]}} Show boxes on input
-            - {{[[DONE]]}} Style the same as tables on top
-                - {{[[DONE]]}} fonts
-                - {{[[DONE]]}} width
-            - {{[[DONE]]}} button color
-            - {{[[DONE]]}} Double underline 
-            - {{[[DONE]]}} Bug on submit
-            - {{[[DONE]]}} Correct answers check
-            - {{[[DONE]]}} Take out show correct answers and attempts left on submit correct
-            - {{[[DONE]]}} Fix vertical analysis header
-            - {{[[TODO]]}} Fix tooltip text
-            - {{[[DONE]]}} Make svg rounded
+        - [ ] Financial statement exercise
+            - [x] render table with fillable horizontal
+            - [x]  render table with fillable slots vertical
+            - [x] Make tooltips
+            - [x] make submit, render right or wrong
+            - [x] make a download correct  once both tables have been filled and submitted
+            - [x] Add a remaining submissions count
+            - [x] Double check 
+            - [x] Show boxes on input
+            - [x] Style the same as tables on top
+                - [x] fonts
+                - [x] width
+            - [x] button color
+            - [x] Double underline 
+            - [x] Bug on submit
+            - [x] Correct answers check
+            - [x] Take out show correct answers and attempts left on submit correct
+            - [x] Fix vertical analysis header
+            - [ ] Fix tooltip text
+            - [x] Make svg rounded
             - 
-    - #[[Memory Captures]]
+    - [[Memory Captures]]
         - {{[[query]]: {and: [[TODO]] [[Memory Captures]] {not: {or: [[query]][[Keypath]][[Other]][[Personal]]}}}}}
-    - #Other
+    - [[Other]]
         - {{[[query]]: {and: [[TODO]] [[Other]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Personal]]}}}}}
-    - #Personal
+    - [[Personal]]
         - {{[[query]]: {and: [[TODO]] [[Personal]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}
-    - #[[Generalized Specialized]]
+    - [[Generalized Specialized]]
         - {{[[query]]: {and: [[TODO]] [[Generalized Specialized]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}
-    - #MetaBook
+    - [[MetaBook]]
         - {{[[query]]: {and: [[TODO]] [[MetaBook]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Personal]][[Other]]}}}}}
-- #Reflection
+- [[Reflection]]
     - [[What did I learn]]
     - [[What went well?]]
     - [[What could be better?]]

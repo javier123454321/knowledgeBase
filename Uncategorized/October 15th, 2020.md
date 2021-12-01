@@ -1,67 +1,67 @@
-- #Spheres 
-    - #Keypath
+- [[Spheres]] 
+    - [[Keypath]]
         - **Flowchart1**
-            - {{[[DONE]]}} Scroll back to page position
+            - [x] Scroll back to page position
         - **Dolly Caching**
-            - {{[[DONE]]}} Apply hotfix dolly
-            - {{[[DONE]]}} Create PR, tag dave
+            - [x] Apply hotfix dolly
+            - [x] Create PR, tag dave
         - **Flowchart2**
-            - {{[[DONE]]}} Create graphics in Illustrator 
-            - {{[[DONE]]}} Toggle modal windows
-            - {{[[DONE]]}} Record modal anwers
-    - #[[Memory Captures]]
-        - {{[[DONE]]}} Higher filter ad for applicants. #[[Memory Captures]] [[October 15th, 2020]]
+            - [x] Create graphics in Illustrator 
+            - [x] Toggle modal windows
+            - [x] Record modal anwers
+    - [[Memory Captures]]
+        - [x] Higher filter ad for applicants. [[Memory Captures]] [[October 15th, 2020]]
             - Focus on sales.
             - Process for hiring needs to be longer
             - 
-        - {{[[DONE]]}} Talk to Rohit
-        - {{[[DONE]]}} Pay me the $240
-        - Spheres #[[Memory Captures]]
-            - {{[[DONE]]}} Look over supervisor sphere #[[Memory Captures]]
-            - {{[[DONE]]}} Finish stocking sphere #[[Memory Captures]]
-    - #Other
-    - #Personal
+        - [x] Talk to Rohit
+        - [x] Pay me the $240
+        - Spheres [[Memory Captures]]
+            - [x] Look over supervisor sphere [[Memory Captures]]
+            - [x] Finish stocking sphere [[Memory Captures]]
+    - [[Other]]
+    - [[Personal]]
 - 
-    - {{[[DONE]]}} Add an incorrect answer style for when something is downloaded
+    - [x] Add an incorrect answer style for when something is downloaded
         - Start-Time:: 16:27
             - {{[[POMO]]: 25}}
         - End-Time:: 16:59
-    - {{[[DONE]]}} fix modal answer size problem on freeform answer
+    - [x] fix modal answer size problem on freeform answer
         - Start-Time::15:50
             - {{[[POMO]]: 25}}
         - End-Time:: 16:22
-    - {{[[DONE]]}} Display arrows on the solutions
+    - [x] Display arrows on the solutions
         - Start-Time:: 15:28
             - {{[[POMO]]: 25}}
         - End-Time:: 15:43
-    - {{[[DONE]]}} Fix download modal
+    - [x] Fix download modal
         - Start-Time::  15:15
             - {{[[POMO]]: 25}}
         - End-Time:: 15:27
-    - {{[[DONE]]}}  Go through and tag WD requests for log hours
+    - [x]  Go through and tag WD requests for log hours
         - Start-Time:: 14:45 
         - End-Time:: 15:04
             - {{[[POMO]]: 25}}
         - End-Time:: 
-    - {{[[DONE]]}} Be able to change your mind on an answer
+    - [x] Be able to change your mind on an answer
         - Start-Time:: 13:35
             - {{[[POMO]]: 25}}
             - {{[[POMO]]: 25}}
         - End-Time:: 14:44
-    - {{[[DONE]]}} Remove wrong answer checks 
-        - {{[[DONE]]}} Record all answers on the page
+    - [x] Remove wrong answer checks 
+        - [x] Record all answers on the page
             - {{[[POMO]]: 25}} 
             - Start-Time:: -11:21  
             - End-Time:: 11:45
-    - {{[[DONE]]}} Submit button appears on multiple choice
-    - {{[[DONE]]}} make sure submit button appears on textarea
+    - [x] Submit button appears on multiple choice
+    - [x] make sure submit button appears on textarea
         - {{[[POMO]]: 25}}
         - {{[[POMO]]: 25}} 
         - {{[[POMO]]: 25}}
         - End-Time:: 11:13
-- #[[Quick Capture]]
+- [[Quick Capture]]
     - Systematize your business systems for accelerated success (time - 12:33 -> 13:36)
-        - Type:: #Video
+        - Type:: [[Video]]
         - Source:: [Youtube](https://www.youtube.com/watch?v=r6VxBoDjPaQ)
         - Author:: Mel Abraham
         - Summary::
@@ -120,8 +120,8 @@
             - 
     - Tiago Forte on P.A.R.A.
         - ____ — via [The PARA Method: A Universal System for Organizing Digital Information - Forte Labs](https://fortelabs.co/blog/para/)
-- #[[Literature Notes]]
-- #Reflection
+- [[Literature Notes]]
+- [[Reflection]]
     - [[What did I learn]]
         - Robert Sapolski study on variability amongst different scales of studying science
     - [[What went well?]]

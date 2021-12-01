@@ -1,18 +1,18 @@
-- #[[Gratitude List]]
-- #Spheres 
-    - #Keypath
+- [[Gratitude List]]
+- [[Spheres]] 
+    - [[Keypath]]
         - {{[[query]]: {and: [[TODO]] [[Keypath]] {not: {or: [[query]][[Memory Captures]][[Other]][[Personal]]}}}}}
-    - #[[Memory Captures]]
+    - [[Memory Captures]]
         - {{[[query]]: {and: [[TODO]] [[Memory Captures]] {not: {or: [[query]][[Keypath]][[Other]][[Personal]]}}}}}
-    - #Other
+    - [[Other]]
         - {{[[query]]: {and: [[TODO]] [[Other]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Personal]]}}}}}
-    - #Personal
+    - [[Personal]]
         - {{[[query]]: {and: [[TODO]] [[Personal]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}
-    - #[[Generalized Specialized]]
+    - [[Generalized Specialized]]
         - {{[[query]]: {and: [[TODO]] [[Generalized Specialized]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}
-    - #MetaBook
+    - [[MetaBook]]
         - {{[[query]]: {and: [[TODO]] [[MetaBook]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Personal]][[Other]]}}}}}
-- #[[Quick Capture]]
+- [[Quick Capture]]
     - Rob Fitzpatrick on Start-up advice & How to talk to customers with Rob Fitzpatrick (The Mom Test)
         - [Youtube](https://www.youtube.com/watch?v=FG1Fa-t4AEQ)
         - What is the type of business that you are making
@@ -101,8 +101,8 @@
                 - Most founders need a vision that is big but a product that is small
                     - There is so much that you __want__ to do but is not possible just yet
                 - You have to juggle the two visions at the same time
-- #[[Literature Notes]]
-- #Reflection
+- [[Literature Notes]]
+- [[Reflection]]
     - [[What did I learn]]
     - [[What went well?]]
     - [[What could be better?]]

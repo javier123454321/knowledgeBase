@@ -1,37 +1,37 @@
 - 
-    - #Keypath
+    - [[Keypath]]
         - **BUECS-1676**
-            - {{[[DONE]]}} Check the answers correctly
-            - {{[[DONE]]}} removeAll Wrong Answers
-            - {{[[DONE]]}} Remove reset button after clicked
+            - [x] Check the answers correctly
+            - [x] removeAll Wrong Answers
+            - [x] Remove reset button after clicked
             - Accessibility check
-                - {{[[TODO]]}} make menu appear on enter
-                    - {{[[TODO]]}} Menu items list possible targets
-                    - {{[[TODO]]}} Select target from a list
+                - [ ] make menu appear on enter
+                    - [ ] Menu items list possible targets
+                    - [ ] Select target from a list
         - **Dolly Caching**
-            - {{[[DONE]]}} Apply hotfix dolly
+            - [x] Apply hotfix dolly
                 - {{[[POMO]]: 25}}
                 - {{[[POMO]]: 25}}
                 - {{[[POMO]]: 25}}
                 - {{[[POMO]]: 25}}
                 - {{[[POMO]]: 25}}
-                - {{[[DONE]]}} Investigate second call to css
+                - [x] Investigate second call to css
                     - {{[[POMO]]: 25}}
                     - {{[[POMO]]: 25}}
                     - {{[[POMO]]: 25}}
                     - {{[[POMO]]: 25}}
-            - {{[[DONE]]}} Create PR, tag dave
-    - #[[Memory Captures]]
-        - {{[[DONE]]}} Call Rose at noon
-        - {{[[DONE]]}} Keylock station
-        - Design Revamp marketing page #[[Memory Captures]]
-    - #home
+            - [x] Create PR, tag dave
+    - [[Memory Captures]]
+        - [x] Call Rose at noon
+        - [x] Keylock station
+        - Design Revamp marketing page [[Memory Captures]]
+    - [[home]]
         - {{[[query]]: {and: [[TODO]] [[home]] {not: [[query]]}}}}
-    - #Personal
+    - [[Personal]]
         - {{[[query]]: {and: [[TODO]] [[Personal]] {not: [[query]]}}}}
-- #DONE
-- #[[Quick Capture]]
-    - Notes on Quincy Larson on how to write technical blogposts #interviewee #[[Generalized Specialized]]
+- [[DONE]]
+- [[Quick Capture]]
+    - Notes on Quincy Larson on how to write technical blogposts [[interviewee]] [[Generalized Specialized]]
         - Source:: [Youtube](https://www.youtube.com/watch?v=YODPgBadj80)
         - Substance
             - Have something to say.Peter Koch - quirks mode
@@ -53,8 +53,8 @@
             - The last 10% of the work takes 90% of the time
             - Distribution is the last 10%
                 - 
-- #[[Literature Notes]]
-- #Reflection
+- [[Literature Notes]]
+- [[Reflection]]
     - [[What did I learn]]
     - [[What went well?]]
     - [[What could be better?]]

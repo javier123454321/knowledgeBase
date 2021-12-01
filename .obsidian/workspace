@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "2ffd2b15b308bd99",
+        "id": "b96ffb70693e187f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Uncategorized/Ethereum.md",
+            "file": "Uncategorized/BookApp.md",
             "mode": "source"
           }
         }
@@ -39,8 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "music",
-                "query": "",
+                "query": "MVP",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +76,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/Objects/this.md"
+                "file": "Uncategorized/BookApp.md"
               }
             }
           }
@@ -88,13 +87,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "50022dba4d267033",
             "id": "cd4c4f8b8e047694",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uncategorized/Ethereum.md",
+                "file": "Uncategorized/BookApp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uncategorized/Ethereum.md"
+                "file": "Uncategorized/BookApp.md"
               }
             }
           }
@@ -130,19 +128,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 575
+    "width": 459
   },
-  "active": "2ffd2b15b308bd99",
+  "active": "b96ffb70693e187f",
   "lastOpenFiles": [
-    "Uncategorized/Ethereum.md",
-    "Uncategorized/the Ethereum state database.md",
-    "Uncategorized/blockchain.md",
-    "Uncategorized/Untitled.md",
-    "JavaScript/ArrayOperators/array operators.md",
-    "Docker/DockerBasics.md",
-    "Daily Notes/2020-10-08.md",
-    "Daily Notes/2020-10-07.md",
-    "Assets/Pasted image 20210502102525.png",
-    "Assets/Pasted image 20210502101559.png"
+    "Uncategorized/BookApp.md",
+    "Uncategorized/Book.md",
+    "Memory Captures.md",
+    "November 3rd, 2020.md",
+    "Systems Thinking.md",
+    "Uncategorized/Buckminster Fuller Everything I Know.md",
+    "Uncategorized/Buckminster Fuller.md",
+    "Uncategorized/Ch1 - Traditional vs Experimental Education.md",
+    "Uncategorized/Ch5 the Nature of Freedom.md",
+    "Uncategorized/AWS EC2.md"
   ]
 }

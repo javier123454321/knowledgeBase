@@ -27,10 +27,10 @@ overconsumption, industrial processes that do not account for externalities,
                 - Spreading out amongst multiple domains that are seldom combined and going deep into them makes you much more valuable. Finance + Computer Science, etc.
                 - [[Winning even if you fail]]
                     - Take on projects that will provide skills that transcend the life of a project.
-                        - #[[Memory Captures]] plays that role for me. Learning how to manage and create systems, business processesses, management, product architecture, etc. 
+                        - [[Memory Captures]] plays that role for me. Learning how to manage and create systems, business processesses, management, product architecture, etc. 
                         - Do not siloh out your projects
                             - Make career decisions that allows you to be flexible, but do gain domain knowledge of a few key specific areas which will bring benefit into the future.
-    - [See Your Career as a Product](https://eriktorenberg.substack.com/p/see-your-career-as-a-product?utm_medium=email&utm_campaign=cta) #Article
+    - [See Your Career as a Product](https://eriktorenberg.substack.com/p/see-your-career-as-a-product?utm_medium=email&utm_campaign=cta) [[Article]]
         - Quotes::
             - __"
 When building a product, you want something that is 10x better than the competition. Only after you have that do you begin doubling down on marketing, PR, and other growth tactics — the common advice is to nail retention before focusing on growth.

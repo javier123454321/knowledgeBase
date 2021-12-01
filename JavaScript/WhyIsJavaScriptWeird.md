@@ -91,7 +91,7 @@ document.getElementById("btn1").addEventListener("click", handleClick);
 ``` 
 
 this will make it so that handleClick is called everytime a person
-clicks button of id `#btn1`. 
+clicks button of id `[[btn1]]`. 
 
 This is different than scripting languages where once the program reaches the bottom of the file, it 'dies'. 
 

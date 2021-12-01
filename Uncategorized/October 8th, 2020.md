@@ -1,19 +1,19 @@
 - 
-    - {{[[DONE]]}} talk to tenzig about SVGs
-    - {{[[DONE]]}} export pdf svg on click {{[[POMO]]: 25}}
-    - {{[[DONE]]}} Go to Mariachi & Deuces to stock up
-        - {{[[DONE]]}} deuces
-        - {{[[DONE]]}} mariachi
-    - {{[[DONE]]}} Finish blog post MC [[Marketing For Restaurants]]
+    - [x] talk to tenzig about SVGs
+    - [x] export pdf svg on click {{[[POMO]]: 25}}
+    - [x] Go to Mariachi & Deuces to stock up
+        - [x] deuces
+        - [x] mariachi
+    - [x] Finish blog post MC [[Marketing For Restaurants]]
     -  [[October 9th, 2020]]
 - [[October 9th, 2020]]
-    - #[[Memory Captures]]
-        - {{[[DONE]]}} Wrap up landing page #[[Memory Captures]] #[[MC Website]]
-    - #home
-        - {{[[DONE]]}} Buy toothpaste
+    - [[Memory Captures]]
+        - [x] Wrap up landing page [[Memory Captures]] [[MC Website]]
+    - [[home]]
+        - [x] Buy toothpaste
 - Today I learned
     - [[Square Invested In Bitcoin]]
-- #[[Quick Capture]]
+- [[Quick Capture]]
     - [[Conversation between [[Elon Musk]] and [[Sal Khan]]]]
         - Source:: [Youtube](https://www.youtube.com/watch?v=vDwzmJpI4io&t)
 
@@ -35,7 +35,7 @@
         - Design and science have always attracted me. Architecture and [[Frontend]] seem to have many similarities
     - [[Coronavirus Thoughts]]
         - https://twitter.com/jimmysong/status/1314298708796887040
-        - What have we been doing? There is a systematic issue with #coronavirus that is simply pathological. Does it exist, probably. Is it being abused in every context, definitely.
+        - What have we been doing? There is a systematic issue with [[coronavirus]] that is simply pathological. Does it exist, probably. Is it being abused in every context, definitely.
     - [[Operating Systems]]
     - [[Knowledge Graph]]
     - [[zettelkasten]]

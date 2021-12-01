@@ -1,35 +1,35 @@
 - 
     - 
-        - {{[[TODO]]}} Fix timetracking issues.
+        - [ ] Fix timetracking issues.
         - **BUECS-1676**
-            - {{[[DONE]]}} check for right answers
+            - [x] check for right answers
                 - Start-Time:: 15:34
                     - {{[[POMO]]: 25}}
                     - {{[[POMO]]: 25}}
-            - {{[[DONE]]}} reset wrong answers
+            - [x] reset wrong answers
             - Accessibility check
-                - {{[[TODO]]}} Select target from a list
-                - {{[[TODO]]}} Menu items list possible targets
-                - {{[[TODO]]}} make menu appear on enter
-    - #[[Memory Captures]]
-        - {{[[DONE]]}} Pitch Deck
-        - {{[[DONE]]}}  Post Flyer
-        - Design Revamp marketing page #[[Memory Captures]]
-            - Landing Page]([[MC landing page]]):  #[[Memory Captures]] [[October 23rd, 2020]]
-                - {{[[DONE]]}} Footer
-                    - {{[[DONE]]}} Ensure that mailgun works
-            - Claim Page #[[Memory Captures]]
-                - {{[[DONE]]}} figma prototype
-                - {{[[DONE]]}} above the fold
-            - {{[[DONE]]}} Blog Landing #[[Memory Captures]]
-        - Spheres #[[Memory Captures]]
-            - {{[[DONE]]}} Look over supervisor sphere #[[Memory Captures]]
-            - {{[[DONE]]}} Finish stocking sphere #[[Memory Captures]]
-    - #home
+                - [ ] Select target from a list
+                - [ ] Menu items list possible targets
+                - [ ] make menu appear on enter
+    - [[Memory Captures]]
+        - [x] Pitch Deck
+        - [x]  Post Flyer
+        - Design Revamp marketing page [[Memory Captures]]
+            - Landing Page]([[MC landing page]]):  [[Memory Captures]] [[October 23rd, 2020]]
+                - [x] Footer
+                    - [x] Ensure that mailgun works
+            - Claim Page [[Memory Captures]]
+                - [x] figma prototype
+                - [x] above the fold
+            - [x] Blog Landing [[Memory Captures]]
+        - Spheres [[Memory Captures]]
+            - [x] Look over supervisor sphere [[Memory Captures]]
+            - [x] Finish stocking sphere [[Memory Captures]]
+    - [[home]]
         - 
-    - #Personal
-- #DONE
-    - {{[[DONE]]}} make draggable and stick to target locations
+    - [[Personal]]
+- [[DONE]]
+    - [x] make draggable and stick to target locations
         - Start-Time:: 09:24
             - {{[[POMO]]: 25}}
             - {{[[POMO]]: 25}}
@@ -37,20 +37,20 @@
             - {{[[POMO]]: 25}}
             - {{[[POMO]]: 25}}
         - End-Time:: 15:18
-    - {{[[DONE]]}} Setup Project 
+    - [x] Setup Project 
         - Start-Time:: 13:38
             - {{[[POMO]]: 25}}
-    - {{[[DONE]]}} Place elements in page
+    - [x] Place elements in page
         - Start-Time:: 14:12
             - {{[[POMO]]: 25}}
             - {{[[POMO]]: 25}}
             - {{[[POMO]]: 25}}
             - {{[[POMO]]: 25}}
     - **Dolly Caching**
-        - {{[[DONE]]}} Apply hotfix dolly
-            - {{[[DONE]]}} Investigate second call to css
-        - {{[[DONE]]}} Create PR, tag dave
-- #[[Quick Capture]]
+        - [x] Apply hotfix dolly
+            - [x] Investigate second call to css
+        - [x] Create PR, tag dave
+- [[Quick Capture]]
     - [[Garry Tan]]
         - The Stockdale Paradox [YouTube](https://www.youtube.com/watch?v=dLicgt04hHY)
             - You must never confuse faith that you will prevail at the end-- which you can never afford to lose -- with the discipline to confront the most brutal facts of your current reality, whatever they may be.
@@ -63,8 +63,8 @@
                 - You need to acknowledge the problems - don't lie to yourself, then the problems become unknown unknowns.
                 - You need an extreme devotion to the truth, if you can't have that conversation with your management, then ypu have no management
             - To start a company you need to study reality carefully, then you need to bend it.
-- #[[Literature Notes]]
-- #Reflection
+- [[Literature Notes]]
+- [[Reflection]]
     - [[What did I learn]]
     - [[What went well?]]
     - [[What could be better?]]

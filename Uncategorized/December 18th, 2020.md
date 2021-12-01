@@ -1,16 +1,16 @@
-- #[[Gratitude List]] 
-- #Spheres 
-    - #Keypath
+- [[Gratitude List]] 
+- [[Spheres]] 
+    - [[Keypath]]
         - {{[[query]]: {and: [[TODO]] [[Keypath]] {not: {or: [[query]][[Memory Captures]][[Other]][[Personal]]}}}}}
-    - #[[Memory Captures]]
+    - [[Memory Captures]]
         - {{[[query]]: {and: [[TODO]] [[Memory Captures]] {not: {or: [[query]][[Keypath]][[Other]][[Personal]]}}}}}
-    - #Other
+    - [[Other]]
         - {{[[query]]: {and: [[TODO]] [[Other]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Personal]]}}}}}
-    - #Personal
+    - [[Personal]]
         - {{[[query]]: {and: [[TODO]] [[Personal]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}
-    - #[[Generalized Specialized]]
+    - [[Generalized Specialized]]
         - {{[[query]]: {and: [[TODO]] [[Generalized Specialized]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}
-- #[[Quick Capture]]
+- [[Quick Capture]]
     - #[[How we learn - the science of learning]
         - #[[How we learn - the science of learning]]
             - Source: [Youtube](https://www.youtube.com/watch?v=MB00YPqEWTE)
@@ -35,7 +35,7 @@
                 - [[Experience and Education]] would say, there should be real experiences associated with that learning
             - Finally, learning needs to be communal.
                 - 
-        - #[[Required Javascript for the Browser]]
+        - [[Required Javascript for the Browser]]
             - Idea for a short book with the 20% of ES6 functions that you need to make 80% of web stuff. 
                 - Assumes a basic knowledge of html and css this is a course for Javascript for the browser, not  Node. 
                 - Topics:
@@ -111,8 +111,8 @@
                         - netlify
                         - github pages
                         - shared hosting
-- #[[Literature Notes]]
-- #Reflection
+- [[Literature Notes]]
+- [[Reflection]]
     - [[What did I learn]]
     - [[What went well?]]
     - [[What could be better?]]

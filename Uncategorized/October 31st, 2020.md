@@ -1,35 +1,35 @@
-- #[[Gratitude List]] 
+- [[Gratitude List]] 
     - My family
     - My wife
     - Friends
     - That I have a working body and brain
     - That the world is full of all these interesting things to learn about
-- #Spheres
-    - #Keypath
+- [[Spheres]]
+    - [[Keypath]]
         - {{[[query]]: {and: [[TODO]] [[Memory Captures]] {not: {or: [[query]][[Memory Captures]][[Other]][[Personal]]}}}}}
-    - #[[Memory Captures]]
+    - [[Memory Captures]]
         - Front Page 09:09 tp 17:23
-            - {{[[DONE]]}} Wrap up landing page #[[Memory Captures]] #[[MC Website]]
-            - {{[[DONE]]}} Make responsive landing
+            - [x] Wrap up landing page [[Memory Captures]] [[MC Website]]
+            - [x] Make responsive landing
                 - {{[[POMO]]: 25}}
-            - {{[[DONE]]}} Make responsive how it works
+            - [x] Make responsive how it works
                 - {{[[POMO]]: 25}}
                 - {{[[POMO]]: 25}}
-            - {{[[DONE]]}} Make responsive contact
-            - {{[[DONE]]}} Make responsive numbers
-            - {{[[DONE]]}} display sidebar menu
+            - [x] Make responsive contact
+            - [x] Make responsive numbers
+            - [x] display sidebar menu
         - Claim Page
-            - {{[[DONE]]}} above the fold
-            - {{[[DONE]]}} Push router param
-            - {{[[DONE]]}} read router param
-            - {{[[DONE]]}} Sign up form modal for Newsletter on load
+            - [x] above the fold
+            - [x] Push router param
+            - [x] read router param
+            - [x] Sign up form modal for Newsletter on load
         - {{[[query]]: {and: [[TODO]] [[Memory Captures]] {not: {or: [[query]][[Keypath]][[Other]][[Personal]]}}}}}
-    - #Other
+    - [[Other]]
         - {{[[query]]: {and: [[TODO]] [[Other]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Personal]]}}}}}
-    - #Personal
+    - [[Personal]]
         - {{[[query]]: {and: [[TODO]] [[Personal]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}
-    - #[[Generalized Specialized]]
-- #[[Quick Capture]]
+    - [[Generalized Specialized]]
+- [[Quick Capture]]
     - The problem with community building based on very biased personal experience
         - It is quite difficult to get some kind of buy into a community
         - What encourages to post in a slack or a discord
@@ -38,14 +38,14 @@
         - Some of the nicest communities - Roam Slack
         - 
     - How can we develop transformative tools for thought?
-        - [Andy Matuschak](https://andymatuschak.org/) #interviewee
+        - [Andy Matuschak](https://andymatuschak.org/) [[interviewee]]
         - https://numinous.productions/ttft/
         - The internet and the computer always served as a promise for tools for expanding our thinking...
             - Has it delivered?
             - What work is being done to deliver that
             - How do you approach the question in a scientific way
     - Books are an innefective tools for processing information
-        [Andy Matuschak](https://andymatuschak.org/) #interviewee
+        [Andy Matuschak](https://andymatuschak.org/) [[interviewee]]
         https://andymatuschak.org/books/
         Books are limited by their medium
             - People seem to not recall the facts of a book, merely a broad stroke of what the book was originally saying
@@ -72,8 +72,8 @@
             - People struggle to absorb new material when their working memory is already overloaded [( 1 )](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4207727)
                 - Cannot expect a flurry of terms to be introduced, then to synthesize complex ideas about those terms in the same sentence
     - My 
-- #[[Literature Notes]]
-- #Reflection
+- [[Literature Notes]]
+- [[Reflection]]
     - [[What did I learn]]
     - [[What went well?]]
     - [[What could be better?]]

@@ -1,7 +1,7 @@
-- Type:: #Book #Podcast #Lecture #Video
+- Type:: [[Book]] [[Podcast]] [[Lecture]] [[Video]]
 - Author:: 
 - Subject::
-- Status:: #[[In Progress]]
+- Status:: [[In Progress]]
 - Abstract::
 - Summary::
     - Lecture II

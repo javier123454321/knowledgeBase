@@ -1,6 +1,6 @@
-- Type:: #Course
-- Subject:: #Webdev #[[Web Accessibility]]
-- Status:: #[[In Progress]]
+- Type:: [[Course]]
+- Subject:: [[Webdev]] [[Web Accessibility]]
+- Status:: [[In Progress]]
 - Abstract::
 - Summary::
     - part 1

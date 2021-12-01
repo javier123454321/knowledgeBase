@@ -1,19 +1,19 @@
 - Template Today [[roam/templates]]
-    - #[[Gratitude List]] 
-    - #Spheres 
-        - #Keypath
+    - [[Gratitude List]] 
+    - [[Spheres]] 
+        - [[Keypath]]
             - {{[[query]]: {and: [[TODO]] [[Keypath]] {not: {or: [[query]][[Memory Captures]][[Other]][[Personal]]}}}}}
-        - #[[Memory Captures]]
+        - [[Memory Captures]]
             - {{[[query]]: {and: [[TODO]] [[Memory Captures]] {not: {or: [[query]][[Keypath]][[Other]][[Personal]]}}}}}
-        - #Other
+        - [[Other]]
             - {{[[query]]: {and: [[TODO]] [[Other]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Personal]]}}}}}
-        - #Personal
+        - [[Personal]]
             - {{[[query]]: {and: [[TODO]] [[Personal]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}
-        - #[[Generalized Specialized]]
+        - [[Generalized Specialized]]
             - {{[[query]]: {and: [[TODO]] [[Generalized Specialized]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}
-        - #MetaBook
+        - [[MetaBook]]
             - {{[[query]]: {and: [[TODO]] [[MetaBook]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Personal]][[Other]]}}}}}
-    - #[[Quick Capture]]
+    - [[Quick Capture]]
         - Conversation with Michael about communities in learning
             - Learning is a social structure
                 - In a campus, the essential difference to e-learning is the basic infrastructure of learning
@@ -37,8 +37,8 @@
                                             - You move up in the hierarchy of  the learning community
             - Having access to the finished product. (Why you are doing the thing  and how it fits to the big picture)
             - Social rules of 
-    - #[[Literature Notes]]
-    - #Reflection
+    - [[Literature Notes]]
+    - [[Reflection]]
         - [[What did I learn]]
         - [[What went well?]]
         - [[What could be better?]]

@@ -1,7 +1,7 @@
-- Type:: #Lecture
-- Author::  #[[Buckminster Fuller]]
-- Subject:: #[[Systems Thinking]]
-- Status:: #[[In Progress]]
+- Type:: [[Lecture]]
+- Author::  [[Buckminster Fuller]]
+- Subject:: [[Systems Thinking]]
+- Status:: [[In Progress]]
 - Abstract::
 - Summary::
     - Part 1 [video](https://www.youtube.com/watch?v=h9nMMzErQhE&t=1462s)

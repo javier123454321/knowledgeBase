@@ -1,17 +1,17 @@
 - Centrality tells us the measure of signigificance in a node in a network  {{[[∆]]:3+2}}
-- #[[Gratitude List]] 
-- #Spheres 
-    - #Keypath
+- [[Gratitude List]] 
+- [[Spheres]] 
+    - [[Keypath]]
         - {{[[query]]: {and: [[TODO]] [[Keypath]] {not: {or: [[query]][[Memory Captures]][[Other]][[Personal]]}}}}}
-    - #[[Memory Captures]]
+    - [[Memory Captures]]
         - {{[[query]]: {and: [[TODO]] [[Memory Captures]] {not: {or: [[query]][[Keypath]][[Other]][[Personal]]}}}}}
-    - #Other
+    - [[Other]]
         - {{[[query]]: {and: [[TODO]] [[Other]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Personal]]}}}}}
-    - #Personal
+    - [[Personal]]
         - {{[[query]]: {and: [[TODO]] [[Personal]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}
-    - #[[Generalized Specialized]]
+    - [[Generalized Specialized]]
         - {{[[query]]: {and: [[TODO]] [[Generalized Specialized]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}
-- #[[Quick Capture]]
+- [[Quick Capture]]
     - Micro front ends
         - https://micro-frontends.org/
             - {{[[drawing]]}}
@@ -36,8 +36,8 @@ window.customElements.define('buy-button', BuyButton);```
 </buy-button>```
     - Money is a form of communication, and an effective one. It quantifies something profound, how much we value something.
     - 
-- #[[Literature Notes]]
-- #Reflection
+- [[Literature Notes]]
+- [[Reflection]]
     - [[What did I learn]]
         - About the ability to extend the HTMLElement class in HTML markup and javascrips
     - [[What went well?]]

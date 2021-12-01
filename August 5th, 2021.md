@@ -1,0 +1,30 @@
+- [[Gratitude List]]
+- [[Quick Capture]]
+    - [[ChainLink]]
+        - StarkNetCairo Lang
+    - Zero Knowledge Rollups, Zero Knowledge SNARKs
+        - ZK-Rollups, ZK-Snarks
+        - ZK rollup is a process of aggregating transactions offchain and only verifying them partially.
+            - 
+- [[Habits]]
+    - {{[[table]]}}
+        - Habit::
+            - Notes::
+        - [ ] Meditate
+        - [ ] Exercise
+        - [ ] Read a book
+        - [ ] Write
+- [[Reflection]]
+    - [[Do [[DSRP]] model on two distinct objects]]
+    - [[What did I learn]]
+    - [[What could be better?]]
+- [[Literature Notes]]
+- [[Spheres]] 
+    - [[Valorize]]
+        - [Notion Board](https://www.notion.so/59b8a1e9f91846d0ab94ae99b008a999?v=cfc35d56c3b8498783dea4d92146aa7d)
+    - [[Peapod]]
+        - {{[[query]]: {and: [[TODO]] [[Peapod]] {not: {or: [[query]][[Memory Captures]][[Other]][[Personal]]}}}}}
+    - [[Other]]
+        - {{[[query]]: {and: [[TODO]] [[Other]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Personal]]}}}}}
+    - [[Personal]]
+        - {{[[query]]: {and: [[TODO]] [[Personal]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}

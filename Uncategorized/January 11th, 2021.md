@@ -1,7 +1,7 @@
-- #[[Gratitude List]]
+- [[Gratitude List]]
     - Being able to move based on preference.
     - Having freedom
-- #[[Quick Capture]]
+- [[Quick Capture]]
     - #[[Structure and Interpretation of Computer Programs (SICP)]]
         - Lecture II Berkley  [YouTube](https://www.youtube.com/watch?v=8aFp84teahw&list=PLhMnuBfGeCDNgVzLPxF9o5UNKG1b-LFY9&index=2)
             - Computer science is the wrong term for the field
@@ -37,21 +37,21 @@ $$g(x)= 2(x + 3)$$
                 - $$\int_{a}^{b} x^2 \,dx = \frac{x^3}{3} + c$$
                     - It takes a function and returns other functions
             - functions are data in the computer science model.
-- #[[Literature Notes]]
-- #Spheres 
-    - #Keypath
+- [[Literature Notes]]
+- [[Spheres]] 
+    - [[Keypath]]
         - {{[[query]]: {and: [[TODO]] [[Keypath]] {not: {or: [[query]][[Memory Captures]][[Other]][[Personal]]}}}}}
-    - #[[Memory Captures]]
+    - [[Memory Captures]]
         - {{[[query]]: {and: [[TODO]] [[Memory Captures]] {not: {or: [[query]][[Keypath]][[Other]][[Personal]]}}}}}
-    - #Other
+    - [[Other]]
         - {{[[query]]: {and: [[TODO]] [[Other]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Personal]]}}}}}
-    - #Personal
+    - [[Personal]]
         - {{[[query]]: {and: [[TODO]] [[Personal]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}
-    - #[[Generalized Specialized]]
+    - [[Generalized Specialized]]
         - {{[[query]]: {and: [[TODO]] [[Generalized Specialized]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}
-    - #MetaBook
+    - [[MetaBook]]
         - {{[[query]]: {and: [[TODO]] [[MetaBook]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Personal]][[Other]]}}}}}
-- #Reflection
+- [[Reflection]]
     - [[What did I learn]]
     - [[What went well?]]
     - [[What could be better?]]

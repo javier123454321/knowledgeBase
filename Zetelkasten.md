@@ -1,6 +1,6 @@
 ---
 Topics:
-#productivity #notetaking #knowledgegraph
+[[productivity]] [[notetaking]] [[knowledgegraph]]
 
 ---
 # Zettelkasten 

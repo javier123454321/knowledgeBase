@@ -1,5 +1,5 @@
 Topics:
-#Marketing #blog #MemoryCaptures #Instagram
+[[Marketing]] [[blog]] [[MemoryCaptures]] [[Instagram]]
 
 ---
  ### Be Relevant

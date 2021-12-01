@@ -1,17 +1,17 @@
-- #[[Gratitude List]] 
+- [[Gratitude List]] 
     - That there are so many people that want what is best for each other
-- #Spheres
-    - #Keypath
+- [[Spheres]]
+    - [[Keypath]]
         - {{[[query]]: {and: [[TODO]] [[Keypath]] {not: {or: [[query]][[Memory Captures]][[Other]][[Personal]]}}}}}
-    - #[[Memory Captures]]
+    - [[Memory Captures]]
         - {{[[query]]: {and: [[TODO]] [[Memory Captures]] {not: {or: [[query]][[Keypath]][[Other]][[Personal]]}}}}}
-    - #Other
+    - [[Other]]
         - {{[[query]]: {and: [[TODO]] [[Other]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Personal]]}}}}}
-    - #Personal
+    - [[Personal]]
         - {{[[query]]: {and: [[TODO]] [[Personal]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}
-    - #[[Generalized Specialized]]
+    - [[Generalized Specialized]]
         - {{[[query]]: {and: [[TODO]] [[Generalized Specialized]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}
-- #[[Quick Capture]]
+- [[Quick Capture]]
     - Covid has shaken the foundations of modern epistemology
         - Concurrent and opposing truths about the world cannot be true at the same time
         - Precise observation about the world should lead to more accurate truths
@@ -22,10 +22,10 @@
     - Vinay Gupta on Mattereum
         - Extremely ambitious system thinking approach to solving the problem of the influx of the urban poor into the middle class that is expected in the next 30 years
             - The communication problem of this
-                - This requires a systems thinking approach
+                - This requires a [Systems Thinking](Systems%20Thinking.md) approach
         - The incormation
-- #[[Literature Notes]]
-- #Reflection
+- [[Literature Notes]]
+- [[Reflection]]
     - [[What did I learn]]
     - [[What went well?]]
     - [[What could be better?]]

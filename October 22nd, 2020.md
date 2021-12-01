@@ -1,0 +1,14 @@
+- 
+    - [[Memory Captures]]
+    - [[home]]
+    - [[Personal]]
+- [[DONE]]
+    - [x] check for right answers
+    - [x] reset wrong answers
+    - [x] 3 strikes
+        - {{[[POMO]]: 25}}
+- [[Quick Capture]]
+- [[Literature Notes]]
+- [[Reflection]]
+    - [[What did I learn]]
+    - [[What could be better?]]

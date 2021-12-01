@@ -1,5 +1,5 @@
 Topics:
-#Webdev #[[Frontend]] #design #art
+[[Webdev]] [[Frontend]] [[design]] [[art]]
 
 ---
 

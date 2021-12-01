@@ -21,3 +21,7 @@ where p(a) is the lookup of all the codeHash for an address KEC(a) and the stora
  5. value: Wei sent to recipient or contract
  6. v, r, s: Signature or sender
 1. init or data: the allocation of space for the EVM code of the smart contract (init) or a message in the transaction (data).
+
+## Gas and Payment
+A mechanism to avoid endless loops. Every transaction requires gas to be included into the global state. You set up a Gas Limit and Gas Price because any change is returned to the user if the transaction does not consume the entirety of it. 
+A miner can choose to ignore the transaction, so a higher price increases the probability of a transaction being included in the next block. 

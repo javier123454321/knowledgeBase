@@ -1,25 +1,25 @@
-- #[[Gratitude List]] 
+- [[Gratitude List]] 
     - 
-- #Spheres 
-    - #Keypath
-        - {{[[DONE]]}} Do a screen reader check
-        - {{[[DONE]]}} Add fixes to the suff interactive
-            - {{[[DONE]]}} tab back to the last focused element
+- [[Spheres]] 
+    - [[Keypath]]
+        - [x] Do a screen reader check
+        - [x] Add fixes to the suff interactive
+            - [x] tab back to the last focused element
                 - {{[[POMO]]: 25}}
-            - {{[[DONE]]}} put span underneath in short
-            - {{[[DONE]]}} place periods
-            - {{[[DONE]]}} keep standard state expanded for tabs
+            - [x] put span underneath in short
+            - [x] place periods
+            - [x] keep standard state expanded for tabs
         - {{[[query]]: {and: [[TODO]] [[Keypath]] {not: {or: [[query]][[Memory Captures]][[Other]][[Personal]]}}}}}
-    - #[[Memory Captures]]
+    - [[Memory Captures]]
         - {{[[query]]: {and: [[TODO]] [[Memory Captures]] {not: {or: [[query]][[Keypath]][[Other]][[Personal]]}}}}}
-    - #Other
+    - [[Other]]
         - {{[[query]]: {and: [[TODO]] [[Other]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Personal]]}}}}}
-    - #Personal
+    - [[Personal]]
         - {{[[query]]: {and: [[TODO]] [[Personal]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}
-    - #[[Generalized Specialized]]
+    - [[Generalized Specialized]]
         - {{[[query]]: {and: [[TODO]] [[Generalized Specialized]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}
-- #[[Quick Capture]]
-    - #[[Entrepreneur Meetup]]
+- [[Quick Capture]]
+    - [[Entrepreneur Meetup]]
         - Pick a pain point,
             - look into the thinkgs, keep an eye out for this as you go through life.
         - Identify your target audience
@@ -35,8 +35,8 @@
             - Don't think that there is no competition.
                 - Do a deep analysis by getting out of your comfort zone
                 - 
-- #[[Literature Notes]]
-- #Reflection
+- [[Literature Notes]]
+- [[Reflection]]
     - [[What did I learn]]
     - [[What went well?]]
     - [[What could be better?]]

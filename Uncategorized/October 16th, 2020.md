@@ -1,83 +1,83 @@
-- #Spheres 
-    - #Keypath
+- [[Spheres]] 
+    - [[Keypath]]
         - **Flowchart1**
-            - {{[[DONE]]}} click handler close modal
+            - [x] click handler close modal
         - **Dolly Caching**
-            - {{[[DONE]]}} Apply hotfix dolly
-            - {{[[DONE]]}} Create PR, tag dave
+            - [x] Apply hotfix dolly
+            - [x] Create PR, tag dave
         - **Flowchart2**
-            - {{[[DONE]]}} Create graphics in Illustrator 
-            - {{[[DONE]]}} Toggle modal windows
-            - {{[[DONE]]}} Record modal anwers
-    - #[[Memory Captures]]
-        - Design Revamp marketing page #[[Memory Captures]]
-            - Landing Page]([[MC landing page]]):  #[[Memory Captures]] [[October 23rd, 2020]]
-                - {{[[DONE]]}} Above the fold
-                    - {{[[DONE]]}} login form close on click away
+            - [x] Create graphics in Illustrator 
+            - [x] Toggle modal windows
+            - [x] Record modal anwers
+    - [[Memory Captures]]
+        - Design Revamp marketing page [[Memory Captures]]
+            - Landing Page]([[MC landing page]]):  [[Memory Captures]] [[October 23rd, 2020]]
+                - [x] Above the fold
+                    - [x] login form close on click away
                         - {{[[POMO]]: 25}}
                             - {{[[POMO]]: 5}}
                         - {{[[POMO]]: 25}}
-                - {{[[DONE]]}} How it works section
-                    - {{[[DONE]]}} Animate Photo Share
-                    - {{[[DONE]]}} Layout page
+                - [x] How it works section
+                    - [x] Animate Photo Share
+                    - [x] Layout page
                         - Start-Time:: 10:35
                             - {{[[POMO]]: 25}}
                                 - {{[[POMO]]: 5}}
                             - {{[[POMO]]: 25}}
-                    - {{[[DONE]]}} Lazy load
+                    - [x] Lazy load
                         - {{[[POMO]]: 25}}
-                    - {{[[DONE]]}} appear on scroll
+                    - [x] appear on scroll
                         - {{[[POMO]]: 25}}
-                    - {{[[DONE]]}} zoom in
-                    - {{[[DONE]]}} animate total
+                    - [x] zoom in
+                    - [x] animate total
                         - {{[[POMO]]: 25}}
-                - {{[[DONE]]}} Numbers section
-                    - {{[[DONE]]}} Background
+                - [x] Numbers section
+                    - [x] Background
                         - {{[[POMO]]: 25}}
                         - {{[[POMO]]: 25}}
-                    - {{[[DONE]]}} Dynamic Counter
-                - {{[[DONE]]}} Footer
-                    - {{[[DONE]]}} Ensure that mailgun works
-                    - {{[[DONE]]}} Create a mailing list
-                        - {{[[DONE]]}} Embed on page
-            - Claim Page #[[Memory Captures]]
-            - {{[[DONE]]}} Blog Landing #[[Memory Captures]]
-        - Spheres #[[Memory Captures]]
-            - {{[[DONE]]}} Look over supervisor sphere #[[Memory Captures]]
-            - {{[[DONE]]}} Finish stocking sphere #[[Memory Captures]]
+                    - [x] Dynamic Counter
+                - [x] Footer
+                    - [x] Ensure that mailgun works
+                    - [x] Create a mailing list
+                        - [x] Embed on page
+            - Claim Page [[Memory Captures]]
+            - [x] Blog Landing [[Memory Captures]]
+        - Spheres [[Memory Captures]]
+            - [x] Look over supervisor sphere [[Memory Captures]]
+            - [x] Finish stocking sphere [[Memory Captures]]
 - 
-    - {{[[DONE]]}} Nav Bar #[[Memory Captures]]
-    - {{[[DONE]]}} skew graphic #[[Memory Captures]]
+    - [x] Nav Bar [[Memory Captures]]
+    - [x] skew graphic [[Memory Captures]]
         - Start-Time:: 18:45
             - {{[[POMO]]: 25}}
-    - {{[[DONE]]}} Claim Photo section #[[Memory Captures]]
+    - [x] Claim Photo section [[Memory Captures]]
         - Start-Time:: 19:02
         - {{[[POMO]]: 25}}
         - {{[[POMO]]: 25}}
         - {{[[POMO]]: 5}}
-    - {{[[DONE]]}} 3 partners section #[[Memory Captures]]
+    - [x] 3 partners section [[Memory Captures]]
         - {{[[POMO]]: 5}}
-    - {{[[DONE]]}} Open on button enter
+    - [x] Open on button enter
         - {{[[POMO]]: 25}}
         - {{[[POMO]]: 25}}
         - {{[[POMO]]: 25}}
-    - {{[[DONE]]}} Scroll back to page position
+    - [x] Scroll back to page position
         - Start-Time:: 10:24
             - {{[[POMO]]: 25}}
             - {{[[POMO]]: 25}}
         - End-Time:: 11:18
-    - {{[[DONE]]}} Download weirdness
+    - [x] Download weirdness
         - Start-Time:: 11:32
             - {{[[POMO]]: 25}}
             - {{[[POMO]]: 25}}
             - {{[[POMO]]: 25}}
             - 
-    - {{[[DONE]]}} Figma Prototype
-    - {{[[DONE]]}} Higher filter ad for applicants. #[[Memory Captures]] [[October 15th, 2020]]
+    - [x] Figma Prototype
+    - [x] Higher filter ad for applicants. [[Memory Captures]] [[October 15th, 2020]]
         - Focus on sales.
         - Process for hiring needs to be longer
         - 
-- #[[Quick Capture]]
+- [[Quick Capture]]
     - Tesla autopilot fooled by a billboard showing a stop sign
         - https://www.wired.com/story/tesla-model-x-autopilot-phantom-images/
         - Seems like someone really trying to grasp at a reason to insert doubt into the concept of autonomous vehicles
@@ -138,10 +138,10 @@ I will...
                                     - Teaching Others 90%
                                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FJavier-knowledge-graph%2FiOVZ3bJviT.png?alt=media&token=31bfaeb1-7baa-4d85-87b4-e8a5a37a44c2)
                                         - When trying to teach something that you know, you reveal what you know
-                                        - You gain clarity through articulation #Quote
+                                        - You gain clarity through articulation [[Quote]]
                                             - Tweet
                                             - Short long port
-                                            - [[Show Your Work]] #[[want to read]]
+                                            - [[Show Your Work]] [[want to read]]
                                             - Balance between what you know and what you can teach. 
                                                 - You don't have to be an absolute expert before you share
                                                 - If I don't share, teach, it might go away
@@ -153,8 +153,8 @@ I will...
         - Questions about tools that automate the Web Dev process
             - You are not what you make, you need to change the focus from the what to the why. Being able to achieve something that requires technical capacity is less important as automation increases.
             - 
-- #[[Literature Notes]]
-- #Reflection
+- [[Literature Notes]]
+- [[Reflection]]
     - [[What did I learn]]
     - [[What went well?]]
     - [[What could be better?]]

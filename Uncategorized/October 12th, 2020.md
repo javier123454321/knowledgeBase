@@ -1,20 +1,20 @@
 - ## 
-    - ### #[[Memory Captures]]
-        - {{[[DONE]]}} Talk to Rohit
-        - {{[[DONE]]}} Higher filter ad for applicants. #[[Memory Captures]] [[October 15th, 2020]]
-        - {{[[DONE]]}} Review Curriculum #[[Memory Captures]]
-        - {{[[DONE]]}} Change the button #[[Memory Captures]]
-    - ## #home
-    - ## #Personal
-- #DONE
-    - {{[[DONE]]}} Contact Dave about testing Gizmo #Keypath
-    - {{[[DONE]]}} Label with screen reader #Keypath
-    - {{[[DONE]]}} Call T-Mobile #[[Memory Captures]]
-    - {{[[DONE]]}} make popup appear on enter #Keypath
-    - {{[[DONE]]}} focus tab on popup #Keypath
-        - {{[[DONE]]}} Capture all tabs in a loop #Keypath
-        - {{[[DONE]]}} focus back on svg #Keypath
-- # #[[Quick Capture]]
+    - ### [[Memory Captures]]
+        - [x] Talk to Rohit
+        - [x] Higher filter ad for applicants. [[Memory Captures]] [[October 15th, 2020]]
+        - [x] Review Curriculum [[Memory Captures]]
+        - [x] Change the button [[Memory Captures]]
+    - ## [[home]]
+    - ## [[Personal]]
+- [[DONE]]
+    - [x] Contact Dave about testing Gizmo [[Keypath]]
+    - [x] Label with screen reader [[Keypath]]
+    - [x] Call T-Mobile [[Memory Captures]]
+    - [x] make popup appear on enter [[Keypath]]
+    - [x] focus tab on popup [[Keypath]]
+        - [x] Capture all tabs in a loop [[Keypath]]
+        - [x] focus back on svg [[Keypath]]
+- # [[Quick Capture]]
     - [Article](https://medium.com/sfi-30-foundations-frontiers/emergence-a-unifying-theme-for-21st-century-science-4324ac0f951e) by David Pines of the Santa Fe Institute in my saved reddit feed from 5 years ago. 
         - Unifying a theory of complexity is impossible as everything seems to be a non linear system.
             - A theory of non-linear phenomena is like a theory of non-cow phenomena, too broad to be a useful category. 
@@ -47,7 +47,7 @@
             - Accessibility should not feel like a hacky afterthought, but an inherent feature where the 'correct' approach is not laborious but feels more embedded.
         - Is the market inherently ableist, with little incentives to create an accessible web interface
             - Litigation definitely sped up the pace of innovation in the field of web accessibility, 
-    - #zettelkasten
+    - [[zettelkasten]]
         - Tweet about the process
             - https://twitter.com/ZFleischmann/status/1309167935055900674?s=19
             - Reference > Literature > Permanent > block outlines
@@ -64,7 +64,7 @@
             - Indian she definitely is pushing for an evidence-based approach to economics which for the most part I agree with him on that in general. the problem of course is that a kannamma Cooks it's not an evidence-based science but a philosophical eBay science that tries to create models that corresponds was a very cartoonish version of reality
                 - conservatives tend to be against any type of government program that it that is increasing government spending because they see it as the beginning of the wedge of increased government spending in many different domains
                     - claims to pretty unequivocal literature that since asked that raising the minimum wage to $12 per hour would be economically beneficial and would not have any particularly negative effects on jobs right the upper end of the racing of the minimum wage is where the problematic starts starts to be less defined
-- # #[[Literature Notes]]
+- # [[Literature Notes]]
     - The science of emergent behavior is interesting, as it necessitates an origin from the point of interconnectedness at the largest of scales. 
         - Given that a system can exhibit behavior unable to be described by its individual parts - the definition of complexity - we would need to start our investigation on the emergent phenomenon at the largest observable scale. 
             - This immediatlely  leads to questions of observability, given our situation as human subjects in the world. What is the largest observable system that we are a part of? 

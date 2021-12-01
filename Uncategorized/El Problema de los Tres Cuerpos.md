@@ -1,7 +1,7 @@
-- Type:: #Book
+- Type:: [[Book]]
 - Author:: 
 - Subject::
-- Status:: #[[In Progress]] 
+- Status:: [[In Progress]] 
 - Abstract::
 - Summary::
     - Capitulo 1

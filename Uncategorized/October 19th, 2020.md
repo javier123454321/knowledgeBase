@@ -1,35 +1,35 @@
 - ## 
     - 
-    - ### #[[Memory Captures]]
-        - {{[[DONE]]}} Pitch Deck
-        - {{[[DONE]]}}  Post Flyer
-        - Design Revamp marketing page #[[Memory Captures]]
-            - Landing Page]([[MC landing page]]):  #[[Memory Captures]] [[October 23rd, 2020]]
-                - {{[[DONE]]}} Footer
-                    - {{[[DONE]]}} Ensure that mailgun works
-                    - {{[[DONE]]}} Setup Mail List
+    - ### [[Memory Captures]]
+        - [x] Pitch Deck
+        - [x]  Post Flyer
+        - Design Revamp marketing page [[Memory Captures]]
+            - Landing Page]([[MC landing page]]):  [[Memory Captures]] [[October 23rd, 2020]]
+                - [x] Footer
+                    - [x] Ensure that mailgun works
+                    - [x] Setup Mail List
                         - Start-Time:: 10:48
                             - {{[[POMO]]: 25}}
                             - {{[[POMO]]: 25}}
                         - End-Time:: 13:39
                     - 
-            - Claim Page #[[Memory Captures]]
-                - {{[[DONE]]}} figma prototype
-                - {{[[DONE]]}} above the fold
-            - {{[[DONE]]}} Blog Landing #[[Memory Captures]]
-        - Spheres #[[Memory Captures]]
-            - {{[[DONE]]}} Look over supervisor sphere #[[Memory Captures]]
-            - {{[[DONE]]}} Finish stocking sphere #[[Memory Captures]]
-    - ### #home
+            - Claim Page [[Memory Captures]]
+                - [x] figma prototype
+                - [x] above the fold
+            - [x] Blog Landing [[Memory Captures]]
+        - Spheres [[Memory Captures]]
+            - [x] Look over supervisor sphere [[Memory Captures]]
+            - [x] Finish stocking sphere [[Memory Captures]]
+    - ### [[home]]
         - 
-    - ### #Personal
+    - ### [[Personal]]
         - {{[[query]]: {and: [[TODO]] [[Personal]] {not: [[query]]}}}}
-- ## #DONE
-    - {{[[DONE]]}} Call Tony
+- ## [[DONE]]
+    - [x] Call Tony
     - **Flowchart1**
-        - {{[[DONE]]}} click handler close modal
+        - [x] click handler close modal
             - {{[[POMO]]: 25}}
-- ## #[[Quick Capture]]
+- ## [[Quick Capture]]
     - [[E-Learning]]
         - https://www.nytimes.com/2020/06/13/health/school-learning-online-education.html
         - It seems that the main issue in online learning based on this article, is that students tend to become disengaged when participating in online learning experiences. 
@@ -61,8 +61,8 @@
                 - Google - to organize the world's information
                 - Khan - To provide a world class education to everyone, everywhere
                 - The mission can be sliding, where it is an ambition you go towards but never reach, or as you get closer to reaching it, what it means changes.
-- ## #[[Literature Notes]]
-- ## #Reflection
+- ## [[Literature Notes]]
+- ## [[Reflection]]
     - [[What did I learn]]
     - [[What went well?]]
     - [[What could be better?]]

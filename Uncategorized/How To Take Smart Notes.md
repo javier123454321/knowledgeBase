@@ -1,7 +1,7 @@
-- Type:: #Book
+- Type:: [[Book]]
 - Author:: #[[Sönke Ahrens]]
-- Subject:: #[[Note Taking]]
-- Status:: #[[In Progress]]
+- Subject:: [[Note Taking]]
+- Status:: [[In Progress]]
 - Abstract::
     - Dealing with all the work that comes before ever writing a book. It focuses on the least focused on, yet most prevailing form of writing.
 - Summary::
@@ -56,7 +56,7 @@
         - shipping containers
             - they completely revolutionized am industry
             - it was a product of taking a simple idea,  or a problem - how do we deliver goods to consumers? and crafting a solution 
-            - Looking at the problem without being buried in the traditional way, the conventions that people have about it allowed the inventor to think PAST the original solution and release efficiencies that would otherwise go undiscovered. this technique isnt new, but it is difficult, reminds me of how [hey.com](((ouIPudj9V)))  rethought email by starting from the first principles, or how satoshi nakamoto invented bitcoin amd created a new reality that we have to now contend with #[[design thinking]]
+            - Looking at the problem without being buried in the traditional way, the conventions that people have about it allowed the inventor to think PAST the original solution and release efficiencies that would otherwise go undiscovered. this technique isnt new, but it is difficult, reminds me of how [hey.com](((ouIPudj9V)))  rethought email by starting from the first principles, or how satoshi nakamoto invented bitcoin amd created a new reality that we have to now contend with [[design thinking]]
         - the note system rephrased the problem of writing notes to one end, producing written works that will exist in the world
             - it is meant to take the friction out of the recording of information. you dont have to worry about how to categorize your thoughts, or having to find them
                 - it does not get more complicated as it grows, it actually becomes simpler and the topics dont have to be brainstormed, but they actually emerge from the system itself
@@ -281,12 +281,12 @@ relations between notes are more favorable to relations from index to notes
     - The system allows for the way which we naturally write content about a specific topic to be baked into the process of creating notes for it. It is frontloading the effort to the point where it has the  least friction.
         - The next step is really interesting, as the suggestion is for an order to emerge naturally rather than synthetically. Topics, areas and ideas for written work should not be forced, but will reveal themselves as the network becomes larger. 
     - At the core of the argument is an idea about why we read and write, and how we can use that to produce something valuable from it. Reading is not just acquiring information [( 1 )](((bTl37ljSz))) but the goal of reading, researching, writing, and publishing is to garner something valuable from that process.
-    - The genius of the method that is Zettlekasten is the fact that it repurposes and reimagines the process of note taking into a tool for a given purpose. If a note taking method was to be designed from first principles, it would definitely have to be geared towards a specific purpose and built around how it can achieve that, the zettlekasten is that for nonfiction writing. #[[design thinking]]
+    - The genius of the method that is Zettlekasten is the fact that it repurposes and reimagines the process of note taking into a tool for a given purpose. If a note taking method was to be designed from first principles, it would definitely have to be geared towards a specific purpose and built around how it can achieve that, the zettlekasten is that for nonfiction writing. [[design thinking]]
     - The zettlekasten is a process of distilling the information that you consume and formulating your thoughts around it into ideas that you can reuse for publications 
     - we want to not only think of a note taking system to be good for note taking, but to be a tool for a purpose. Sometimes we take too much time focusing on the tools that we use and not on the solutions that we are trying to achieve with those tools.
         - The goal of the notetaking system is to facilitate your output, to maximize the processing of information that you are doing, and to create positive feedback loops for you to continue thinking rigorously
             - it does this by modeling the system in a way that parallels what neuroscience has determined about how we think 0
-- #[[Quick Capture]]
+- [[Quick Capture]]
     - notes in the slip box dont have to worry about completeness
     - completeness comes when a final manuscript is being worked on
     - we cam also create an index for our permanent notes, but we should be thinking of it sparsely. The overview of the slib box is impossible to maintain in working memory.
@@ -296,7 +296,7 @@ relations between notes are more favorable to relations from index to notes
     - every attempt at creating an overview is also treated as a note and is subject to change
         - there is no primacy when considering the ontology of an overview note, the overview is still seen as a distinct idea.
         - this is thinking in terms of fractals where the whole and the details have the same importance
-- #[[Permanent Notes]]
+- [[Permanent Notes]]
     - Writing is difficult, and we tend to do it very seldom. When we do go about doing it, it is cumbersome, hard to group your thoughts together, involves lots of going back and rereading things to put them in the right context, and can be exhausting. Yet today we are consuming more information than ever, more often than ever. 
     - The book is about a first principles approach to designing a system that has the goal of facilitating the process of thinking through an approach to note taking. Note taking, as it seems, is the lowest effort and most voluminous type of writing that we do, yet the one that is least often focused on when going into the topic of writing. Traditional advice focuses on writing as a linear model from ideation to finished output with discrete steps in the way. This is of course not at all how we actually think, and a very low fidelity model to the point where it can be detrimental to apply it. 
         - The issue is that thinking of new ideas is an open ended and indeterminate process that cannot be structured. Ideas are good for the connections that they have with other ideas, for the 

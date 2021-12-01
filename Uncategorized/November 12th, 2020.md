@@ -1,24 +1,24 @@
-- #[[Gratitude List]] 
+- [[Gratitude List]] 
     - My beautiful wife
     - 
-- #Spheres 
-    - #Keypath
+- [[Spheres]] 
+    - [[Keypath]]
         - {{[[query]]: {and: [[TODO]] [[Keypath]] {not: {or: [[query]][[Memory Captures]][[Other]][[Personal]]}}}}}
-    - #[[Memory Captures]]
+    - [[Memory Captures]]
         - {{[[query]]: {and: [[TODO]] [[Memory Captures]] {not: {or: [[query]][[Keypath]][[Other]][[Personal]]}}}}}
-    - #Other
+    - [[Other]]
         - {{[[query]]: {and: [[TODO]] [[Other]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Personal]]}}}}}
-    - #Personal
-        - {{[[TODO]]}} ver lo de la sat
-        - {{[[DONE]]}} change check rent 
-        - {{[[DONE]]}} Check in about christmas with dad
-        - {{[[DONE]]}} car thing
+    - [[Personal]]
+        - [ ] ver lo de la sat
+        - [x] change check rent 
+        - [x] Check in about christmas with dad
+        - [x] car thing
         - {{[[query]]: {and: [[TODO]] [[Personal]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}
-    - #[[Generalized Specialized]]
+    - [[Generalized Specialized]]
         - {{[[query]]: {and: [[TODO]] [[Generalized Specialized]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}
-- #[[Quick Capture]]
-- #[[Literature Notes]]
-- #Reflection
+- [[Quick Capture]]
+- [[Literature Notes]]
+- [[Reflection]]
     - [[What did I learn]]
     - [[What went well?]]
     - [[What could be better?]]

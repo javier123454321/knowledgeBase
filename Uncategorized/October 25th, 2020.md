@@ -1,14 +1,14 @@
 - 
-    - #Keypath
+    - [[Keypath]]
         - {{[[query]]: {and: [[TODO]] [[Keypath]] {not: [[query]]}}}}
-    - #[[Memory Captures]]
-        - Design Revamp marketing page #[[Memory Captures]]
-    - #home
+    - [[Memory Captures]]
+        - Design Revamp marketing page [[Memory Captures]]
+    - [[home]]
         - {{[[query]]: {and: [[TODO]] [[home]] {not: [[query]]}}}}
-    - #Personal
+    - [[Personal]]
         - {{[[query]]: {and: [[TODO]] [[Personal]] {not: [[query]]}}}}
-- #DONE
-- #[[Quick Capture]]
+- [[DONE]]
+- [[Quick Capture]]
     - Memory Captures 
         - Negatives
             - Memory captures is not worth so much of time. I am working 8 hours per week on admin + 40 full time work + 10-20 in different jobs for memory captures. Stocking, making fliers, training, being a memoryist, dropping off checks.
@@ -27,8 +27,8 @@
         - What are the conditions for me to stay?
             - That I don't have to spend over 48 hrs/week on this. I would have to quit [[Keypath]] to achieve this.
             - That 
-- #[[Literature Notes]]
-- #Reflection
+- [[Literature Notes]]
+- [[Reflection]]
     - [[What did I learn]]
     - [[What went well?]]
     - [[What could be better?]]

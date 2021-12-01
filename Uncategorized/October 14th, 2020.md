@@ -1,42 +1,42 @@
 - ## Daily:: 
-- #Spheres 
-    - ### #Keypath
+- [[Spheres]] 
+    - ### [[Keypath]]
         - **Timesheets**
-            - {{[[DONE]]}}  Go through and tag WD requests for log hours
+            - [x]  Go through and tag WD requests for log hours
         - **Flowchart1**
-            - {{[[DONE]]}} Record all answers on the page
-            - {{[[DONE]]}} Add an incorrect answer style for when something is downloaded
-            - {{[[DONE]]}} Be able to change your mind on an answer
-            - {{[[DONE]]}} Submit button appears on multiple choice
-            - {{[[DONE]]}} Display arrows on the solutions
+            - [x] Record all answers on the page
+            - [x] Add an incorrect answer style for when something is downloaded
+            - [x] Be able to change your mind on an answer
+            - [x] Submit button appears on multiple choice
+            - [x] Display arrows on the solutions
         - **Dolly Caching**
-            - {{[[DONE]]}} Apply hotfix dolly
-            - {{[[DONE]]}} Create PR, tag dave
-    - ### #[[Memory Captures]]
-        - {{[[DONE]]}} Update spreadsheet
-        - {{[[DONE]]}} Higher filter ad for applicants. #[[Memory Captures]] [[October 15th, 2020]]
-        - {{[[DONE]]}} Talk to Rohit
-        - {{[[DONE]]}} Pay me the $240
-        - Spheres #[[Memory Captures]]
-            - {{[[DONE]]}} Look over supervisor sphere #[[Memory Captures]]
-            - {{[[DONE]]}} Finish stocking sphere #[[Memory Captures]]
-    - ### #Other
-    - ### #Personal
-        - {{[[TODO]]}} Investigate persisting login
+            - [x] Apply hotfix dolly
+            - [x] Create PR, tag dave
+    - ### [[Memory Captures]]
+        - [x] Update spreadsheet
+        - [x] Higher filter ad for applicants. [[Memory Captures]] [[October 15th, 2020]]
+        - [x] Talk to Rohit
+        - [x] Pay me the $240
+        - Spheres [[Memory Captures]]
+            - [x] Look over supervisor sphere [[Memory Captures]]
+            - [x] Finish stocking sphere [[Memory Captures]]
+    - ### [[Other]]
+    - ### [[Personal]]
+        - [ ] Investigate persisting login
             - {{[[POMO]]: 25}}
             - {{[[POMO]]: 25}}
 - ## 
-    - {{[[DONE]]}} buy britta ultramax filters #home
-    - {{[[DONE]]}} Buy Coffee
-    - {{[[DONE]]}} Pay Raj #[[Memory Captures]]
+    - [x] buy britta ultramax filters [[home]]
+    - [x] Buy Coffee
+    - [x] Pay Raj [[Memory Captures]]
         - We can pay Raj the difference today 1,200
-    - {{[[DONE]]}} Go to T-mobile #Keypath
-    - {{[[DONE]]}} Group arrows in a single substep
-    - {{[[DONE]]}} make sure submit button appears on textarea
+    - [x] Go to T-mobile [[Keypath]]
+    - [x] Group arrows in a single substep
+    - [x] make sure submit button appears on textarea
         - {{[[POMO]]: 25}} 
-    - {{[[DONE]]}} Send Mike a topic about the conference
-        - {{[[DONE]]}} Setup Dolly and Gizmo again
-- ## #[[Quick Capture]]
+    - [x] Send Mike a topic about the conference
+        - [x] Setup Dolly and Gizmo again
+- ## [[Quick Capture]]
     - On [[market urbanism]]
         - Guess that the closes city in the US for this is Houston 
             - ![](https://preview.redd.it/7hqlyd78fws51.jpg?width=1024&auto=webp&s=4b524e655f284c2bf402fb316ed0b9bf6b83c48a)
@@ -54,7 +54,7 @@
                 - Spreading out amongst multiple domains that are seldom combined and going deep into them makes you much more valuable. Finance + Computer Science, etc.
                 - [[Winning even if you fail]]
                     - Take on projects that will provide skills that transcend the life of a project.
-                        - #[[Memory Captures]] plays that role for me. Learning how to manage and create systems, business processesses, management, product architecture, etc. 
+                        - [[Memory Captures]] plays that role for me. Learning how to manage and create systems, business processesses, management, product architecture, etc. 
                         - Do not siloh out your projects
                             - Make career decisions that allows you to be flexible, but do gain domain knowledge of a few key specific areas which will bring benefit into the future.
     - **[[Roam]] Office Hours**
@@ -81,7 +81,7 @@
                 - **easy to verify, hard to compute**
             - Computer science assumes that np problems cannot be computed in polynomial time. $$p \neq np$$ meaning that making a problem easy to verify does not mean that it is easy to compute.
                 - this has not been proven but would have massive implications if it was disproven
-- ## #[[Literature Notes]]
+- ## [[Literature Notes]]
     - [[Tim Ferris]] on being a [[specialized]] [[generalist]]
         - Source:: [Youtube](https://www.youtube.com/watch?v=wCPbPMRNnvk&t=195s)
         - To be in the top of a highly specialized field, you need to have very refined and specialized knowledge in there, and there is a fraction of a percent chance to get to that point.
@@ -89,7 +89,7 @@
                 - Spreading out amongst multiple domains that are seldom combined and going deep into them makes you much more valuable. Finance + Computer Science, etc.
                 - [[Winning even if you fail]]
                     - Take on projects that will provide skills that transcend the life of a project.
-                        - #[[Memory Captures]] plays that role for me. Learning how to manage and create systems, business processesses, management, product architecture, etc. 
+                        - [[Memory Captures]] plays that role for me. Learning how to manage and create systems, business processesses, management, product architecture, etc. 
                         - Do not siloh out your projects
                             - Make career decisions that allows you to be flexible, but do gain domain knowledge of a few key specific areas which will bring benefit into the future.
         - Being the best at something takes a life to achieve. Specially, in really narrow domains, pattern recognition becomes crucial. Many people did achieve excellence by narrowing down an indefinite rabbit hole like chess, high jump, violin, and other such areas. 
@@ -103,7 +103,7 @@
         - Being able to combine different areas (distinct domains) of knowledge is an incredibly valuable tool, and a necessary one for today's massively interconnected world. 
             - When we are flooded with an infinite amount of information that is accessible with absolutely minimal effort in our part, our job is to become a filter. It might have been true at some point that you could acquire enough information to be the best informed person in the room. Today, everyone can aquire the same amunt of information, as that process has been offloaded to our tiny turing machines hat we take everywhere in our pockets.
                 - The synthesis of data, and the drawing of new connections seems to me more valuable than adding more information into the mix. 
-- ## #Reflection
+- ## [[Reflection]]
     - [[What did I learn]]
         - about the $$ p=np $$ problem
     - [[What went well?]]

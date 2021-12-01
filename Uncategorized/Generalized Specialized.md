@@ -37,6 +37,6 @@
                 - Who are your contemporaries
                     - Who would you wish to collaborate with outside your field?
                 - How did you get the idea or calling to this
-- #Project
+- [[Project]]
     - **Write[[A Generalist Manifesto]]**
-        - {{[[TODO]]}} Research specialization and generalization
+        - [ ] Research specialization and generalization

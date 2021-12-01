@@ -1,25 +1,25 @@
 - Template Today [[roam/templates]]
-    - #[[Gratitude List]] 
-    - #Spheres 
-        - #Keypath
+    - [[Gratitude List]] 
+    - [[Spheres]] 
+        - [[Keypath]]
             - **BUECS-1676**
-                - {{[[DONE]]}} Subscribe to updates when changing
-                - {{[[DONE]]}} count times submitted
+                - [x] Subscribe to updates when changing
+                - [x] count times submitted
                 - View
-                    - {{[[DONE]]}} render tables 
-                    - {{[[DONE]]}} track answer input
-                    - {{[[DONE]]}} check answers on the table
-                    - {{[[DONE]]}} reset incorrect answers
-                    - {{[[DONE]]}} Display show correct answer buttons after 2 incorrect submissions
+                    - [x] render tables 
+                    - [x] track answer input
+                    - [x] check answers on the table
+                    - [x] reset incorrect answers
+                    - [x] Display show correct answer buttons after 2 incorrect submissions
             - {{[[query]]: {and: [[TODO]] [[Keypath]] {not: {or: [[query]][[Memory Captures]][[Other]][[Personal]]}}}}}
-        - #[[Memory Captures]]
-            - {{[[TODO]]}} Write a blog post about my decision to leave.
+        - [[Memory Captures]]
+            - [ ] Write a blog post about my decision to leave.
             - {{[[query]]: {and: [[TODO]] [[Memory Captures]] {not: {or: [[query]][[Keypath]][[Other]][[Personal]]}}}}}
-        - #Other
+        - [[Other]]
             - {{[[query]]: {and: [[TODO]] [[Other]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Personal]]}}}}}
-        - #Personal
+        - [[Personal]]
             - {{[[query]]: {and: [[TODO]] [[Personal]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}
-    - #[[Quick Capture]]
+    - [[Quick Capture]]
         - Tweet of David Bowie on the [[internet]]
             - https://twitter.com/RitaPanahi/status/1321940556575051777
             - The implications of the internet seemed to have been understood from its early inception, but what is interesting is his take on its role for revealing the fragmentation in society.
@@ -33,7 +33,7 @@
             - I was not passionate about the product. 
                 - I felt ok about it but not great
             - What do I want to spend my time on?
-        - Hey.com #[[Generalized Specialized]] #Topic #[[design thinking]]
+        - Hey.com [[Generalized Specialized]] [[Topic]] [[design thinking]]
             - https://www.youtube.com/watch?v=UCeYTysLyGI
             - I think it is a great tool for reframing how we approach a problem which we previously had a tunnel vision for. 
             - As a designer, this is an amazing tool and case study in rethinking the approach to something
@@ -46,7 +46,7 @@
                 - Get feedback
                 - Core Ideas
                     - Surfacing, not digging
-        - Francis Miller on Organizing Knowledge #[[interviewee]] #[[Generalized Specialized]]
+        - Francis Miller on Organizing Knowledge [[interviewee]] [[Generalized Specialized]]
             - https://www.francismiller.com/organising_knowledge_paper.pdf
             - Knowledge stems from a structure that has to be communicated, usually this is done through text.
                 - Knowledge is also structured in a hierarchal manner
@@ -95,11 +95,11 @@
         - https://fizzle.co/sparkline/generalist
             - You have to put in the work that it takes to become a specialist, not just drop the ball whenever something gets boring
                 - Being a generalist sounds more appealing, because the first 20 hours are the easiest and most exciting to learn
-    - #[[Literature Notes]]
+    - [[Literature Notes]]
         - Courtland Allen and Indie Hackers is really systematizing my approach to thinking about problem solving in a way that is economically viable. Business startups are simply people that are trying to tap into a market trend and do the work to ride that. It definitely takes a lot of work, perseverence and determination to get to the point where you have a successful venture, but the steps to get there are not necessarily cryptic or hidden. 
             - Validating your idea comes first. Without this step, it can be an extremely tedious process that turns out to be a total lack of time. The opportunity costs of not taking this step must be considered. 
             - 
-    - #Reflection
+    - [[Reflection]]
         - [[What did I learn]]
             - About francis miller and looking at the fractal organizing in the timeless way of building
         - [[What went well?]]
