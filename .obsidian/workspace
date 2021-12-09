@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b96ffb70693e187f",
+        "id": "6c64537940197d9a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Uncategorized/BookApp.md",
+            "file": "Optimistic Rollup.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "MVP",
+                "query": "velocity",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,11 +52,12 @@
             "id": "9ad0c3b6b17dae9a",
             "type": "leaf",
             "state": {
-              "type": "starred",
+              "type": "empty",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -74,13 +75,47 @@
             "id": "97e64fb599004a22",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "be96cf421113ccd2",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
               "state": {
-                "file": "Uncategorized/BookApp.md"
+                "file": "Optimistic Rollup.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.30170522647425607,
+                  "close": false
+                }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "07b6a9a23d65615c",
@@ -92,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uncategorized/BookApp.md",
+                "file": "Optimistic Rollup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,45 +137,24 @@
                 "unlinkedCollapsed": false
               }
             }
-          },
-          {
-            "id": "48d1e6c2efc884d1",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "ef9a68be7d7df5f9",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Uncategorized/BookApp.md"
-              }
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 459
+    "width": 557
   },
-  "active": "b96ffb70693e187f",
+  "active": "6c64537940197d9a",
   "lastOpenFiles": [
-    "Uncategorized/BookApp.md",
-    "Uncategorized/Book.md",
-    "Memory Captures.md",
-    "November 3rd, 2020.md",
+    "Optimistic Rollup.md",
+    "Blockchain/Polygon Nightfall.md",
+    "New Models for Utility Tokens.md",
+    "The Imposter's Handbook.md",
+    "Hash Table.md",
+    "table.md",
+    "Complexity.md",
+    "Systems Thinking/Engineering a Safer World.md",
     "Systems Thinking.md",
-    "Uncategorized/Buckminster Fuller Everything I Know.md",
-    "Uncategorized/Buckminster Fuller.md",
-    "Uncategorized/Ch1 - Traditional vs Experimental Education.md",
-    "Uncategorized/Ch5 the Nature of Freedom.md",
-    "Uncategorized/AWS EC2.md"
+    "What is Complexity?.md"
   ]
 }
