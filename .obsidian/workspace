@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Uncategorized/BookApp.md",
+            "file": "Blockchain/Endgame.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uncategorized/BookApp.md"
+                "file": "Blockchain/Endgame.md"
               }
             }
           }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uncategorized/BookApp.md",
+                "file": "Blockchain/Endgame.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uncategorized/BookApp.md"
+                "file": "Blockchain/Endgame.md"
               }
             }
           }
@@ -132,15 +132,15 @@
   },
   "active": "b96ffb70693e187f",
   "lastOpenFiles": [
-    "Uncategorized/BookApp.md",
-    "Uncategorized/Book.md",
-    "Memory Captures.md",
-    "November 3rd, 2020.md",
-    "Systems Thinking.md",
+    "Blockchain/Endgame.md",
+    "blockchain.md",
     "Uncategorized/Buckminster Fuller Everything I Know.md",
+    "Distributed Ontological Frontline.md",
+    "Uncategorized/Cody Wilson.md",
+    "Uncategorized/Distributed Ontological Frontline.md",
+    "Uncategorized/Social Cost to Rights.md",
+    "Uncategorized/Untitled 1.md",
     "Uncategorized/Buckminster Fuller.md",
-    "Uncategorized/Ch1 - Traditional vs Experimental Education.md",
-    "Uncategorized/Ch5 the Nature of Freedom.md",
-    "Uncategorized/AWS EC2.md"
+    "Uncategorized/BookApp.md"
   ]
 }

@@ -1,4 +1,5 @@
 {
+  "obsidianCss": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "Uncategorized",
   "vimMode": true,
@@ -17,7 +18,9 @@
     "instagram",
     "MemoryCaptures",
     "hacky",
-    "synergetic"
+    "synergetic",
+    "blockchain",
+    "rollups"
   ],
   "attachmentFolderPath": "Assets",
   "enabledPlugins": []
