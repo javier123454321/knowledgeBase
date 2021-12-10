@@ -10,7 +10,7 @@
         - [[Hash Table]]
             - Combines [[Linked List]] and [[Arrays]]
             - Computes an integer by hashing the content to an index
-                - This can cause collisions which have to be accounted for can make it not the best any more. You can store an array in a given key or create a link to another hash table
+                - This can cause collisions which have to be accounted for can make it not the best any more. You can store an array in a given key or create a link to another [[Hash Table]]
             - This index is the bucket which it will be retrieved from.
         - [[Tree]]
             - Similar to a [[Linked List]]
