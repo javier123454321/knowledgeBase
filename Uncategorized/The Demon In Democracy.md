@@ -2,7 +2,7 @@
 - Type:: [[Book]]
 - Author:: [[Ryszard Legutko]]
 - Subject:: [[Politics]] [[communism]] 
-- Status:: [[finished]] [[In Progress]]
+- Status:: [[In Progress]]
 - Abstract::
     - The concept of the book is an attempt to answer the question of why is it that after the fall of the soviet union and its influence in poland, the people that were most able to quickly adapt to the new Liberal Democratic State were the hardcore communists. Logically, if these two systems were so opposed to one another, you would expect a divergence between the two camps, but it tuns out the opposite was true. What is at the root of this?
 - Summary::
@@ -13,12 +13,12 @@
             - Totalitarian and absolute concepts are dangerous because of this. [[communism]] is an epitome of this example.
     - 2. History
         - [[communism]] on History
-            - Communism has a view of history that posits communism not as a possibility but an inevitability. This concept was hailed by Engels in a speech given at Marx's funeral that says that like Darwin discovered the laws of nature, so had Marx discovered the laws of history. Karl Popper then argued that history did not fall into the purvue of an object of scientific inquiry (based n his falsifyability principle) so this is not only logically faulty, but presented a danger towards totalitarianism and political violence.
+            - Communism has a view of history that posits communism not as a possibility but an inevitability. This concept was hailed by Engels in a speech given at Marx's funeral that says that like Darwin discovered the laws of nature, so had Marx discovered the laws of history. [[Karl Popper]] then argued that history did not fall into the purview of an object of scientific inquiry (based on his [[falsifiability principle]]) so this is not only logically faulty, but presented a danger towards totalitarianism and political violence.
             - Te second point is that those that are most aware of the historical road to communism will be the ones that will bring it forward. Of course the proletariat, but also the intellectual class and the students during the revolution
             - The third point is about the very abstract idea that the history and process of humanity was towards full self consciousness as described by German metaphysics
         - Liberalism on History
             - Liberalism does not have a singular point that converges into a person responsible for the ideas espoused within it, but it does have a bent towards liberty and its struggle with authority.
-                - Whereas communism spoke about the end of alienation, the recouperation of labor time and leisure within society at the victory of the proletariat over the burgeoise, liberalism's future - when freedoms trumps over authority - was one of a peaceful cooperation between warring countries over fair markets.
+                - Whereas communism spoke about the end of alienation, the recuperation of labor time and leisure within society at the victory of the proletariat over the bourgeoisie, liberalism's future - when freedoms trumps over authority - was one of a peaceful cooperation between warring countries over fair markets.
                 - Liberalism also depended on the growth of the individuals within its structure, a tendency towards enlightened absolutism to achieve its outcome. A self actualization like the one of communism and requires a growth of the individuals to achieve its inevitable conclusion. 
 - Grokked::
 - Quotes::

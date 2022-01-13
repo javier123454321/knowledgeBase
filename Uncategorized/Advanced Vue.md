@@ -15,7 +15,7 @@
                 - in vue you actually just manipulate the state directly `state.x = newX`
                     - This is because Vue uses the [Object.defineProperty](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperty) function to react to getters and setters
         - Object.defineProperty
-            - ```javascript
+ ```javascript
 Object.defineProperty(obj, 'foo', {
   enumerable: false, //will not show up in object.keys
   configurable: false, //Cannot be changed

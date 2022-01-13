@@ -23,5 +23,7 @@
     "rollups"
   ],
   "attachmentFolderPath": "Assets",
-  "enabledPlugins": []
+  "enabledPlugins": [],
+  "legacyEditor": false,
+  "livePreview": true
 }

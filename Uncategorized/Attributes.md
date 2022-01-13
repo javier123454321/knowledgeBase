@@ -1,9 +1,0 @@
-- [[consumer to producer]][[roam/templates]]
-    - Type:: [[Book]] [[Podcast]] [[Lecture]] [[Video]]
-    - Source:: 
-    - Author:: 
-    - Subject::
-    - Status:: [[finished]] [[In Progress]] [[want to read]]
-    - Abstract::
-    - Summary::
-    - Grokked::

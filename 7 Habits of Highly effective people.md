@@ -1,11 +1,11 @@
 - Type:: [[Book]]
 - Author:: [[Steven Covey]]
 - Subject:: [[Leadership]] [[Self-development]]
-- Status:: [[In Progress]]
+- Status:: [[Finished]]
 - Abstract::
 - Summary::
     - Habit 3 put first things first
-        - Schedule yyour priorities. When making a schedule, don't just put what you are working on now, your time will get filled by unimportant things, do this work first.
+        - Schedule your priorities. When making a schedule, don't just put what you are working on now, your time will get filled by unimportant things, do this work first.
         - This habit is about not being trapped into a sequence of urgent but unimportant tasks.
         - Delegating simple tasks is one way of doing things. Telling people exactly what to do
             - A producer (Individual contributor) gets a 1 to 1 ratio of effort to result. To be more effective, you need to delegate to multiply the effort to result ratio.

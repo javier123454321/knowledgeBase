@@ -1,16 +1,18 @@
 {
   "main": {
-    "id": "4c61682ed78f9675",
+    "id": "7caa23147833c4aa",
     "type": "split",
     "children": [
       {
-        "id": "6c64537940197d9a",
+        "id": "6dff69033c4881c3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Optimistic Rollup.md",
-            "mode": "source"
+            "file": "Uncategorized/01-13-2022.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
           }
         }
       }
@@ -18,15 +20,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "67a451d5e54f4a67",
+    "id": "8cc8c646911c00d1",
     "type": "split",
     "children": [
       {
-        "id": "bc669ecdb03e5a2f",
+        "id": "1b1593bf521f5db3",
         "type": "tabs",
         "children": [
           {
-            "id": "c2800b8f438d5537",
+            "id": "175bdd2526f1f4c0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,13 +36,13 @@
             }
           },
           {
-            "id": "76a9f357ff0a4298",
+            "id": "d807c939db6fd015",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "velocity",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -49,46 +51,34 @@
             }
           },
           {
-            "id": "9ad0c3b6b17dae9a",
+            "id": "fb0690786c2ac0e3",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "starred",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 230
   },
   "right": {
-    "id": "3f612cc652d84f6e",
+    "id": "6a9d79232943e3ae",
     "type": "split",
     "children": [
       {
-        "id": "ffd4782b9fc37245",
+        "id": "9f358e17cf14cd77",
         "type": "tabs",
         "children": [
           {
-            "id": "97e64fb599004a22",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "be96cf421113ccd2",
+            "id": "7f92b72f22ca075f",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-<<<<<<< HEAD
-                "file": "Blockchain/Endgame.md"
-=======
-                "file": "Optimistic Rollup.md",
+                "file": "Uncategorized/01-13-2022.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -99,56 +89,49 @@
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": true,
+                  "collapse-color-groups": false,
                   "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
+                  "collapse-display": false,
+                  "showArrow": true,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
+                  "collapse-forces": false,
+                  "centerStrength": 0,
+                  "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.30170522647425607,
-                  "close": false
+                  "scale": 0.6676102016682816,
+                  "close": true
                 }
->>>>>>> 2be47130ed419fe4ef0a3d509fe3d2886e72146d
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "07b6a9a23d65615c",
+        "id": "39c9276db616dda4",
         "type": "tabs",
         "children": [
           {
-            "id": "cd4c4f8b8e047694",
+            "id": "b7e10cc71b90e51b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Blockchain/Endgame.md",
-=======
-                "file": "Optimistic Rollup.md",
->>>>>>> 2be47130ed419fe4ef0a3d509fe3d2886e72146d
+                "file": "Uncategorized/01-13-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
-<<<<<<< HEAD
           },
           {
-            "id": "48d1e6c2efc884d1",
+            "id": "e2aba8b62501f6e6",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -159,47 +142,32 @@
             }
           },
           {
-            "id": "ef9a68be7d7df5f9",
+            "id": "67130bc0ff008a88",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blockchain/Endgame.md"
+                "file": "Uncategorized/01-13-2022.md"
               }
             }
-=======
->>>>>>> 2be47130ed419fe4ef0a3d509fe3d2886e72146d
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 557
+    "width": 274
   },
-  "active": "6c64537940197d9a",
+  "active": "6dff69033c4881c3",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "Blockchain/Endgame.md",
-    "blockchain.md",
-    "Uncategorized/Buckminster Fuller Everything I Know.md",
-    "Distributed Ontological Frontline.md",
-    "Uncategorized/Cody Wilson.md",
-    "Uncategorized/Distributed Ontological Frontline.md",
-    "Uncategorized/Social Cost to Rights.md",
-    "Uncategorized/Untitled 1.md",
-    "Uncategorized/Buckminster Fuller.md",
-    "Uncategorized/BookApp.md"
-=======
-    "Optimistic Rollup.md",
+    "Uncategorized/01-13-2022.md",
+    "Templates/Sleep Log.md",
+    "Templates/Daily Log.md",
+    "Templates/Producer.md",
+    "[[interval]]:1.0.md",
+    "Uncategorized/Untitled 2.md",
     "Blockchain/Polygon Nightfall.md",
-    "New Models for Utility Tokens.md",
-    "The Imposter's Handbook.md",
-    "Hash Table.md",
-    "table.md",
-    "Complexity.md",
-    "Systems Thinking/Engineering a Safer World.md",
-    "Systems Thinking.md",
-    "What is Complexity?.md"
->>>>>>> 2be47130ed419fe4ef0a3d509fe3d2886e72146d
+    "Blockchain/Endgame.md",
+    "Blockchain/Cosmos.md",
+    "Daily Notes/2020-10-08.md"
   ]
 }
