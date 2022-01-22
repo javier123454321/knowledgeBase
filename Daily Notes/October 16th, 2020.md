@@ -1,5 +1,5 @@
 - [[Spheres]] 
-    - ((Xi9tRzeil))
+    - [[Keypath]]
         - **Flowchart1**
             - [x] click handler close modal
         - **Dolly Caching**
@@ -9,7 +9,7 @@
             - [x] Create graphics in Illustrator 
             - [x] Toggle modal windows
             - [x] Record modal anwers
-    - 
+    - [[Memory Captures]]
         - Design Revamp marketing page [[Memory Captures]]
             - Landing Page]([[MC landing page]]):  [[Memory Captures]] [[October 23rd, 2020]]
                 - [x] Above the fold
@@ -109,7 +109,7 @@
                             - When you consume content highlight the words or ideas that come out, then label the ones that seem like they could become a tool
                             - How to consume effectively:
                                 - pay attention to the genealogy of ideas, where the author got the idea from
-                                    - Watching a movie takes away the entire [[mental model]] that you had when reading the book
+                                    - Watching a movie takes away the entire mental model that you had when reading the book
                                         - Reading an author's interpretation does the same
                                 - Collect the quotes which stand out
                         - ### Focus on reflection

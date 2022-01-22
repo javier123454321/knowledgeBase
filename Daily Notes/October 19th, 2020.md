@@ -32,7 +32,7 @@
 - ## [[Quick Capture]]
     - [[E-Learning]]
         - https://www.nytimes.com/2020/06/13/health/school-learning-online-education.html
-        - It seems that the main issue in online learning based on this [[Article]], is that students tend to become disengaged when participating in online learning experiences. 
+        - It seems that the main issue in online learning based on this article, is that students tend to become disengaged when participating in online learning experiences. 
             - Michigan Virtual
                 - Blended classroom approach to learn. Finds that AP students perform above average with the blended mode of education. 
         - https://www.worldbank.org/en/news/immersive-story/2019/01/22/pass-or-fail-how-can-the-world-do-its-homework
@@ -64,4 +64,5 @@
 - ## [[Literature Notes]]
 - ## [[Reflection]]
     - [[What did I learn]]
+    - [[What went well?]]
     - [[What could be better?]]

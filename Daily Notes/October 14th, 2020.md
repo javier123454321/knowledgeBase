@@ -1,6 +1,6 @@
 - ## Daily:: 
 - [[Spheres]] 
-    - ### ((Xi9tRzeil))
+    - ### [[Keypath]]
         - **Timesheets**
             - [x]  Go through and tag WD requests for log hours
         - **Flowchart1**
@@ -12,7 +12,7 @@
         - **Dolly Caching**
             - [x] Apply hotfix dolly
             - [x] Create PR, tag dave
-    - ### 
+    - ### [[Memory Captures]]
         - [x] Update spreadsheet
         - [x] Higher filter ad for applicants. [[Memory Captures]] [[October 15th, 2020]]
         - [x] Talk to Rohit
@@ -20,8 +20,8 @@
         - Spheres [[Memory Captures]]
             - [x] Look over supervisor sphere [[Memory Captures]]
             - [x] Finish stocking sphere [[Memory Captures]]
-    - ### ((hHMD2Ogvn))
-    - ### ((HMLVXjHjS))
+    - ### [[Other]]
+    - ### [[Personal]]
         - [ ] Investigate persisting login
             - {{[[POMO]]: 25}}
             - {{[[POMO]]: 25}}
@@ -69,8 +69,8 @@
             - `#` are used in terms of categories outside the flow of writing.
         - Blocks are first class citizens in [[Roam]], where the idea lives as an atomic unit. This is perfect for cross referencing, analyzing, and drawing on connections.
         - **At what point does it make sense to write inside a page vs a daily note?**
-            - Err in the side of tagging a lot, write abut it in daily notes. Tag in anticipation of an [[Article]] that you want to write
-                - When you are ready to start working on a longer project, [[Article]], summary etc, you can make a webpage. You can alias a block reference that expands as you hover over it. [1](((K-Sq3VvxE)))
+            - Err in the side of tagging a lot, write abut it in daily notes. Tag in anticipation of an article that you want to write
+                - When you are ready to start working on a longer project, article, summary etc, you can make a webpage. You can alias a block reference that expands as you hover over it. [1](((K-Sq3VvxE)))
     - podcast with John Aronson and Sean Caroll
         - complexoty in regards to computational efficiency
         - [[$$p = np$$]]

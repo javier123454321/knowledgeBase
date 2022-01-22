@@ -1,5 +1,5 @@
 - [[Spheres]] 
-    - ((Xi9tRzeil))
+    - [[Keypath]]
         - **Flowchart1**
             - [x] Scroll back to page position
         - **Dolly Caching**
@@ -9,7 +9,7 @@
             - [x] Create graphics in Illustrator 
             - [x] Toggle modal windows
             - [x] Record modal anwers
-    - 
+    - [[Memory Captures]]
         - [x] Higher filter ad for applicants. [[Memory Captures]] [[October 15th, 2020]]
             - Focus on sales.
             - Process for hiring needs to be longer
@@ -19,8 +19,8 @@
         - Spheres [[Memory Captures]]
             - [x] Look over supervisor sphere [[Memory Captures]]
             - [x] Finish stocking sphere [[Memory Captures]]
-    - ((hHMD2Ogvn))
-    - ((HMLVXjHjS))
+    - [[Other]]
+    - [[Personal]]
 - 
     - [x] Add an incorrect answer style for when something is downloaded
         - Start-Time:: 16:27

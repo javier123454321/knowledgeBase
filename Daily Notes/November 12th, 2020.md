@@ -2,20 +2,20 @@
     - My beautiful wife
     - 
 - [[Spheres]] 
-    - ((Xi9tRzeil))
-        - ((QwPupcFjJ))
-    - 
+    - [[Keypath]]
+        - {{[[query]]: {and: [[TODO]] [[Keypath]] {not: {or: [[query]][[Memory Captures]][[Other]][[Personal]]}}}}}
+    - [[Memory Captures]]
         - {{[[query]]: {and: [[TODO]] [[Memory Captures]] {not: {or: [[query]][[Keypath]][[Other]][[Personal]]}}}}}
-    - ((hHMD2Ogvn))
-        - ((CSUm1w5UL))
+    - [[Other]]
+        - {{[[query]]: {and: [[TODO]] [[Other]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Personal]]}}}}}
     - [[Personal]]
-        - [x] ver lo de la sat
+        - [ ] ver lo de la sat
         - [x] change check rent 
         - [x] Check in about christmas with dad
         - [x] car thing
-        - ((5KykXME9J))
-    - ((9ybJrrke0))
-        - {{[[query]]: {and: [[TODO]] [[Valorize]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}
+        - {{[[query]]: {and: [[TODO]] [[Personal]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}
+    - [[Generalized Specialized]]
+        - {{[[query]]: {and: [[TODO]] [[Generalized Specialized]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}
 - [[Quick Capture]]
 - [[Literature Notes]]
 - [[Reflection]]

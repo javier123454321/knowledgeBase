@@ -9,7 +9,7 @@
             - Yet we have the capacity to grow and understand ourselves and the universe, and a drive to do it
             - Has had to figure out how to do anything entirely by its own accord
             - With very limited information, it has exclusively used its faculties to derive useful knowledge
-        - Today we are experiencng an accelerated accumulation of information
+        - Today we are experiencing an accelerated accumulation of information
             - Chemistry has gone from hundreds of thousands of distinct chemical substances known, to millions to tens of millions in a single lifetime
                 - This acceleration that is unprecedented suggests that we are at the cusp of a new relationship with the universe
                     - A new awakening
@@ -54,12 +54,12 @@
         - Synergy
             - Behaviors of the whole system that cannot be explained by understanding the distinct parts
                 -   All great generalized principles discovered by science are generalized principles not discovered by looking at the distinct domain
-                - A generalized principle is one in which no exception has been found to the mathematics of the principle
+                - A generalized principle is one in which no exception has been found to the mathematics of the principle ^generalized-principles
                     - Each special case is finite and brain looks for the start and the end of these principles
                         - Generalized principles, are actually eternal, the relationships are the potential for interactions not the finite interactions themselves
                         - If you become familiar with the library of documented generalized principles, you cannot help but be amazed at the fact that they are interaccomodating and regular, being that they all operate in a synchronized interdependent way
             - Design is commonly understood as something in which the parts are independently working cohesively towards a goal
-                - Discovering the[ generalized principles](((EWwfvVmJq))) of the universe is a process of discovering the a priori design of the universe. 
+                - Discovering the [generalized principles](Systems%20Thinking/Buckminster%20Fuller%20Everything%20I%20Know.md#^generalized-principles) of the universe is a process of discovering the a priori design of the universe. 
                 - The human mind has glimpses into the "design" of the universe
                     - Generalized principles, are actually eternal, the relationships are the potential for interactions not the finite interactions themselves
                         - There is no generalized principle that you can point to that is a special case. It is a potential and a relationship, but it does not exist per se. 
@@ -74,7 +74,7 @@
                         - The universe itself is synergetic 
                             - Something is synergizing from generalized principles
         - Triangles
-            - triangles are synergetic systems. Each individual part does not give you any type of accurate description of the behavior of the whole, but understanding the whole, and some of the parts you can derive precise understanding of the unknown parts. [*](((OzfjEYoGj))) {{[[r/moved]]}}
+            - triangles are synergetic systems. Each individual part does not give you any type of accurate description of the behavior of the whole, but understanding the whole, and some of the parts you can derive precise understanding of the unknown parts. 
         - Understanding comes from experience, not from theories about the world
             - If you can derive an experiential model of the world (as opposed to a theoretical one) you can arrive at better tools for understanding existence
                 - When you use words like "universe" you should define it in terms that correlate with experience

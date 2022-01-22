@@ -1,5 +1,5 @@
 - [[Spheres]] 
-    - ((Xi9tRzeil))
+    - [[Keypath]]
         - **Flowchart1**
             - [x] click handler close modal
         - **Dolly Caching**
@@ -9,7 +9,7 @@
             - [x] Create graphics in Illustrator 
             - [x] Toggle modal windows
             - [x] Record modal anwers
-    - 
+    - [[Memory Captures]]
         - [x] Talk to Rohit
         - [x] Review Curriculum [[Memory Captures]]
         - Design Revamp marketing page [[Memory Captures]]
@@ -28,8 +28,8 @@
         - Spheres [[Memory Captures]]
             - [x] Look over supervisor sphere [[Memory Captures]]
             - [x] Finish stocking sphere [[Memory Captures]]
-    - ((hHMD2Ogvn))
-    - ((HMLVXjHjS))
+    - [[Other]]
+    - [[Personal]]
         - [ ] Investigate persisting login  site]]
 - 
     - 
@@ -40,4 +40,5 @@
 - ## [[Literature Notes]]
 - ## [[Reflection]]
     - [[What did I learn]]
+    - [[What went well?]]
     - [[What could be better?]]

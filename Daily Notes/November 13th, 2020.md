@@ -1,5 +1,7 @@
 - Summary:: {{[[∆]]:15+2}}
     - Summary::[*](((AnO2Fn6en))) {{[[r/moved]]}}
+- [[Gratitude List]] 
+    - 
 - [[Spheres]] 
     - [[Keypath]]
         - {{[[query]]: {and: [[TODO]] [[Keypath]] {not: {or: [[query]][[Memory Captures]][[Other]][[Personal]]}}}}}
@@ -17,4 +19,5 @@
 - [[Literature Notes]]
 - [[Reflection]]
     - [[What did I learn]]
+    - [[What went well?]]
     - [[What could be better?]]

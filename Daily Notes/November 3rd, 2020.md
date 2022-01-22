@@ -18,7 +18,7 @@
         - We don't have that, even if we have the most access in the history of ever to facts about our precise observations about the world
         - Our premises are incorrect
     - Suburban rents are rising, city rents are falling
-        - https://www.bloomberg.com/news/[[Article]]s/2020-10-30/where-rents-are-falling-and-where-they-are-rising?srnd=citylab
+        - https://www.bloomberg.com/news/articles/2020-10-30/where-rents-are-falling-and-where-they-are-rising?srnd=citylab
     - Vinay Gupta on Mattereum
         - Extremely ambitious system thinking approach to solving the problem of the influx of the urban poor into the middle class that is expected in the next 30 years
             - The communication problem of this
@@ -27,5 +27,6 @@
 - [[Literature Notes]]
 - [[Reflection]]
     - [[What did I learn]]
+    - [[What went well?]]
     - [[What could be better?]]
 - 

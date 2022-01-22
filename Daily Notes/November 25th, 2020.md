@@ -1,4 +1,5 @@
 - prestige centrality {{[[r/moved]]}}[*](((1xBvoXNYf)))
+- [[Gratitude List]] 
 - [[Spheres]] 
     - [[Keypath]]
         - {{[[query]]: {and: [[TODO]] [[Keypath]] {not: {or: [[query]][[Memory Captures]][[Other]][[Personal]]}}}}}
@@ -29,4 +30,5 @@
 - [[Literature Notes]]
 - [[Reflection]]
     - [[What did I learn]]
+    - [[What went well?]]
     - [[What could be better?]]

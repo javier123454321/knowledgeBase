@@ -1,5 +1,5 @@
 - Centrality tells us the measure of signigificance in a node in a network  {{[[∆]]:3+2}}
-- 
+- [[Gratitude List]] 
 - [[Spheres]] 
     - [[Keypath]]
         - {{[[query]]: {and: [[TODO]] [[Keypath]] {not: {or: [[query]][[Memory Captures]][[Other]][[Personal]]}}}}}

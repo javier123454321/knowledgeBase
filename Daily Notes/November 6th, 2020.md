@@ -1,3 +1,5 @@
+- [[Gratitude List]] 
+    - 
 - [[Spheres]] 
     - [[Keypath]]
         - [x] Talk to reinhardt about the red letters, the side labels and the responsiveness
@@ -28,5 +30,6 @@
 - [[Literature Notes]]
 - [[Reflection]]
     - [[What did I learn]]
+    - [[What went well?]]
     - [[What could be better?]]
 - 

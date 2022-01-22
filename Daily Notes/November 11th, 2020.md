@@ -1,3 +1,4 @@
+- [[Gratitude List]] 
 - [[Spheres]] 
     - [[Keypath]]
         - [x] set auto reply for email
@@ -14,4 +15,5 @@
 - [[Literature Notes]]
 - [[Reflection]]
     - [[What did I learn]]
+    - [[What went well?]]
     - [[What could be better?]]

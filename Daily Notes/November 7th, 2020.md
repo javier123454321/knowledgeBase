@@ -1,5 +1,6 @@
 - triangles are synergetic systems. Each individual part does not give you any type of accurate description of the behavior of the whole, but understanding the whole, and some of the parts you can derive precise understanding of the unknown parts.  {{[[∆]]:1+2}}
 - We learn based on the progressive revealing of our environment in a natural setting. We understand the world through navigating and interacting with it. The educator starts when the expansion of our world leaves off and tries to amplify this widening of horizons beyond our current environment {{[[∆]]:1+2}}
+- [[Gratitude List]] 
 - [[Spheres]] 
     - [[Keypath]]
         - {{[[query]]: {and: [[TODO]] [[Keypath]] {not: {or: [[query]][[Memory Captures]][[Other]][[Personal]]}}}}}
@@ -17,4 +18,5 @@
 - [[Literature Notes]]
 - [[Reflection]]
     - [[What did I learn]]
+    - [[What went well?]]
     - [[What could be better?]]

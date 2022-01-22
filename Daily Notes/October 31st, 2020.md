@@ -69,10 +69,11 @@
         ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FJavier-knowledge-graph%2F7EbRBoXaBO.png?alt=media&token=70d70a26-bfa2-4102-8097-b1d891c80859)
         The idea is to invent a medium that has an idea about learning embedded into it necessarily
             - A form that is derived out of observation of the world
-            - People struggle to absorb new material when their working memory is already overloaded [( 1 )](https://www.ncbi.nlm.nih.gov/pmc/[[Article]]s/PMC4207727)
+            - People struggle to absorb new material when their working memory is already overloaded [( 1 )](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4207727)
                 - Cannot expect a flurry of terms to be introduced, then to synthesize complex ideas about those terms in the same sentence
     - My 
 - [[Literature Notes]]
 - [[Reflection]]
     - [[What did I learn]]
+    - [[What went well?]]
     - [[What could be better?]]

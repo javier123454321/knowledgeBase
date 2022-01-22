@@ -1,7 +1,7 @@
 - Template Today [[roam/templates]]
     - [[Gratitude List]] 
     - [[Spheres]] 
-        - ((Xi9tRzeil))
+        - [[Keypath]]
             - **BUECS-1676**
                 - [x] Subscribe to updates when changing
                 - [x] count times submitted
@@ -11,14 +11,14 @@
                     - [x] check answers on the table
                     - [x] reset incorrect answers
                     - [x] Display show correct answer buttons after 2 incorrect submissions
-            - ((QwPupcFjJ))
-        - 
+            - {{[[query]]: {and: [[TODO]] [[Keypath]] {not: {or: [[query]][[Memory Captures]][[Other]][[Personal]]}}}}}
+        - [[Memory Captures]]
             - [ ] Write a blog post about my decision to leave.
             - {{[[query]]: {and: [[TODO]] [[Memory Captures]] {not: {or: [[query]][[Keypath]][[Other]][[Personal]]}}}}}
-        - ((hHMD2Ogvn))
-            - ((CSUm1w5UL))
-        - ((HMLVXjHjS))
-            - ((5KykXME9J))
+        - [[Other]]
+            - {{[[query]]: {and: [[TODO]] [[Other]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Personal]]}}}}}
+        - [[Personal]]
+            - {{[[query]]: {and: [[TODO]] [[Personal]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}
     - [[Quick Capture]]
         - Tweet of David Bowie on the [[internet]]
             - https://twitter.com/RitaPanahi/status/1321940556575051777
@@ -71,7 +71,7 @@
                     - Summary maps need to be distinct, and provided at each step
             - Multi level content
                 - Provides another distinction, relation between the constituents parts (and the different levels) goes from 2d to 3d
-        - [[Courtland Allen]]'s validation checklist
+        - Courtland Allen's validation checklist
             - [Youtube](https://www.youtube.com/watch?v=51yiBYHj1oE)
             - Questions to ask yourself about a new product
                 - Am I going to be excited about this in the future
@@ -98,6 +98,7 @@
     - [[Literature Notes]]
         - Courtland Allen and Indie Hackers is really systematizing my approach to thinking about problem solving in a way that is economically viable. Business startups are simply people that are trying to tap into a market trend and do the work to ride that. It definitely takes a lot of work, perseverence and determination to get to the point where you have a successful venture, but the steps to get there are not necessarily cryptic or hidden. 
             - Validating your idea comes first. Without this step, it can be an extremely tedious process that turns out to be a total lack of time. The opportunity costs of not taking this step must be considered. 
+            - 
     - [[Reflection]]
         - [[What did I learn]]
             - About francis miller and looking at the fractal organizing in the timeless way of building

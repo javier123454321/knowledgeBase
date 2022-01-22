@@ -21,6 +21,7 @@
 - [[Literature Notes]]
 - [[Reflection]]
     - [[What did I learn]]
+    - [[What went well?]]
     - [[What could be better?]]
 - [[Quick Capture]]
     - the slip box is designed to be indeterminate

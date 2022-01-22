@@ -1,6 +1,4 @@
-- [[Gratitude List]] 
-    - Amazing experiences growing up
-- [[Spheres]]
+
     - [[Keypath]]
         - **BUECS-1676**
             - [x] import rxjs
@@ -69,7 +67,7 @@
                 - Do 12 interactions with your desired fanbase every day for 90 days
                 - producing content that is educational, desireable, interesting, and fun
     - Forte Labs home
-        - following up on the fact [[Architecture]] is not as efficient as tech [[startups]] at changing the world
+        - following up on the fact [[Architecture]] is not as efficient as tech startups at changing the world
             - Architecture, however, when productized into an abstract object looses the situational appeal that appears when designing something perfect for the landscape.
             - Architets usually take the site as the starting point,, and having a product that can adopt to any site would mean having a product that is different for each site. duh
                 - This would mean that every piece of architecture would be unique, so you loose every economy of scale that was possible before.
@@ -90,4 +88,5 @@
 - [[Literature Notes]]
 - [[Reflection]]
     - [[What did I learn]]
+    - [[What went well?]]
     - [[What could be better?]]

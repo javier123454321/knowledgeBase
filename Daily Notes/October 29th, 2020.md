@@ -33,11 +33,12 @@
         - Tools by developers for developers, look at the bootstrap community, there is not much of a connection between people that are in that space and those outside
         - It's an interesting self referential cycle. and an impressive thing that capitalism is able to do through carving out new markets.
     - Glen Greenwald quits the intercept and goes full time on Substack
-        - [[[Article]] here](https://greenwald.substack.com/p/emails-with-intercept-editors-showing)
+        - [article here](https://greenwald.substack.com/p/emails-with-intercept-editors-showing)
         - Tweet by Rich Harris of Svelte
             - https://twitter.com/Rich_Harris/status/1321995507670130688
         - I guess that his position is one of a free speech absolutist
 - [[Literature Notes]]
 - [[Reflection]]
     - [[What did I learn]]
+    - [[What went well?]]
     - [[What could be better?]]

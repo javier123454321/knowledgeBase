@@ -3,7 +3,7 @@
     - Enough resources to get anything that I need
     - That I am in a job where I am learning new things every day
 - [[Spheres]] 
-    - ((Xi9tRzeil))
+    - [[Keypath]]
         - **BUECS-1676**
             - [x] import rxjs
                 - {{[[POMO]]: 25}}
@@ -35,8 +35,8 @@
                 - [x] Render red certain cells
                 - [x] Submit when render all answers
                 - [x] import correct values from json file
-        - ((QwPupcFjJ))
-    - 
+        - {{[[query]]: {and: [[TODO]] [[Keypath]] {not: {or: [[query]][[Memory Captures]][[Other]][[Personal]]}}}}}
+    - [[Memory Captures]]
         - Claim Page
             - [x] above the fold
             - [x] display picture / share
@@ -44,12 +44,12 @@
             - [ ] Populate the search bar from home page
             - [x] Sign up form modal for Newsletter on load
         - {{[[query]]: {and: [[TODO]] [[Memory Captures]] {not: {or: [[query]][[Keypath]][[Other]][[Personal]]}}}}}
-    - ((hHMD2Ogvn))
-        - ((CSUm1w5UL))
-    - ((HMLVXjHjS))
-        - ((5KykXME9J))
-    - ((9ybJrrke0))
-        - {{[[query]]: {and: [[TODO]] [[Valorize]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}
+    - [[Other]]
+        - {{[[query]]: {and: [[TODO]] [[Other]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Personal]]}}}}}
+    - [[Personal]]
+        - {{[[query]]: {and: [[TODO]] [[Personal]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}
+    - [[Generalized Specialized]]
+        - {{[[query]]: {and: [[TODO]] [[Generalized Specialized]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}
 - [[Quick Capture]]
 - [[Literature Notes]]
 - [[Reflection]]

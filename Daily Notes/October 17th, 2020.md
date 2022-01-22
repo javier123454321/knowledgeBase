@@ -1,5 +1,5 @@
 - [[Spheres]] 
-    - ((Xi9tRzeil))
+    - [[Keypath]]
         - **Flowchart1**
             - [x] click handler close modal
         - **Dolly Caching**
@@ -9,7 +9,7 @@
             - [x] Create graphics in Illustrator 
             - [x] Toggle modal windows
             - [x] Record modal anwers
-    - 
+    - [[Memory Captures]]
         - Design Revamp marketing page [[Memory Captures]]
             - Landing Page]([[MC landing page]]):  [[Memory Captures]] [[October 23rd, 2020]]
                 - [x] Footer
@@ -21,8 +21,8 @@
         - Spheres [[Memory Captures]]
             - [x] Look over supervisor sphere [[Memory Captures]]
             - [x] Finish stocking sphere [[Memory Captures]]
-    - ((hHMD2Ogvn))
-    - ((HMLVXjHjS))
+    - [[Other]]
+    - [[Personal]]
         - [ ] Investigate persisting login  site]]
 - 
     - [x] Numbers section
