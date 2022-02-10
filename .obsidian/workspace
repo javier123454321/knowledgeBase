@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Optimistic Rollup.md",
-            "mode": "source"
+            "file": "OperatingSystems/Virtualization.md",
+            "mode": "preview"
           }
         }
       }
@@ -49,15 +49,14 @@
             }
           },
           {
-            "id": "9ad0c3b6b17dae9a",
+            "id": "8d40b026aa517048",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "starred",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -72,20 +71,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "97e64fb599004a22",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "be96cf421113ccd2",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Optimistic Rollup.md",
+                "file": "OperatingSystems/Virtualization.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -113,9 +104,29 @@
                 }
               }
             }
+          },
+          {
+            "id": "00e80c854c4ac99f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "38cb1f4e6697afa2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "OperatingSystems/Virtualization.md"
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "07b6a9a23d65615c",
@@ -127,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Optimistic Rollup.md",
+                "file": "OperatingSystems/Virtualization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,15 +157,15 @@
   },
   "active": "6c64537940197d9a",
   "lastOpenFiles": [
+    "OperatingSystems/Virtualization.md",
+    "pipelines/SoftwareDevelopmentLifecycle.md",
+    "pipelines/CI-CD.md",
+    "Systems Thinking/Buckminster Fuller Everything I Know.md",
+    "Proof of Stake.md",
+    "Messari Cypto Report.md",
     "Optimistic Rollup.md",
     "Blockchain/Polygon Nightfall.md",
     "New Models for Utility Tokens.md",
-    "The Imposter's Handbook.md",
-    "Hash Table.md",
-    "table.md",
-    "Complexity.md",
-    "Systems Thinking/Engineering a Safer World.md",
-    "Systems Thinking.md",
-    "What is Complexity?.md"
+    "The Imposter's Handbook.md"
   ]
 }
