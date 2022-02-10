@@ -25,10 +25,12 @@ Docker Containers use the necessary memory to run their programs.
 Provides a consistent computing environment.
 
 Docker does not use the guest OS, but the host.
-
+```
 Host > Docker Engine - Container 1 with Binaries
-		\
+				\
 		Container 2 with Binaries
+
+```
 
 ### Docker Images
 A read only template used to create containers

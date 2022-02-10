@@ -215,7 +215,6 @@
         - we can also create an index for our permanent notes, but we should be thinking of it sparsely. The overview of the slib box is impossible to maintain in working memory.
 the goal of the index is to draw one or two topics maximum to the idea talked about in  the slip box
 relations between notes are more favorable to relations from index to notes
-
         - every attempt at creating an overview is also treated as a note and is subject to change
             - there is no primacy when considering the ontology of an overview note, the overview is still seen as a distinct idea.
             - this is thinking in terms of fractals where the whole and the details have the same importance

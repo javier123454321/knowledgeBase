@@ -57,7 +57,7 @@ int main(int argc, char *argv[]) {
 hello, I am parent of 29147 (pid:29146)
 hello, I am child (pid:29147)
                 - 29146 created a fork with an equivalent pid. this doesn't start running at `main()` but at the `fork()` function on line 7
-                    - The child isn't an exact copy, it has a copy of the address space (it's own virtual machine) but the return value is different
+                    - The child isn't an exact copy, it has a copy of the address space (it's own [virtual machine](virtual%20machine.md)) but the return value is different
                         - It is non-deterministic, a CPU scheduler is in charge of deciding which process runs next
                             - Leads to problems in multi-threaded programs and is studied in relation to concurrency.
         - Using `wait()`

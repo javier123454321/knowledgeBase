@@ -18,8 +18,12 @@
     "instagram",
     "MemoryCaptures",
     "hacky",
-    "synergetic"
+    "synergetic",
+    "blockchain",
+    "rollups"
   ],
   "attachmentFolderPath": "Assets",
-  "enabledPlugins": []
+  "enabledPlugins": [],
+  "legacyEditor": false,
+  "livePreview": true
 }

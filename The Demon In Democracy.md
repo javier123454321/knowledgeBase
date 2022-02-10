@@ -1,4 +1,3 @@
-- 
 - Type:: [[Book]]
 - Author:: [[Ryszard Legutko]]
 - Subject:: [[Politics]] [[communism]] 
@@ -20,6 +19,12 @@
             - Liberalism does not have a singular point that converges into a person responsible for the ideas espoused within it, but it does have a bent towards liberty and its struggle with authority.
                 - Whereas communism spoke about the end of alienation, the recouperation of labor time and leisure within society at the victory of the proletariat over the burgeoise, liberalism's future - when freedoms trumps over authority - was one of a peaceful cooperation between warring countries over fair markets.
                 - Liberalism also depended on the growth of the individuals within its structure, a tendency towards enlightened absolutism to achieve its outcome. A self actualization like the one of communism and requires a growth of the individuals to achieve its inevitable conclusion. 
+		Conservative and Liberal approaches to historical progress
+			[[Ryszard Legutko]] talks about the difference between sort of naivety which a young person might have about history as opposed to an older person who is much less likely to want to throw away the old and start a new.  
+			A young person is enchanted by the possibilities and has a naive idea that the world is at a historical moment where a completely new way of doing things can be born. Meanwhile the older person might take an approach saying everything has been done before.  
+			Communism and liberalism both share and approach that there is an unbroken line towards progress and therefore have young Person's View.  
+			matches a lot with [Jordan Peterson](Jordan%20Peterson.md) thoughts about the danger of just destroying all of the hierarchy that we have developed over millennia.  
+			It also similar to the article on [Voluntary Governments](Voluntary%20Governments.md) because we want society to be slow at making progress by design as opposed to throw out all the progress that we've made for experiment that might turn negative. Communism is the greatest example of a failed experiment. So long as stakes are so high, there is no way of accelerating progress without risking too much.
 - Grokked::
 - Quotes::
     - Similarly, according to its followers can arise in the wake of liberal democracy, which, per a common though rarely explicitly articulated conviction, exhausted the process of political transformations.  if there is such an ability to hypothesize possible political arrangements, this cannot lead us, in the first case, beyond communism, or in the second, beyond liberal democracy. 

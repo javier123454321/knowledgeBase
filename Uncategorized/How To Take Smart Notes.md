@@ -216,9 +216,7 @@
 the goal of the index is to draw one or two topics maximum to the idea talked about in  the slip box
 relations between notes are more favorable to relations from index to notes
 
-        - every attempt at creating an overview is also treated as a note and is subject to change
-            - there is no primacy when considering the ontology of an overview note, the overview is still seen as a distinct idea.
-            - this is thinking in terms of fractals where the whole and the details have the same importance
+[Idea Development](Idea%20Development.md)
         - [[12.2 Make Smart Connections]]
             - Adding links to your notes works best if done in two directions
             - Drawing links between things will draw you attention connections that were not obvious prior
@@ -236,7 +234,7 @@ relations between notes are more favorable to relations from index to notes
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FJavier-knowledge-graph%2FIIC73f6PYi.png?alt=media&token=8935b531-b9b0-40ef-a0b9-5f3a8412892d)
                 - Finding out about the most important concepts in different fields and trying to integrate that into your thinking as a strategy for broadening your horizons.
                 - Facts are useful, but they require models for them to be meaningful.
-                    - Every model is necessarily a simplification of reality [[all models are wrong but some are useful]]
+                    - Every model is necessarily a simplification of reality [[[[all models are wrong but some are useful](Uncategorized/all%20models%20are%20wrong%20but%20some%20are%20useful.md)](Uncategorized/all%20models%20are%20wrong%20but%20some%20are%20useful.md)]]
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FJavier-knowledge-graph%2FlM6oGCsS-l.png?alt=media&token=93282105-93ed-46e6-9ca2-b812d757a9fd)
                 - [[John Dewey]] talks bout experience being the only way that learning actually happens in [[Experience and Education]]. This is a contradiction.
                     - Experience cannot be transferred from a person to another, but a model of the world can be communicated and applied towards new experiences. These models come from experience, and you can skip the mistakes by applying the derived model. 

@@ -50,7 +50,7 @@
         - Asignment Page
         - Cohort Page - General Discussion/ threads/ assignments/ Your status
 - [[MVP]]
-    - Launch by [[January 31st, 2021]]
+    - Launch by [[January 31st, 2021 1]]
     - I want to define the scope given by the deadline inspired by [[Michael Seibel]] - How to Plan an MVP 
-        - What is the minimum that I could roll out by the 31st Today being [[January 7th, 2021]]
+        - What is the minimum that I could roll out by the 31st Today being [[January 7th, 2021 1]]
         - You can sign up with a group of people to take "any course" together.

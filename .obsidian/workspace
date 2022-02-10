@@ -1,16 +1,18 @@
 {
   "main": {
-    "id": "4c61682ed78f9675",
+    "id": "7caa23147833c4aa",
     "type": "split",
     "children": [
       {
-        "id": "6c64537940197d9a",
+        "id": "3b16283017c0738c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "OperatingSystems/Virtualization.md",
-            "mode": "preview"
+            "file": "Uncategorized/NFT Token Drop Template.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
           }
         }
       }
@@ -18,15 +20,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "67a451d5e54f4a67",
+    "id": "8cc8c646911c00d1",
     "type": "split",
     "children": [
       {
-        "id": "bc669ecdb03e5a2f",
+        "id": "1b1593bf521f5db3",
         "type": "tabs",
         "children": [
           {
-            "id": "c2800b8f438d5537",
+            "id": "175bdd2526f1f4c0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,13 +36,13 @@
             }
           },
           {
-            "id": "76a9f357ff0a4298",
+            "id": "d807c939db6fd015",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "velocity",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -49,7 +51,7 @@
             }
           },
           {
-            "id": "8d40b026aa517048",
+            "id": "fb0690786c2ac0e3",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -60,23 +62,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 230
   },
   "right": {
-    "id": "3f612cc652d84f6e",
+    "id": "6a9d79232943e3ae",
     "type": "split",
     "children": [
       {
-        "id": "ffd4782b9fc37245",
+        "id": "9f358e17cf14cd77",
         "type": "tabs",
         "children": [
           {
-            "id": "be96cf421113ccd2",
+            "id": "7f92b72f22ca075f",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "OperatingSystems/Virtualization.md",
+                "file": "Uncategorized/NFT Token Drop Template.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -87,20 +89,20 @@
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": true,
+                  "collapse-color-groups": false,
                   "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
+                  "collapse-display": false,
+                  "showArrow": true,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
+                  "collapse-forces": false,
+                  "centerStrength": 0,
+                  "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.30170522647425607,
-                  "close": false
+                  "scale": 1.0108312672488757,
+                  "close": true
                 }
               }
             }
@@ -129,23 +131,44 @@
         ]
       },
       {
-        "id": "07b6a9a23d65615c",
+        "id": "39c9276db616dda4",
         "type": "tabs",
         "children": [
           {
-            "id": "cd4c4f8b8e047694",
+            "id": "b7e10cc71b90e51b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OperatingSystems/Virtualization.md",
+                "file": "Uncategorized/NFT Token Drop Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "e2aba8b62501f6e6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "67130bc0ff008a88",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Uncategorized/NFT Token Drop Template.md"
               }
             }
           }
@@ -153,19 +176,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 557
+    "width": 274
   },
-  "active": "6c64537940197d9a",
+  "active": "3b16283017c0738c",
   "lastOpenFiles": [
-    "OperatingSystems/Virtualization.md",
-    "pipelines/SoftwareDevelopmentLifecycle.md",
-    "pipelines/CI-CD.md",
-    "Systems Thinking/Buckminster Fuller Everything I Know.md",
-    "Proof of Stake.md",
-    "Messari Cypto Report.md",
-    "Optimistic Rollup.md",
-    "Blockchain/Polygon Nightfall.md",
-    "New Models for Utility Tokens.md",
-    "The Imposter's Handbook.md"
+    "Uncategorized/NFT Token Drop Template.md",
+    "Templates/Sleep Log.md",
+    "Sleep Log/01-17-2022.md",
+    "Sleep Log/01-18-2022.md",
+    "Robert Sapolsky.md",
+    "Rob Fitzpatrick.md",
+    "Sleep Log/01-16-2022.md",
+    "Uncategorized/Public Goods Game.md",
+    "Uncategorized/Uniswap Grant Application.md",
+    "Uncategorized/Order Without Design: How Markets Shape Cities.md"
   ]
 }

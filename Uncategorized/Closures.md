@@ -1,21 +1,22 @@
 - [[Javascript]] functions have access to the parent's variables and state. 
 - For example: 
-- ```javascript
-- let globalVariable = "Global Scope";
-- function grandparent(paramVariable){
-    - let grandparentVariable = "Grandparent Scope"; 
-    - //here we have access to globalVariable, paramVariable, and grandparentVariable   
-    - console.log(`\n=============================\ngrandparent Scope: \n${globalVariable} | ${paramVariable} | ${grandparentVariable} \n=============================\n\n`); 
-- }
-- grandparent("Parameter Variable");```
+```javascript
+ let globalVariable = "Global Scope";
+ function grandparent(paramVariable){
+     let grandparentVariable = "Grandparent Scope"; 
+     //here we have access to globalVariable, paramVariable, and grandparentVariable   
+     console.log(`\n=============================\ngrandparent Scope: \n${globalVariable} | ${paramVariable} | ${grandparentVariable} \n=============================\n\n`); 
+ }
+ grandparent("Parameter Variable");```
 - Output:
-    - ```javascript
+ ```javascript
 =============================
 grandparent Scope: 
 Global Scope | Parameter Variable | Grandparent Scope
-=============================```
+=============================
+```
 - if we add a function within the grandparentFunction, we could still access all the same variables
-- ```javascript
+```javascript
 let globalVariable = "Global Scope";
 function grandparent(paramVariable){
 	let grandparentVariable = "Grandparent Scope"; 
@@ -28,7 +29,7 @@ function grandparent(paramVariable){
 
 grandparent("Parameter Variable");```
 - Outputs:
-    - ```javascript
+```javascript
 let globalVariable = "Global Scope";
 function grandparent(paramVariable){
 	let grandparentVariable = "Grandparent Scope"; 
@@ -40,4 +41,4 @@ function grandparent(paramVariable){
 }
 
 grandparent("Parameter Variable");```
-        - Basically nothing changes, but the scope which is being used to call the function. 
+Basically nothing changes, but the scope which is being used to call the function. 
