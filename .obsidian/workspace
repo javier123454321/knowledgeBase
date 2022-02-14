@@ -1,34 +1,50 @@
 {
   "main": {
-    "id": "7caa23147833c4aa",
+    "id": "4c61682ed78f9675",
     "type": "split",
     "children": [
       {
-        "id": "3b16283017c0738c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Uncategorized/NFT Token Drop Template.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
+        "id": "6fc8faf2a9a02c6d",
+        "type": "split",
+        "children": [
+          {
+            "id": "6c64537940197d9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Uncategorized/A Hands-On Tutorial for Zero-Knowledge Proofs Part I.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "ee2d229f363538e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Uncategorized/A Hands-On Tutorial for Zero-Knowledge Proofs Part I.md",
+                "mode": "preview"
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "8cc8c646911c00d1",
+    "id": "67a451d5e54f4a67",
     "type": "split",
     "children": [
       {
-        "id": "1b1593bf521f5db3",
+        "id": "bc669ecdb03e5a2f",
         "type": "tabs",
         "children": [
           {
-            "id": "175bdd2526f1f4c0",
+            "id": "c2800b8f438d5537",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -36,13 +52,13 @@
             }
           },
           {
-            "id": "d807c939db6fd015",
+            "id": "76a9f357ff0a4298",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": true,
+                "query": "velocity",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -51,7 +67,7 @@
             }
           },
           {
-            "id": "fb0690786c2ac0e3",
+            "id": "8d40b026aa517048",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -62,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230
+    "width": 300
   },
   "right": {
-    "id": "6a9d79232943e3ae",
+    "id": "3f612cc652d84f6e",
     "type": "split",
     "children": [
       {
-        "id": "9f358e17cf14cd77",
+        "id": "ffd4782b9fc37245",
         "type": "tabs",
         "children": [
           {
-            "id": "7f92b72f22ca075f",
+            "id": "be96cf421113ccd2",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Uncategorized/NFT Token Drop Template.md",
+                "file": "Uncategorized/A Hands-On Tutorial for Zero-Knowledge Proofs Part I.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -89,20 +105,20 @@
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": false,
+                  "collapse-color-groups": true,
                   "colorGroups": [],
-                  "collapse-display": false,
-                  "showArrow": true,
+                  "collapse-display": true,
+                  "showArrow": false,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
-                  "collapse-forces": false,
-                  "centerStrength": 0,
-                  "repelStrength": 20,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.0108312672488757,
-                  "close": true
+                  "scale": 0.30170522647425607,
+                  "close": false
                 }
               }
             }
@@ -124,51 +140,30 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OperatingSystems/Virtualization.md"
+                "file": "Uncategorized/A Hands-On Tutorial for Zero-Knowledge Proofs Part I.md"
               }
             }
           }
         ]
       },
       {
-        "id": "39c9276db616dda4",
+        "id": "07b6a9a23d65615c",
         "type": "tabs",
         "children": [
           {
-            "id": "b7e10cc71b90e51b",
+            "id": "cd4c4f8b8e047694",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uncategorized/NFT Token Drop Template.md",
+                "file": "Uncategorized/A Hands-On Tutorial for Zero-Knowledge Proofs Part I.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "e2aba8b62501f6e6",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "67130bc0ff008a88",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Uncategorized/NFT Token Drop Template.md"
               }
             }
           }
@@ -176,19 +171,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274
+    "width": 557
   },
-  "active": "3b16283017c0738c",
+  "active": "6c64537940197d9a",
   "lastOpenFiles": [
-    "Uncategorized/NFT Token Drop Template.md",
-    "Templates/Sleep Log.md",
-    "Sleep Log/01-17-2022.md",
-    "Sleep Log/01-18-2022.md",
-    "Robert Sapolsky.md",
-    "Rob Fitzpatrick.md",
-    "Sleep Log/01-16-2022.md",
-    "Uncategorized/Public Goods Game.md",
-    "Uncategorized/Uniswap Grant Application.md",
-    "Uncategorized/Order Without Design: How Markets Shape Cities.md"
+    "Uncategorized/A Hands-On Tutorial for Zero-Knowledge Proofs Part I.md",
+    "Uncategorized/Zero Knowledge Proofs.md",
+    "OperatingSystems/Virtualization.md",
+    "pipelines/SoftwareDevelopmentLifecycle.md",
+    "pipelines/CI-CD.md",
+    "Systems Thinking/Buckminster Fuller Everything I Know.md",
+    "Proof of Stake.md",
+    "Messari Cypto Report.md",
+    "Optimistic Rollup.md",
+    "Blockchain/Polygon Nightfall.md"
   ]
 }

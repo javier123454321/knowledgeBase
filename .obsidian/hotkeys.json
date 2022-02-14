@@ -17,7 +17,16 @@
       "key": "_"
     }
   ],
-  "insert-template": [
+  "templater-obsidian:Templates/Producer.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ],
+  "templater-obsidian:insert-templater": [
     {
       "modifiers": [
         "Mod",
