@@ -18,8 +18,7 @@
                     - Warren Bennes from USC - managers do things right, leaders do the right thing
         - Kevin Cruz
             - Leadership is the exertion of social influence to achieve collective goals
-            - A leader understands the goals and motivations of the individuals in a group and motivates them towards a goal that seems to the individuals as working towards their own goals.
-                - working to the achievment of the influencers vision is seen as working towards their own
+[Leadership is aligning individual's goals with your own goals](Leadership%20is%20aligning%20individual's%20goals%20with%20your%20own%20goals.md)                - working to the achievment of the influencers vision is seen as working towards their own
                 - Social Influence is the ability to get a group of people 
                 - to have a general acceptance of a viewpoint
                     - the different between getting others to do something something vs  doing their very best at something.

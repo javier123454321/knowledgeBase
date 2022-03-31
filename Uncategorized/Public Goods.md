@@ -1,0 +1,3 @@
+Public Goods are considered market failures. It comes at the intersection of excludable vs non-excludable goods. Excludable goods are those that people that do not own one cannot access, handbags, cellphones, houses. Non-excludable are things that you cannot stop people from accessing. Things such as forests, oxygen, oceans. 
+https://www.youtube.com/watch?v=_G924JyWQ3g
+The Tragedy of the Commons is that left unchecked, people will deplete scarce resources if there is no one that experiences the economic consequence of its gradual depletion. this is traditionally mitigated through government intervention as well as non-profits. 

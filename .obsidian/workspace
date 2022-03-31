@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "3b16283017c0738c",
+        "id": "6776e58bcbf2da12",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Uncategorized/NFT Token Drop Template.md",
+            "file": "Uncategorized/Back to Token Voting Governance.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Back to Token",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +58,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -78,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Uncategorized/NFT Token Drop Template.md",
+                "file": "Uncategorized/Back to Token Voting Governance.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -119,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uncategorized/NFT Token Drop Template.md",
+                "file": "Uncategorized/Back to Token Voting Governance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uncategorized/NFT Token Drop Template.md"
+                "file": "Uncategorized/Back to Token Voting Governance.md"
               }
             }
           }
@@ -157,17 +158,17 @@
     "direction": "horizontal",
     "width": 274
   },
-  "active": "3b16283017c0738c",
+  "active": "6776e58bcbf2da12",
   "lastOpenFiles": [
-    "Uncategorized/NFT Token Drop Template.md",
-    "Templates/Sleep Log.md",
-    "Sleep Log/01-17-2022.md",
-    "Sleep Log/01-18-2022.md",
-    "Robert Sapolsky.md",
-    "Rob Fitzpatrick.md",
-    "Sleep Log/01-16-2022.md",
-    "Uncategorized/Public Goods Game.md",
-    "Uncategorized/Uniswap Grant Application.md",
-    "Uncategorized/Order Without Design: How Markets Shape Cities.md"
+    "Uncategorized/Back to Token Voting Governance.md",
+    "Uncategorized/Mathematics For Computer Science.md",
+    "Uncategorized/((EWwfvVmJq)).md",
+    "Buckminster Fuller Everything I Know.md",
+    "Systems Thinking/Buckminster Fuller Everything I Know.md",
+    "Uncategorized/Can China Rise Peacefully.md",
+    "Uncategorized/Moving beyond coin voting governance.md",
+    "Uncategorized/Are Blockchain Voters Dummies.md",
+    "governance.md",
+    "Engineering token economies for success.md"
   ]
 }
