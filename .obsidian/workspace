@@ -1,34 +1,50 @@
 {
   "main": {
-    "id": "7caa23147833c4aa",
+    "id": "4c61682ed78f9675",
     "type": "split",
     "children": [
       {
-        "id": "6776e58bcbf2da12",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Uncategorized/Back to Token Voting Governance.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
+        "id": "6fc8faf2a9a02c6d",
+        "type": "split",
+        "children": [
+          {
+            "id": "6c64537940197d9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Uncategorized/A Hands-On Tutorial for Zero-Knowledge Proofs Part I.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "ee2d229f363538e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Uncategorized/A Hands-On Tutorial for Zero-Knowledge Proofs Part I.md",
+                "mode": "preview"
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "8cc8c646911c00d1",
+    "id": "67a451d5e54f4a67",
     "type": "split",
     "children": [
       {
-        "id": "1b1593bf521f5db3",
+        "id": "bc669ecdb03e5a2f",
         "type": "tabs",
         "children": [
           {
-            "id": "175bdd2526f1f4c0",
+            "id": "c2800b8f438d5537",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -36,13 +52,13 @@
             }
           },
           {
-            "id": "d807c939db6fd015",
+            "id": "76a9f357ff0a4298",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "Back to Token",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -51,7 +67,7 @@
             }
           },
           {
-            "id": "fb0690786c2ac0e3",
+            "id": "8d40b026aa517048",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -63,18 +79,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230
+    "width": 300
   },
   "right": {
-    "id": "6a9d79232943e3ae",
+    "id": "3f612cc652d84f6e",
     "type": "split",
     "children": [
       {
-        "id": "9f358e17cf14cd77",
+        "id": "ffd4782b9fc37245",
         "type": "tabs",
         "children": [
           {
-            "id": "7f92b72f22ca075f",
+            "id": "be96cf421113ccd2",
             "type": "leaf",
             "state": {
               "type": "localgraph",
@@ -90,35 +106,29 @@
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": false,
+                  "collapse-color-groups": true,
                   "colorGroups": [],
-                  "collapse-display": false,
-                  "showArrow": true,
+                  "collapse-display": true,
+                  "showArrow": false,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
-                  "collapse-forces": false,
-                  "centerStrength": 0,
-                  "repelStrength": 20,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.0108312672488757,
-                  "close": true
+                  "scale": 0.21760887742553325,
+                  "close": false
                 }
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "39c9276db616dda4",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "b7e10cc71b90e51b",
+            "id": "00e80c854c4ac99f",
             "type": "leaf",
             "state": {
-              "type": "backlink",
+              "type": "tag",
               "state": {
                 "file": "Uncategorized/Back to Token Voting Governance.md",
                 "collapseAll": false,
@@ -132,21 +142,26 @@
             }
           },
           {
-            "id": "e2aba8b62501f6e6",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "67130bc0ff008a88",
+            "id": "38cb1f4e6697afa2",
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "Uncategorized/A Hands-On Tutorial for Zero-Knowledge Proofs Part I.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "07b6a9a23d65615c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd4c4f8b8e047694",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
               "state": {
                 "file": "Uncategorized/Back to Token Voting Governance.md"
               }
@@ -156,7 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274
+    "width": 557
   },
   "active": "6776e58bcbf2da12",
   "lastOpenFiles": [
